@@ -5,9 +5,7 @@ Pierwotnie pytania przygotowane zostały na podstawie publicznie dostępnych prz
 
 **Zapraszam do lektury oraz do współpracy!**
 
-## Pytania
-
-[Pytania PPL(A)](pytania.md)
+## [Pytania PPL(A)](pytania.md)
 
 ## Jak prawidłowo edytować plik [**pytania.md**](pytania.md)
 
@@ -18,11 +16,14 @@ Pierwotnie pytania przygotowane zostały na podstawie publicznie dostępnych prz
 * {ODPOWIEDŹ 2}
 * {ODPOWIEDŹ 3}
 * {ODPOWIEDŹ 4}
-> {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}
-> {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}
+> {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}  
+...
 > {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}
 {Pusta linia}
 ```
+
+* *Uwaga:* Jeżeli brak jest komentarza wiersze zaczynające się znakiem `>` nie mają prawa się pojawić.
+* *Uwaga druga:* Zaczynaj każdy wiersz komentarza od znaku `>`
 
 
 # Autor
