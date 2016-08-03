@@ -2853,6 +2853,10 @@ Oznacza to, że:`
 * 1,5 km
 * 3 km
 * 5 km
+> Aczkolwiek według poniższych danych słuszna wydaje się odpowiedź 1,5km
+> * http://calypteaviation.com/2014/10/minima-vfr-w-polsce-i-na-swiecie/
+> * http://dlapilota.pl/wiadomosci/prawo-krajowe/sera-czyli-porzadki-w-przepisach-ruchu-lotniczego-w-ue-wazna-data-4-grudnia
+> * [Załącznik 2 do Konwencji o międzynarodowym lotnictwie cywilnym](http://www.ulc.gov.pl/_download/prawo/prawo_miedzynarodowe/konwencje/Za%C5%82%C4%85cznik_2__ICAO_zm_44.pdf) [Tabela 3-1* Minima widzialności i odległości od chmur w VMC]
 
 ## Pytanie 408 [PL010-0515]
 `Lot VFR - spec dzienny statkiem powietrznym innym niż śmigłowiec może być wykonany, jeżeli pułap chmur nie jest mniejszy niż:`
@@ -14055,4 +14059,3 @@ poz. 1602
 * tylko w niebezpieczeństwie
 * uzyskania pisemnej zgody władz terenowych
 * uzyskania zgody władz lotniczych
-
