@@ -3583,6 +3583,8 @@ Oznacza to, że:`
 * wysokości bezwzględnej 1450 m
 * wysokości bezwzględnej 1550 m
 
+> [AIS VFR ENR 1.4.1 - Tabela poziomów przelotu](http://www.ais.pansa.pl/vfr/aippliki/EP_ENR_1_4_en.pdf)
+
 ## Pytanie 511 [PL020-0001]
 `Usterzenie ogonowe:`
 * **Zapewnia stateczność i sterowność podłużną oraz kierunkową**

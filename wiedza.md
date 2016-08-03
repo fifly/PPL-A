@@ -20,3 +20,6 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 * Lech Szutkowski: __Budowa i pilotaż samolotów lekkich.__ - seria szkoleniowa AVIA-TEST (1)
 * Lech Szutkowski: __Poradnik pilota samolotowego.__ - seria szkoleniowa AVIA-TEST (3)
 * Piotr Szewczak: __Meteorologia dla pilota samolotowego (PPL, CPL, ATPL, IR).__ - seria szkoleniowa AVIA-TEST (4)
+
+## Strony www
+* http://boruh.com.pl
