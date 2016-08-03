@@ -16,8 +16,9 @@ Pierwotnie pytania przygotowane zostały na podstawie publicznie dostępnych prz
 * {ODPOWIEDŹ 2}
 * {ODPOWIEDŹ 3}
 * {ODPOWIEDŹ 4}
+{Pusta linia}
 > {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}  
-...
+> {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}
 > {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}
 {Pusta linia}
 ```

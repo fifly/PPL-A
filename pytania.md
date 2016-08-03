@@ -2853,6 +2853,7 @@ Oznacza to, że:`
 * 1,5 km
 * 3 km
 * 5 km
+
 > Aczkolwiek według poniższych danych słuszna wydaje się odpowiedź 1,5km
 > * http://calypteaviation.com/2014/10/minima-vfr-w-polsce-i-na-swiecie/
 > * http://dlapilota.pl/wiadomosci/prawo-krajowe/sera-czyli-porzadki-w-przepisach-ruchu-lotniczego-w-ue-wazna-data-4-grudnia
