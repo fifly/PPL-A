@@ -6,6 +6,7 @@ Pierwotnie pytania przygotowane zostały na podstawie publicznie dostępnych prz
 **Zapraszam do lektury oraz do współpracy!**
 
 ## [Pytania PPL(A)](pytania.md)
+## [Gdzie szukać wiedzy?](wiedza.md)
 
 ## Jak prawidłowo edytować plik [**pytania.md**](pytania.md)
 
