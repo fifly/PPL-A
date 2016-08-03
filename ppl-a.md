@@ -1,4 +1,5 @@
-"ppl-a.csv"
+# Pytania do PPL(A) - Private Pilot License - ULC/LKE
+
 ## Pytanie 1 [PL100-0126]
 `Załoga statku powietrznego ma obowiązek zapinania wszystkich pasów bezpieczeństwa i uprzęży:`
 * **Do startu i lądowania oraz w sytuacjach kiedy dowódca statku powietrznego uzna to za konieczne.**
