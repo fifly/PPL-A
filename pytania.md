@@ -3336,7 +3336,7 @@ Oznacza to, że:`
 * 10 km
 * 6 km
 
-> AIP ENR 5.2.2
+> [AIP ENR 5.2.2](http://www.ais.pata.pl/aip/aippliki/EP_ENR_5_2_2_en.pdf)
 
 ## Pytanie 476 [PL010-0592]
 `Szkolenie lotnicze w organizacji prowadzącej szkolenie lotnicze niezarobkowo jest prowadzone:`
