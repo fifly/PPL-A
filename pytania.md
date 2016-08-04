@@ -13739,6 +13739,8 @@ sprawdzającą
 * nie składa.
 * składa meldunek ustny, jeśli statek powietrzny uległ jakiemukolwiek uszkodzeniu.
 
+> [AIP Polska ENR 1.14 punkt 2](http://ais.pansa.pl/aip/aippliki/EP_ENR_1_14_en.pdf)
+
 ## Pytanie 1948 [PL099-0052]
 `Podatność na zatrucie tlenkiem węgla z niesprawnej instalacji grzewczej:`
 * **rośnie z wysokością lotu**
