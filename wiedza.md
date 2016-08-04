@@ -12,8 +12,11 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
   * Ustawa o PAŻP i akty
 * Dzienniki Urzędowe ULC
 
-* AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication) - publikacje Służby Informacji Lotniczej (publikacje AIS - Aeronautical Information Service)
-  * http://www.ais.pata.pl/aip
+## AIS - Publikacje Służby Informacji Lotniczej  [Aeronautical Information Service]
+* AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication) -
+  * http://www.ais.pata.pl/aip (dostęp po darmowej rejestracji)
+* European AIS Database
+  * https://www.ead.eurocontrol.int/eadcms/eadsite/index.php.html (dostęp po darmowej rejestracji)
 
 
 ## Książki
