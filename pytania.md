@@ -13603,6 +13603,9 @@ sprawdzającą
 * Aneks 12
 * Aneks 14
 
+> * Konwencja o międzynarodowym lotnictwie cywilnym, podpisana w Chicago dnia 7 grudnia 1944 r. - Konwencja chicagowska (Dz. U z 1959 r. Nr 35, poz. 212, z późn. zm)
+>   * [Załącznik 13 – „Badanie wypadków i incydentów lotniczych”](http://www.ulc.gov.pl/_download/prawo/prawo_miedzynarodowe/konwencje/zal_13_0612.pdf)
+
 ## Pytanie 1929 [PL099-0033]
 `Lotniskowe pojazdy pożarnicze są malowane na kolor:`
 * **zielonożółty lub czerwony**
