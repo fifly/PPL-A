@@ -21,5 +21,9 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 * Lech Szutkowski: __Poradnik pilota samolotowego.__ - seria szkoleniowa AVIA-TEST (3)
 * Piotr Szewczak: __Meteorologia dla pilota samolotowego (PPL, CPL, ATPL, IR).__ - seria szkoleniowa AVIA-TEST (4)
 
-## Strony www
+## PAŻP
+Airspace Use Plan - Plan użytkowania polskiej przestrzeni powietrznej
+* Mapy: http://www.amc.pansa.pl/?menu_lewe=mapy&lang=_pl
+
+## Strony WWW
 * http://boruh.com.pl
