@@ -3067,6 +3067,8 @@ Oznacza to, że:`
 * Służbę meteorologiczną
 * Służbę poszukiwania i ratownictwa
 
+> Patrz komentarz do pytania [PL010-0541] (poniżej)
+
 ## Pytanie 430 [PL010-0541]
 `Oprócz służb ruchu lotniczego statkom powietrznym wykonującym loty w polskiej przestrzeni powietrznej zapewnia się:`
 * **Żadna z odpowiedzi nie jest poprawna**
