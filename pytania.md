@@ -35,6 +35,8 @@
 * Krzyżem maltańskim
 * Czerwonym krzyżem na białym tle.
 
+> **SAR** (Search and Resque)
+
 ## Pytanie 6 [PL100-0132]
 `Czy można wykonywać loty na statku powietrznym z napędem nad parkami narodowymi?`
 * **Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym**
@@ -133,12 +135,16 @@
 * wojskowa strefa kontrolowana lotniska
 * rejon lotów po obu stronach granicy państwa będący rejonem czasowo wydzielonym, ustanowionym ze względu na szczególne wymogi operacyjne
 
+> **ADIZ** (Air Defense Identyfication Zone) - strefa identyfikacji obrony powietrznej ustanowiona wzdłuż granicy z Rosją, Białorusią i Ukrainą w zakresie wysokości bez ograniczeń i o szerokości 15 km w głąb terytorium RP.
+
 ## Pytanie 20 [PL010-0015]
 `AMC jest to:`
 * **Ośrodek Zarządzania Przestrzenią Powietrzną**
 * Ośrodek Zarządzania Przepływem Ruchu Lotniczego
 * Zarządzanie ruchem lotniczym
 * Plan użytkowania przestrzeni powietrznej
+
+> **AMC** (Airspace Management Cell) – Ośrodek Zarządzania Przestrzenią Powietrzną Agencji Ruchu Lotniczego
 
 ## Pytanie 21 [PL010-0016]
 `ARP, wg ICAO, jest to:`
@@ -156,12 +162,16 @@
 * plan użytkowania przestrzeni powietrznej
 * rejon kontrolowany lotniska
 
+> ATM - Air Traffic Management
+
 ## Pytanie 23 [PL010-0018]
 `ATZ jest to:`
 * **strefa ruchu lotniskowego**
 * strefa identyfikacji obrony powietrznej
 * wojskowa strefa ruchu lotniskowego
 * obszar kontrolowany
+
+> ATZ - Aerodrome Traffic Zone
 
 ## Pytanie 24 [PL010-0019]
 `AUP jest to:`
@@ -170,12 +180,21 @@
 * Ośrodek Zarządzania Przestrzenią Powietrzną Agencji ruchu Lotniczego
 * Ośrodek Zarządzania Przepływem Ruchu Lotniczego
 
+> Airspace Use Plan - AUP
+>
+> Dzieli się na dwa rodzaje:
+> * AUP bieżący
+>   * http://www.amc.pansa.pl/generator_AUP.php
+> * AUP na jutro
+>   * http://www.amc.pansa.pl/generator_AUP.php?rodz=jutro
+>
+> Zobrazowany na mapie: http://www.amc.pansa.pl/?menu_lewe=mapy&lang=_pl
+
 ## Pytanie 25 [PL010-0020]
 `Badaniom lotniczo lekarskim podlegają:`
 * **Wszystkie odpowiedzi są prawidłowe**
 * Osoby ubiegające się o wydanie licencji członka personelu lotniczego
-* Osoby ubiegające się o wydanie
-świadectwa kwalifikacji
+* Osoby ubiegające się o wydanie świadectwa kwalifikacji
 * Osoby posiadające świadectwo kwalifikacji
 
 ## Pytanie 26 [PL010-0021]
@@ -185,6 +204,8 @@
 * strefa identyfikacji obrony powietrznej
 * wojskowa strefa ruchu lotniskowego
 
+> **CBA** (Cross-Border Area) - rejon lotów po obu stronach granicy państwa będący rejonem czasowo wydzielonym lub rezerwowanym, ustanowiony ze względu na szczególne wymogi operacyjne
+
 ## Pytanie 27 [PL010-0022]
 `CTA jest to:`
 * **obszar kontrolowany**
@@ -192,12 +213,16 @@
 * rejon lotów po obu stronach granicy państwa będący rejonem czasowo wydzielonym, ustanowionym ze względu na szczególne wymogi operacyjne
 * strefa kontrolowana lotniska
 
+> **CTA** (Control Area) - the airspace above a particular area on the ground, which is controlled by a particular authority.
+
 ## Pytanie 28 [PL010-0023]
 `CTR jest to:`
 * **strefa kontrolowana lotniska**
 * strefa identyfikacji obrony powietrznej
 * wojskowa strefa ruchu lotniskowego
 * rejon kontrolowany lotniska
+
+> **CTR** (Control Terminal Area/Control Zone) - **strefa** kontrolowania lotniska
 
 ## Pytanie 29 [PL010-0026]
 `Członek personelu lotniczego jest obowiązany powstrzymać się od wykonywania czynności lotniczych w przypadku gdy?`
@@ -956,12 +981,16 @@ Oznacza to, że:`
 * wojskowy obszar kontrolowany
 * wojskowa strefa kontrolowana lotniska
 
+> **MATZ (Military ATZ)** — wojskowa strefa ruchu lotniskowego
+
 ## Pytanie 137 [PL010-0158]
 `MRT jest to:`
 * **stała trasa lotnictwa wojskowego**
 * trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA
 * rejon kontrolowany lotniska
 * wojskowa strefa ruchu lotniskowego
+
+> **MRT (Military Route)** — stała trasa lotnictwa wojskowego
 
 ## Pytanie 138 [PL010-0159]
 `Na czym polega zarządzanie przepływem ruchu lotniczego?`
@@ -1124,12 +1153,16 @@ Oznacza to, że:`
 * strefa ruchu lotniskowego
 * rejon kontrolowany lotniska
 
+> **TFR (TSA or TRA Feeding Route)** – trasy lotnicze umożliwiające lot do strefy czasowo wydzielonej (TSA) lub strefy czasowo rezerwowanej (TRA) oraz przelot między strefą czasowo wydzieloną (TSA) lub strefą czasowo rezerwowaną (TRA)
+
 ## Pytanie 161 [PL010-0190]
 `TMA jest to:`
 * **rejon kontrolowany lotniska**
 * strefa identyfikacji obrony powietrznej
 * wojskowa strefa kontrolowana lotniska
 * strefa kontrolowana lotniska
+
+> **TMA (Terminal Control Area)** – rejon kontrolowany lotniska lub węzła lotnisk;
 
 ## Pytanie 162 [PL010-0191]
 `TRA jest to:`
@@ -1138,12 +1171,16 @@ Oznacza to, że:`
 * trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA
 * rejon kontrolowany lotniska
 
+> **TRA (Temporary Reserved Area)** – strefa czasowo rezerwowana
+
 ## Pytanie 163 [PL010-0192]
 `TSA jest to:`
 * **strefa czasowo wydzielona**
 * strefa czasowo rezerwowana
 * trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA
 * rejon kontrolowany lotniska
+
+> **TRA (Temporary Reserved Area)** - strefa czasowo wydzielona
 
 ## Pytanie 164 [PL010-0193]
 `W celu zapewnienia bezpieczeństwa lotu oraz bezpieczeństwa i porządku na pokładzie statku powietrznego, dowódca jest upoważniony do:`
@@ -1158,6 +1195,8 @@ Oznacza to, że:`
 * przestrzeń powietrzna klasy A, B, C, E, G.
 * przestrzeń powietrzna klasy C, F, G.
 * B, C, G i przestrzeń powietrzna niesklasyfikowana
+
+> Pionowy Podział Przestrzeni Powietrznej - https://www.youtube.com/watch?v=n76j6rBPq4I&feature=youtu.be
 
 ## Pytanie 166 [PL010-0195]
 `W jaki sposób odbywa się zarządzenie ruchem lotniczym?`
@@ -1888,6 +1927,8 @@ Oznacza to, że:`
 * rodzaj ograniczenia ATFM
 * procedura składania powtarzalnego planu lotu
 * skrót oznaczający "aerodrome flight information facility location"
+
+> **AFIL** – Flight plan filed in the air - plan lotu zgłoszony z powietrza
 
 ## Pytanie 270 [PL010-0359]
 `Bieżący plan lotu, czyli plan lotu wraz z ewentualnymi zmianami wynikającymi z kolejnych zezwoleń to:`
@@ -3032,6 +3073,36 @@ Oznacza to, że:`
 * Służbę alarmową
 * Służbę kontroli ruchu lotniczego
 * Służbę informacji powietrznej
+
+> **Prawo lotnicze - Stan prawny aktualny na dzień: 04.08.2016 - Dz.U.2016.0.605 t.j. - Ustawa z dnia 3 lipca 2002 r.**
+>
+> **Art. 120. Pr. Lot. - Lotniskowe organy służb ruchu lotniczego**
+>
+> 1. Polska przestrzeń powietrzna dostępna dla żeglugi powietrznej jest klasyfikowana zgodnie z przepisami prawa Unii Europejskiej w zakresie Jednolitej Europejskiej Przestrzeni Powietrznej, umowami i przepisami międzynarodowymi.
+> 2. W polskiej przestrzeni powietrznej działają instytucje zapewniające służby żeglugi powietrznej, a w wydzielonych częściach tej przestrzeni cywilne lub wojskowe lotniskowe organy służb ruchu lotniczego lub właściwe organy wojskowe.
+> 3. Instytucje zapewniające służby ruchu lotniczego tworzą cywilne lotniskowe organy służb ruchu lotniczego działające w przestrzeni kontrolowanej.
+> 4. Zarządzający lotniskiem zapewnia lotniskową służbę informacji powietrznej oraz dostępność służby meteorologicznej w przestrzeni niekontrolowanej przydzielonej danemu  lotnisku w trybie art. 121 realizacja zarządzania ruchem w polskiej przestrzeni powietrznej ust. 5 pkt 1.
+>   * W procesie certyfikacji lotniskowej służby informacji powietrznej potwierdzenie spełnienia przez nią wymagań ustalonych dla tej służby następuje przez złożenie oświadczenia o posiadaniu zdolności i środków umożliwiających wywiązanie się z obowiązków związanych z zapewnianą służbą, określonych w przepisach wydanych na podstawie art. 121 realizacja  zarządzania ruchem w polskiej przestrzeni powietrznej ust. 5a.
+>   * Prezes Urzędu, w ramach kontroli, o której mowa w art. 162 kontrole spełniania wymagań dla wydania i utrzymania ważności certyfikatu ust. 1, może przeprowadzić kontrolę  informacji wskazanych w oświadczeniu, o którym mowa w ust. 4a.
+> 5. Minister Obrony Narodowej tworzy wojskowe lotniskowe organy służb ruchu lotniczego działające w przestrzeni przydzielonej danemu lotnisku w trybie art. 121 realizacja zarządzania ruchem w polskiej przestrzeni powietrznej ust. 5 pkt 1.
+> 6. Minister Obrony Narodowej określi, w drodze zarządzenia, organizację i szczegółowe zasady funkcjonowania wojskowych lotniskowych organów służby ruchu lotniczego.
+
+> ----------
+> **ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 8 marca 2004 r. w sprawie podziału i szczegółowych zasad korzystania z polskiej przestrzeni powietrznej oraz sposobów współdziałania państwowego organu zarządzania ruchem lotniczym z cywilnymi i wojskowymi lotniskowymi organami służb ruchu lotniczego**
+>
+> **Rozdział 4**
+>
+> § 20
+>
+> 1. Służbę informacji powietrznej i alarmową w przestrzeni niekontrolowanej FIR Warszawa zapewnia właściwy organ służby informacji powietrznej, a w wyznaczonych częściach tej przestrzeni organ kontroli ruchu lotniczego, dysponujący odpowiednimi środkami technicznymi umożliwiającymi zapewnienie tych służb.
+> 2. Współpraca w zakresie służby informacji powietrznej, realizowana między cywilnymi i wojskowymi lotniskowymi organami służb ruchu lotniczego i komórkami organizacyjnymi Agencji Ruchu Lotniczego, polega na prowadzeniu bieżących uzgodnień dotyczących lotów cywilnych i wojskowych statków powietrznych między właściwymi organami FIS, ATC i AFIS i innymi lotniskowymi organami ATS, mającymi na celu zachowanie ciągłości w zapewnieniu właściwej służby ruchu lotniczego oraz usprawnienie ruchu lotniczego w niekontrolowanej przestrzeni powietrznej.
+> 3. Współpraca między cywilnymi i wojskowymi lotniskowymi organami służby ruchu lotniczego i komórkami organizacyjnymi Agencji Ruchu Lotniczego w zakresie pełnienia służby alarmowej polega na wymianie informacji o:
+>  * statku powietrznym potrzebującym pomocy;
+>  * incydencie lotniczym lub wypadku lotniczym.
+> 4. Współpraca cywilnych i wojskowych lotniskowych organów służb ruchu lotniczego z komórkami organizacyjnymi Agencji Ruchu Lotniczego realizowana jest w zakresie:
+>   * informowania lotniczych lub właściwych miejscowo służb ratowniczych;
+>   * informowania o incydencie lotniczym lub wypadku lotniczym RCC Warszawa bezpośrednio lub poprzez inny organ ATS;
+>   * ostrzegania, w razie konieczności, innych statków powietrznych znajdujących się w rejonie incydentu lotniczego lub wypadku lotniczego o możliwych zagrożeniach.
 
 ## Pytanie 431 [PL010-0542]
 `Orzeczenie lotniczo-lekarskie wydane dla osoby poniżej 40 roku życia w zakresie wymagań zdrowotnych dla Klasy 1 posiada ważność?`
