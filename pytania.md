@@ -2254,7 +2254,7 @@ Oznacza to, że:`
 
 > [ICAO Flightplan Form Basics - Crusing speed](http://files.eurofpl.eu/originalfpl/pdfs/EuroFPL-ICAO_Flightplan_Form_Basics-latest.pdf)
 >
-> True airspeed for the initial or whole cruise segment of the flight, indicated as:
+> True airspeed for the initial or whole cruise segment of the flight, indicated as:
 > * “N” for Knots, followed by a four-digit figure,
 > * “M” for Mach number followed by a three-digit representation of ratio,
 > * “K” for Kilometers/hour followed by a four-digit number
