@@ -2252,6 +2252,12 @@ Oznacza to, że:`
 * liczba Macha
 * metry na sekundę
 
+> [ICAO Flightplan Form Basics - Crusing speed](http://files.eurofpl.eu/originalfpl/pdfs/EuroFPL-ICAO_Flightplan_Form_Basics-latest.pdf)
+> True airspeed for the initial or whole cruise segment of the flight, indicated as:
+> * “N” for Knots, followed by a four-digit figure,
+> * “M” for Mach number followed by a three-digit representation of ratio,
+> * “K” for Kilometers/hour followed by a four-digit number
+
 ## Pytanie 322 [PL010-0416]
 `Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?`
 * **Dotyczące samolotów jednosilnikowych tłokowych lądowych**
