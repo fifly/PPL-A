@@ -2247,6 +2247,7 @@ Oznacza to, że:`
 
 > * [EP GEN 0.1 - punkt 3.1 - układ AIP Polska](http://www.ais.pata.pl/aip/aippliki/EP_GEN_0_1_en.pdf)
 > * [EP GEN 3.1 - punkt 2 - cykl AIRAC](http://www.ais.pata.pl/aip/aippliki/EP_GEN_3_1_en.pdf)
+> * [Informacja lotnicza, czyli co powinniście o niej wiedzieć](http://dlapilota.pl/wiadomosci/miroslaw-dejek/informacja-lotnicza-czyli-co-powinniscie-o-niej-wiedziec)
 
 ## Pytanie 321 [PL010-0414]
 `Jakie jednostki prędkości oznaczane są w planie lotu literą "N"?`
