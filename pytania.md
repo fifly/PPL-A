@@ -147,6 +147,8 @@
 * Współrzędne drogi startowej
 * Wysokość elewacji progu pasa startowego
 
+> **PUNKT ODNIESIENIA LOTNISKA (ARP - Aerodrome Reference Point)** - Punkt wyznaczony na środku dróg startowych lotniska lub na ich przecięciu. Posiada długość i szerokość geograficzną. Wyznacza położenie portu lotniczego.
+
 ## Pytanie 22 [PL010-0017]
 `ATM jest to:`
 * **zarządzanie ruchem lotniczym**
