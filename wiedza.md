@@ -26,4 +26,5 @@ Airspace Use Plan - Plan użytkowania polskiej przestrzeni powietrznej
 * Mapy: http://www.amc.pansa.pl/?menu_lewe=mapy&lang=_pl
 
 ## Strony WWW
-* http://boruh.com.pl
+* Strona z pytaniami w formie testów - http://boruh.com.pl
+* Lotniska dlaPilota.pl - http://lotniska.dlapilota.pl/
