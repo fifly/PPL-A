@@ -2245,8 +2245,8 @@ Oznacza to, że:`
 * tylko dotyczące rozdziału Tomu I-go
 * tylko dotyczące tomu II-go
 
-> * [AIP Polska GEN 0.1 - punkt 3.1 - układ AIP Polska](http://www.ais.pata.pl/aip/aippliki/EP_GEN_0_1_en.pdf)
-> * [AIP Polska GEN 3.1 - punkt 2 - cykl AIRAC](http://www.ais.pata.pl/aip/aippliki/EP_GEN_3_1_en.pdf)
+> * [AIP Polska, GEN 0.1 - punkt 3.1 - układ AIP Polska](http://www.ais.pata.pl/aip/aippliki/EP_GEN_0_1_en.pdf)
+> * [AIP Polska, GEN 3.1 - punkt 2 - cykl AIRAC](http://www.ais.pata.pl/aip/aippliki/EP_GEN_3_1_en.pdf)
 > * [Informacja lotnicza, czyli co powinniście o niej wiedzieć](http://dlapilota.pl/wiadomosci/miroslaw-dejek/informacja-lotnicza-czyli-co-powinniscie-o-niej-wiedziec)
 
 ## Pytanie 321 [PL010-0414]
@@ -9970,7 +9970,7 @@ EMERGENCY; 7700 - COMMUNICATION FAILURE
 * AD
 * RAC
 
-> [AIP Polska VFR GEN 3.2 - Wschód i zachód słońca](http://www.ais.pata.pl/vfr/aippliki/EP_GEN_3_2_en.pdf)
+> [AIP Polska, VFR GEN 3.2 - Wschód i zachód słońca](http://www.ais.pata.pl/vfr/aippliki/EP_GEN_3_2_en.pdf)
 
 ## Pytanie 1415 [PL060-0246]
 `Urządzeniem pokładowym współpracującym z radiolatarnią NDB jest:`
@@ -13739,7 +13739,8 @@ sprawdzającą
 * nie składa.
 * składa meldunek ustny, jeśli statek powietrzny uległ jakiemukolwiek uszkodzeniu.
 
-> [AIP Polska ENR 1.14 punkt 2](http://ais.pansa.pl/aip/aippliki/EP_ENR_1_14_en.pdf)
+> Składa się **Post Flight Report** dostępny we wszystkich Biurach Odpraw Załóg oraz na stronie www.ais.pansa.pl 
+> * [AIP Polska, ENR 1.14 punkt 2](http://ais.pansa.pl/aip/aippliki/EP_ENR_1_14_en.pdf)
 
 ## Pytanie 1948 [PL099-0052]
 `Podatność na zatrucie tlenkiem węgla z niesprawnej instalacji grzewczej:`
