@@ -3074,6 +3074,13 @@ Oznacza to, że:`
 * Służbę kontroli ruchu lotniczego
 * Służbę informacji powietrznej
 
+> **Polską przestrzeń powietrzną dostępną dla żeglugi powietrznej dzieli się na:**
+>
+> 1. przestrzeń kontrolowaną, w której zapewniana jest służba kontroli ruchu lotniczego oraz służby alarmowa i informacji powietrznej,
+> 2. przestrzeń niekontrolowaną, w której zapewniana jest służba alarmowa oraz służba informacji powietrznej.
+>
+> ----------
+>
 > **Prawo lotnicze - Stan prawny aktualny na dzień: 04.08.2016 - Dz.U.2016.0.605 t.j. - Ustawa z dnia 3 lipca 2002 r.**
 >
 > **Art. 120. Pr. Lot. - Lotniskowe organy służb ruchu lotniczego**
@@ -3086,8 +3093,9 @@ Oznacza to, że:`
 >   * Prezes Urzędu, w ramach kontroli, o której mowa w art. 162 kontrole spełniania wymagań dla wydania i utrzymania ważności certyfikatu ust. 1, może przeprowadzić kontrolę  informacji wskazanych w oświadczeniu, o którym mowa w ust. 4a.
 > 5. Minister Obrony Narodowej tworzy wojskowe lotniskowe organy służb ruchu lotniczego działające w przestrzeni przydzielonej danemu lotnisku w trybie art. 121 realizacja zarządzania ruchem w polskiej przestrzeni powietrznej ust. 5 pkt 1.
 > 6. Minister Obrony Narodowej określi, w drodze zarządzenia, organizację i szczegółowe zasady funkcjonowania wojskowych lotniskowych organów służby ruchu lotniczego.
-
+>
 > ----------
+>
 > **ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 8 marca 2004 r. w sprawie podziału i szczegółowych zasad korzystania z polskiej przestrzeni powietrznej oraz sposobów współdziałania państwowego organu zarządzania ruchem lotniczym z cywilnymi i wojskowymi lotniskowymi organami służb ruchu lotniczego**
 >
 > **Rozdział 4**
