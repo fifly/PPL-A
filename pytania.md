@@ -13404,6 +13404,9 @@ sprawdzającą
 * łączności z lądem w akcjach poszukiwawczo - ratowniczych (SAR)
 * łączności z tratwami ratunkowymi
 
+> http://www.ais.pata.pl/aip/aippliki/EP_GEN_3_6_en.pdf - Punkt 6 - Warunki dostępności
+> http://www.ais.pata.pl/aip/aippliki/EP_ENR_1_12_en.pdf - ENR 1.12 Punkt 2.1 c) - postępowanie w trakcie przechwytywania statku powietrznego
+
 ## Pytanie 1902 [PL099-0005]
 `Częstotliwość pomocnicza dla kanału 121.5 MHz to:`
 * **123.1 MHz**
