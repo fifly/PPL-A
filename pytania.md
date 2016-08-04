@@ -10196,6 +10196,9 @@ EMERGENCY; 7700 - COMMUNICATION FAILURE
 * Aneks 12
 * Aneks 14
 
+> Konwencja o międzynarodowym lotnictwie cywilnym, podpisana w Chicago dnia 7 grudnia 1944 r. - Konwencja chicagowska (Dz. U z 1959 r. Nr 35, poz. 212, z późn. zm)
+> * [Załącznik 13 – „Badanie wypadków i incydentów lotniczych”](http://www.ulc.gov.pl/_download/prawo/prawo_miedzynarodowe/konwencje/zal_13_0612.pdf)
+
 ## Pytanie 1447 [PL070-0014]
 `Pierwszą czynnością załogi statku powietrznego po lądowaniu awaryjnym w terenie przygodnym i wystąpieniu pożaru jest:`
 * **Ugaszenie pożaru**
@@ -10468,6 +10471,9 @@ EMERGENCY; 7700 - COMMUNICATION FAILURE
 * Aneksie 6 ICAO
 * Aneksie 2 ICAO
 * AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”
+
+> Konwencja o międzynarodowym lotnictwie cywilnym, podpisana w Chicago dnia 7 grudnia 1944 r. - Konwencja chicagowska (Dz. U z 1959 r. Nr 35, poz. 212, z późn. zm)
+>  * [Załącznik 12 – „Poszukiwanie i ratownictwo”](http://www.ulc.gov.pl/_download/prawo/dzienniki_urzedowe/2010/zacznik_12_wydanie_8_14-04-2010.pdf)
 
 ## Pytanie 1486 [PL070-0055]
 `Komunikat MAYDAY nadaje się w przypadku:`
@@ -13739,7 +13745,7 @@ sprawdzającą
 * nie składa.
 * składa meldunek ustny, jeśli statek powietrzny uległ jakiemukolwiek uszkodzeniu.
 
-> Składa się **Post Flight Report** dostępny we wszystkich Biurach Odpraw Załóg oraz na stronie www.ais.pansa.pl 
+> Składa się **Post Flight Report** dostępny we wszystkich Biurach Odpraw Załóg oraz na stronie www.ais.pansa.pl
 > * [AIP Polska, ENR 1.14 punkt 2](http://ais.pansa.pl/aip/aippliki/EP_ENR_1_14_en.pdf)
 
 ## Pytanie 1948 [PL099-0052]
@@ -13786,8 +13792,7 @@ sprawdzającą
 
 ## Pytanie 1954 [PL099-0058]
 `Potwierdzeniem przyjęcia i zrozumienia przez pilota samolotu sygnału wizualnego, podawanego z miejsca wypadku nocą jest:`
-* **kilkakrotne włączenie i wyłączenie
-świateł lądowania lub nawigacyjnych**
+* **kilkakrotne włączenie i wyłączenie świateł lądowania lub nawigacyjnych**
 * kilkakrotne przechylenie samolotu na boki
 * wystrzelenie zielonej rakiety
 * zrzucenie meldunku potwierdzającego
@@ -13833,6 +13838,10 @@ sprawdzającą
 * Aneksie 6 ICAO
 * Aneksie 2 ICAO
 * AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”
+
+> Konwencja o międzynarodowym lotnictwie cywilnym, podpisana w Chicago dnia 7 grudnia 1944 r. - Konwencja chicagowska (Dz. U z 1959 r. Nr 35, poz. 212, z późn. zm)
+> * [Załącznik 12 – „Poszukiwanie i ratownictwo”](http://www.ulc.gov.pl/_download/prawo/dzienniki_urzedowe/2010/zacznik_12_wydanie_8_14-04-2010.pdf)
+
 
 ## Pytanie 1961 [PL099-0065]
 `Przy dekompresji kabiny, połączonej z koniecznością użycia masek tlenowych, pilot lecący powinien założyć maskę tlenową w pierwszej kolejności:`
