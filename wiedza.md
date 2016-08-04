@@ -13,7 +13,7 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 * Dzienniki Urzędowe ULC
 
 ## AIS - Publikacje Służby Informacji Lotniczej  [Aeronautical Information Service]
-* AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication) -
+* AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication)
   * http://www.ais.pata.pl/aip (dostęp po darmowej rejestracji)
 * European AIS Database
   * https://www.ead.eurocontrol.int/eadcms/eadsite/index.php.html (dostęp po darmowej rejestracji)
