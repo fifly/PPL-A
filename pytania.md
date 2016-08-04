@@ -2239,11 +2239,14 @@ Oznacza to, że:`
 * Aktualnie wypełniony osobisty dokument praktyki lotniczej, do której uprawnia licencja
 
 ## Pytanie 320 [PL010-0413]
-`Jakie informacje wprowadzane są do AIP systemem AIRAC ?`
+`Jakie informacje wprowadzane są do AIP systemem AIRAC?`
 * **operacyjnie ważne**
 * wszystkie, które zostały dostarczone do AIS najpóźniej 70 dni przed datą wejścia w życie
 * tylko dotyczące rozdziału Tomu I-go
 * tylko dotyczące tomu II-go
+
+> * [EP GEN 0.1 - punkt 3.1 - układ AIP Polska](http://www.ais.pata.pl/aip/aippliki/EP_GEN_0_1_en.pdf)
+> * [EP GEN 3.1 - punkt 2 - cykl AIRAC](http://www.ais.pata.pl/aip/aippliki/EP_GEN_3_1_en.pdf)
 
 ## Pytanie 321 [PL010-0414]
 `Jakie jednostki prędkości oznaczane są w planie lotu literą "N"?`
