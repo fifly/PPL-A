@@ -8,25 +8,10 @@ Pierwotnie pytania przygotowane zostały na podstawie publicznie dostępnych prz
 ## [Pytania PPL(A)](pytania.md)
 ## [Gdzie szukać wiedzy?](wiedza.md)
 
-## Jak prawidłowo edytować plik [**pytania.md**](pytania.md)
+## Jak prawidłowo edytować pliki z pytaniami?
 
-```
-## Pytanie {LICZBA PORZĄDKOWA} [{NUMER PYTANIA ULC}]
-`{TREŚĆ PYTANIA}`
-* **{POPRAWNA ODPOWIEDŹ}**
-* {ODPOWIEDŹ 2}
-* {ODPOWIEDŹ 3}
-* {ODPOWIEDŹ 4}
-{Pusta linia}
-> {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}  
-> {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}
-> {KOMENTARZE|UWAGI|LINKI|WYJAŚNIENIA|itp}
-{Pusta linia}
-```
-
-* *Uwaga:* Jeżeli brak jest komentarza wiersze zaczynające się znakiem `>` nie mają prawa się pojawić.
-* *Uwaga druga:* Zaczynaj każdy wiersz komentarza od znaku `>`
-
+Jeżeli chcesz pomóc przy tworzeniu pytań przeczytaj poniższy dokument:
+https://github.com/fifly/narzedzia/blob/master/README.md
 
 # Autor
 Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](http://www.konopnickiej.com)
