@@ -2929,6 +2929,8 @@ Oznacza to, że:`
 * 3 km
 * 5 km
 
+> Dyskusja: [PL010-0514 - 2km czy 1,5km? #1](https://github.com/fifly/PPL-A/issues/1)
+>
 > Aczkolwiek według poniższych danych słuszna wydaje się odpowiedź 1,5km
 > * http://calypteaviation.com/2014/10/minima-vfr-w-polsce-i-na-swiecie/
 > * http://dlapilota.pl/wiadomosci/prawo-krajowe/sera-czyli-porzadki-w-przepisach-ruchu-lotniczego-w-ue-wazna-data-4-grudnia
