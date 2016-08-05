@@ -626,12 +626,16 @@ Oznacza to, że:`
 * W okresie jego ważności, jednak nie wcześniej niż 4 miesiące przed jego upływem
 * Żadna z odpowiedzi nie jest prawidłowa
 
+> Patrz [Pytanie PL010-0087](#Pytanie-PL010-0087)
+
 ## Pytanie PL010-0089
 `Kiedy jest przeprowadzane sprawdzenie wiadomości i umiejętności w celu przedłużenia ważności uprawnienia którego ważność wynosi 3 lata?`
 * **W okresie jego ważności, jednak nie wcześniej niż 12 miesięcy przed jego upływem**
 * Po minięciu okresu jego ważności
 * W okresie jego ważności, jednak nie wcześniej niż 14 miesięcy przed jego upływem
 * Żadna z odpowiedzi nie jest prawidłowa
+
+> Patrz [Pytanie PL010-0087](#Pytanie-PL010-0087)
 
 ## Pytanie PL010-0091
 `Kiedy następuje wymiana licencji?`
