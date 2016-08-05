@@ -11,7 +11,7 @@ Pierwotnie pytania przygotowane zostały na podstawie publicznie dostępnych prz
 ## Jak prawidłowo edytować pliki z pytaniami?
 
 Jeżeli chcesz pomóc przy tworzeniu pytań przeczytaj poniższy dokument:
-https://github.com/fifly/narzedzia/blob/master/README.md
+* https://github.com/fifly/narzedzia#jak-prawidłowo-edytować-pliki-z-pytaniami
 
 # Autor
 Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](http://www.konopnickiej.com)
