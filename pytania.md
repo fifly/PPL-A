@@ -2931,7 +2931,7 @@ Oznacza to, że:`
 
 > Dyskusja: [PL010-0514 - 2km czy 1,5km? #1](https://github.com/fifly/PPL-A/issues/1)
 >
-> Aczkolwiek według poniższych danych słuszna wydaje się odpowiedź 1,5km
+> Aczkolwiek według poniższych danych słuszna wydaje się odpowiedź **1,5km** (stan na dzień 5 sierpnia 2016)
 > * http://calypteaviation.com/2014/10/minima-vfr-w-polsce-i-na-swiecie/
 > * http://dlapilota.pl/wiadomosci/prawo-krajowe/sera-czyli-porzadki-w-przepisach-ruchu-lotniczego-w-ue-wazna-data-4-grudnia
 > * [Załącznik 2 do Konwencji o międzynarodowym lotnictwie cywilnym](http://www.ulc.gov.pl/_download/prawo/prawo_miedzynarodowe/konwencje/Za%C5%82%C4%85cznik_2__ICAO_zm_44.pdf) [Tabela 3-1* Minima widzialności i odległości od chmur w VMC]
@@ -2979,6 +2979,7 @@ Oznacza to, że:`
 * 250 kt IAS
 
 > Dyskusja: [PL010-0523 - Prędkość lotów nocnych VFR #2](https://github.com/fifly/PPL-A/issues/2)
+> Poprawna wydaje się odpowiedź **250 kt IAS**
 
 ## Pytanie PL010-0524
 `Loty nocne VFR mogą być wykonywane:`
