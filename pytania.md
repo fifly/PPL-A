@@ -3558,12 +3558,26 @@ Oznacza to, że:`
 * 7600
 * 7000
 
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
+
 ## Pytanie 494 [PL010-0615]
 `W przypadku bezprawnej ingerencji (HIJACK) pilot nastawia transponder w modzie „A” na kod:`
 * **7500**
 * 7600
 * 7700
 * 7000
+
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
 
 ## Pytanie 495 [PL010-0616]
 `W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych w celu przedłużenia uprawnień lotniczych:`
@@ -3586,12 +3600,26 @@ Oznacza to, że:`
 * 7700
 * 7000
 
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
+
 ## Pytanie 498 [PL010-0625]
 `W stanie bezpośredniego zagrożenia (EMERGENCY) pilot nastawia transponder w modzie „A” na kod:`
 * **7700**
 * 7600
 * 7500
 * 7000
+
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
 
 ## Pytanie 499 [PL010-0626]
 `W stosunku do jakich obywateli można stosować polską ustawę karną, w przypadku popełnienia za granicą przestępstwa lub wykroczenia przeciwko przepisom o locie i manewrowaniu statku powietrznego?`
@@ -9120,13 +9148,17 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie 1282 [PL060-0040]
 `Kody specjalne modu A transpondera to:`
-* **7500 - HIJACK; 7600 -
-COMMUNICATION FAILURE; 7700
-– EMERGENCY**
+* **7500 - HIJACK; 7600 - COMMUNICATION FAILURE; 7700 – EMERGENCY**
 * 7500 - EMERGENCY; 7600 - COMMUNICATION FAILURE; 7700 - HIJACK
-* 7500 - HIJACK; 7600 -
-EMERGENCY; 7700 - COMMUNICATION FAILURE
+* 7500 - HIJACK; 7600 - EMERGENCY; 7700 - COMMUNICATION FAILURE
 * żadna z odpowiedzi nie jest prawdziwa
+
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
 
 ## Pytanie 1283 [PL060-0049]
 `Krótszy łuk wielkiego koła wyznaczający najmniejszą odległość między dwoma punktami na powierzchni Ziemi to:`
@@ -9625,6 +9657,9 @@ EMERGENCY; 7700 - COMMUNICATION FAILURE
 * 9999
 * 7700
 
+> Kod transpondera jest kodem w systemie ósemkowym – tzn. składa się z cyfr od 0 do 7. Za kod indywidualny uznaje się squawk, którego dwie ostatnie cyfry nie są zerami.
+> ```8*8*8*8 = 4096```
+
 ## Pytanie 1354 [PL060-0141]
 `Mając następujące dane: elewacja lotniska wynosi 1000 ft oraz QNH = 988 hPa, jaka jest aktualna wysokość ciśnieniowa lotniska? (przy założeniu, że 1 hPa = 27 ft)`
 * **320 ft**
@@ -10111,6 +10146,13 @@ EMERGENCY; 7700 - COMMUNICATION FAILURE
 * 7500
 * 7700
 
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
+
 ## Pytanie 1423 [PL060-0255]
 `W sytuacji EMERGENCY pilot włącza transponder w modzie A na kod:`
 * **7700**
@@ -10118,12 +10160,26 @@ EMERGENCY; 7700 - COMMUNICATION FAILURE
 * 7500
 * 7600
 
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
+
 ## Pytanie 1424 [PL060-0256]
 `W sytuacji HIJACK pilot włącza transponder w modzie A na kod:`
 * **7500**
 * 7000
 * 7600
 * 7700
+
+> **Kody specjalne**
+> * 7700 – podstawowy kod alarmowy informujący o niebezpieczeństwie (**seven seven – go to heaven**)
+> * 7600 – kod transpondera ustawiany w momencie utraty łączności radiowej (**seven six – radio fix**)
+> * 7500 – kod porwania – ustawiany, gdy samolot został porwany lub zastosowany został inny akt przemocy na pokładzie (**seven five – man with knife**)
+> * 2000 – lot zgodny z IFR, któremu nie przyznano indywidualnego kodu
+> * 7000 – lot zgodny z VFR, któremu nie przyznano indywidualnego kodu (w innych krajach może być to inny kod, np. w Stanach Zjednoczonych jest to 1200)
 
 ## Pytanie 1425 [PL060-0257]
 `Wartość ciśnienia standardowego wynosi:`
