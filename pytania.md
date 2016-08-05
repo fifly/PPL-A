@@ -610,6 +610,15 @@ Oznacza to, że:`
 * W okresie jego ważności, jednak nie wcześniej niż 4 miesiące przed jego upływem
 * Żadna z odpowiedzi nie jest prawidłowa
 
+> Dziennik Ustaw Nr 165
+> 1603
+> Rozporządzenie Ministra Infrastruktury z dnia 3 września 2003 r. w sprawie licencjonowania personelu
+> lotniczego;
+> Rozdział 3 Zasady sprawdzania kwalifikacji lotniczych, wiadomości i umiejętności;
+> § 19. ust 2. Sprawdzanie wiadomości i umiejętności w celu przedłużenia ważności uprawnienia lotniczego, którego ważnosć, zgodnie z załącznikiem nr 1 do rozporządzenia, wynosi:
+> 1. 12 albo 24 miesiące - jest przeprowadzone w okresie jego ważności, jednak nie wcześniej niż 3 miesiące przed jego upływem;
+> 2. 3 lata albo 5 lat - jest przeprowadzone w okresie jego ważności, jednak nie wcześniej niż 12 miesięcy przed jego upływem.
+
 ## Pytanie PL010-0088
 `Kiedy jest przeprowadzane sprawdzenie wiadomości i umiejętności w celu przedłużenia ważności uprawnienia którego ważność wynosi 24 miesiące?`
 * **W okresie jego ważności, jednak nie wcześniej niż 3 miesiące przed jego upływem**
