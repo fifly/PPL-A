@@ -2976,7 +2976,7 @@ Oznacza to, że:`
 * 300 km/h IAS
 * 250 kt IAS
 
-> Dyskusja: PL010-0523 - Prędkość lotów nocnych VFR #2 (https://github.com/fifly/PPL-A/issues/2)
+> Dyskusja: [PL010-0523 - Prędkość lotów nocnych VFR #2](https://github.com/fifly/PPL-A/issues/2)
 
 ## Pytanie PL010-0524
 `Loty nocne VFR mogą być wykonywane:`
