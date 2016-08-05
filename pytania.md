@@ -467,8 +467,8 @@ Oznacza to, że:`
 > Dziennik Ustaw Nr 130 1112 - Ustawa z dnia 3 lipca 2002 r. Prawo lotnicze;
 > Dział V Personel Lotniczy;
 > Rozdział 1 Kwalifikacje personelu;
-> Art. 94. ust. 5. Licencją, o której mowa w ust. 2., jest licencja wydawana przez Prezesa Urzędu lub licencja wydana przez właściwy organ obcego państwa i uznana przez Prezesa Urzędu.
 > ```
+> Art. 94. ust. 5. Licencją, o której mowa w ust. 2., jest licencja wydawana przez Prezesa Urzędu lub licencja wydana przez właściwy organ obcego państwa i uznana przez Prezesa Urzędu.
 
 ## Pytanie PL010-0064
 `Jaki charakter ma zawieszenie licencji i wynikających z niej uprawnień lub niektórych wynikających z niej uprawnień?`
