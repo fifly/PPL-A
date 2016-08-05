@@ -616,6 +616,7 @@ Oznacza to, że:`
 > lotniczego;
 > Rozdział 3 Zasady sprawdzania kwalifikacji lotniczych, wiadomości i umiejętności;
 > § 19. ust 2. Sprawdzanie wiadomości i umiejętności w celu przedłużenia ważności uprawnienia lotniczego, którego ważnosć, zgodnie z załącznikiem nr 1 do rozporządzenia, wynosi:
+>
 > 1. 12 albo 24 miesiące - jest przeprowadzone w okresie jego ważności, jednak nie wcześniej niż 3 miesiące przed jego upływem;
 > 2. 3 lata albo 5 lat - jest przeprowadzone w okresie jego ważności, jednak nie wcześniej niż 12 miesięcy przed jego upływem.
 
@@ -2974,6 +2975,8 @@ Oznacza to, że:`
 * 463 km/h TAS
 * 300 km/h IAS
 * 250 kt IAS
+
+> #2
 
 ## Pytanie PL010-0524
 `Loty nocne VFR mogą być wykonywane:`
