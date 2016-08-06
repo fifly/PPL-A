@@ -6203,6 +6203,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 * jonizacja powietrza w kabinie samolotu
 * obniżeniu zawartości tlenu we wdychanym powietrzu
 
+> Patrz: [Pytanie PL040-0024](#pytanie-pl040-0024)
+
 ## Pytanie PL040-0054
 `Dezorientacja przestrzenna w lotnictwie oznacza:`
 * **zaburzenie prawidłowej oceny rzeczywistej, pozycji pilota i samolotu w przestrzeni oraz względem powierzchni ziemi**
@@ -6234,10 +6236,11 @@ S.C. względem punktu pomiarowego "DATUM"**
 ## Pytanie PL040-0059
 `Do objawów choroby dekompresyjnej należą:`
 * **bóle stawów, bóle zamostkowe, uczucie mrowienia, świąd skóry**
-* dolegliwości ze strony ucha
-środkowego
+* dolegliwości ze strony ucha środkowego
 * bóle głowy, mroczki przed oczami, nudności, wymioty
 * bóle okolicy lędźwiowo-krzyżowej promieniujące  do kończyn dolnych
+
+> Patrz: [Pytanie PL040-0024](#pytanie-pl040-0024)
 
 ## Pytanie PL040-0060
 `Do przegrzania organizmu w warunkach wysokiej temperatury otoczenia predysponuje:`
@@ -6485,6 +6488,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zwiększonego narażenia na niedotlenienie
 * zwiększonego narażenia na wystąpienie udaru cieplnego
 * zwiększonego narażeniem na wystąpienie złudzeń wzrokowych
+
+> Patrz: [Pytanie PL040-0024](#pytanie-pl040-0024)
 
 ## Pytanie PL040-0099
 `Leki nasenne mogą mieć przedłużone działanie i mieć wpływ na pogorszenie czynności pilota:`
@@ -7173,12 +7178,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 * dwutlenku węgla
 * pary wodnej
 
+> Patrz: [Pytanie PL040-0024](#pytanie-pl040-0024)
+
 ## Pytanie PL040-0205
 `Przyczyną powstawania choroby dekompresyjnej jest:`
 * **uwalnianie się pęcherzyków gazowych, głównie azotu do krwi i tkanek**
 * niedotlenienie wysokościowe po uszkodzeniu aparatury tlenowej
 * zaburzenia funkcji błędnika podczas wyższej akrobacji
 * zwiększenie objętości gazów w jelitach
+
+> Patrz: [Pytanie PL040-0024](#pytanie-pl040-0024)
 
 ## Pytanie PL040-0206
 `Przyczyną powstawania niedotlenienia wysokościowego jest:`
@@ -14165,6 +14174,8 @@ sprawdzającą
 * pasażerom, o ile ci nie mogą sami założyć masek tlenowych
 * dowódcy statku powietrznego, o ile ten nie może sam założyć maski tlenowej
 * osobom nieprzytomnym, niepełnosprawnym i/lub dzieciom
+
+> Patrz: [Pytanie PL040-0024](#pytanie-pl040-0024)
 
 ## Pytanie PL099-0066
 `Przy wykonywaniu symulowanego lotu bez widoczności pilot bezpieczeństwa powinien zajmować miejsce:`
