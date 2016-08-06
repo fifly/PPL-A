@@ -1943,7 +1943,7 @@ Oznacza to, że:`
 * 600 m AGL
 
 ## Pytanie PL010-0358
-`AFIL to :`
+`AFIL to:`
 * **plan lotu złożony z powietrza**
 * rodzaj ograniczenia ATFM
 * procedura składania powtarzalnego planu lotu
@@ -3557,7 +3557,7 @@ Oznacza to, że:`
 * S
 
 ## Pytanie PL010-0611
-`W przestrzeni klasy G lecą naprzeciw siebie samolot i śmigłowiec. Aby uniknąć zderzenia dowódcy tych statków powietrznych powinni :`
+`W przestrzeni klasy G lecą naprzeciw siebie samolot i śmigłowiec. Aby uniknąć zderzenia dowódcy tych statków powietrznych powinni:`
 * **skręcić w prawo**
 * skręcić w lewo
 * samolot odejść w górę
@@ -4049,14 +4049,14 @@ Oznacza to, że:`
 * pomiaru ciśnienia paliwa
 
 ## Pytanie PL020-0055
-`Do pracy radiokompasu potrzebna jest :`
+`Do pracy radiokompasu potrzebna jest:`
 * **Antena stała i antena ramowa tzw. ramka.**
 * Tylko antena stała.
 * Tylko antena ramowa.
 * Nie potrzebne są anteny.
 
 ## Pytanie PL020-0056
-`Do pracy radiowysokościomierza wykorzystano :`
+`Do pracy radiowysokościomierza wykorzystano:`
 * **Zjawisko odbicia fal radiowych od powierzchni ziemi.**
 * Modulację amplitudy.
 * Zjawisko interferencji.
@@ -4830,7 +4830,7 @@ Przeznaczony dla personelu technicznego i latającego**
 * Do prowadzenia łączności między członkami załogi.
 
 ## Pytanie PL020-0178
-`Radiostacja UKF zasilana jest :`
+`Radiostacja UKF zasilana jest:`
 * **Napięciem stałym.**
 * Napięciem zmiennym 115V
 * Napięciem zmiennym 36V
@@ -4858,7 +4858,7 @@ Przeznaczony dla personelu technicznego i latającego**
 * Wykrywania wibracji.
 
 ## Pytanie PL020-0182
-`Radiowysokościomierz posiada możliwość :`
+`Radiowysokościomierz posiada możliwość:`
 * **Ustawienia zadanej wysokości.**
 * Automatycznego odejścia na drugi krąg.
 * Automatycznego podejścia do lądowania.
@@ -5205,7 +5205,7 @@ Przeznaczony dla personelu technicznego i latającego**
 * kurs magnetyczny
 
 ## Pytanie PL020-0233
-`Wybieranie łączności między statkami powietrznymi, między służbami naziemnymi ,między członkami załogi oraz podsłuch pomocy radionawigacyjnych dokonujemy przez :`
+`Wybieranie łączności między statkami powietrznymi, między służbami naziemnymi ,między członkami załogi oraz podsłuch pomocy radionawigacyjnych dokonujemy przez:`
 * **Skrzynki połączeniowe ASP Audio Selektor Panel czyli z rosyjska SPU.**
 * Skrzynki SGU.
 * Bezpośrednio z radiostacji.
@@ -5755,7 +5755,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * Jest najbardziej niebezpieczne przy dużych prędkościach lotu, kiedy skuteczność sterowania pochyleniem jest największa.
 
 ## Pytanie PL040-0002
-`Działanie kanałów półkolistych wynika z :`
+`Działanie kanałów półkolistych wynika z:`
 * **odchylania rzęsek komórek sensorycznych przez bezwładnościowy ruch endolimfy**
 * oddziaływania przyspieszeń liniowych na komórki nerwu przedsionkowego
 * odchylania rzęsek komórek sensorycznych przez kryształy węglanu wapnia /otoconia/
@@ -5787,7 +5787,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * pełne nastawienie kontaktu na odbiorcę pozbawione elementów mojej aktywności, która mogłaby go zakłócić
 
 ## Pytanie PL040-0009
-`Alkohol jest substancją uzależniającą i psychoaktywną :`
+`Alkohol jest substancją uzależniającą i psychoaktywną:`
 * **oba stwierdzenia są prawdziwe**
 * jest substancją psychoaktywną, ale nie uzależniającą
 * jest substancją uzależniającą, ale nie psychoaktywną
@@ -5801,21 +5801,21 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zdanie jest prawdziwe, ale wydalanie alkoholu zależy od ilości jedzenia
 
 ## Pytanie PL040-0011
-`Alkohol powoduje obniżoną zdolność wykorzystania tlenu przez komórki mózgu :`
+`Alkohol powoduje obniżoną zdolność wykorzystania tlenu przez komórki mózgu:`
 * **teza jest prawdziwa**
 * teza jest fałszywa
 * teza jest prawdziwa jedynie podczas lotów z użyciem aparatury tlenowej
 * teza jest fałszywa podczas lotów powyżej 4000 m
 
 ## Pytanie PL040-0012
-`Alkohol spożywany bezpośrednio przed lotem w ilości 100 ml :`
+`Alkohol spożywany bezpośrednio przed lotem w ilości 100 ml:`
 * **jest zabroniony ze względu na upośledzenie wykonywania czynności złożonych**
 * poprawia jakość pilotażu
 * powoduje lepsze kojarzenie faktów
 * polepsza krążenie i powoduje lepsze wykorzystanie tlenu przez mózg
 
 ## Pytanie PL040-0013
-`Alkohol spożywany przed lotem :`
+`Alkohol spożywany przed lotem:`
 * **nawet w małej ilości upośledza zdolność wykonywania czynności złożonych i jakość wykonywania czynności pilota**
 * nie upośledza zdolności wykonywania czynności złożonych i jakości wykonywania czynności pilota
 * nawet w małej ilości powoduje halucynacje
@@ -5941,21 +5941,21 @@ S.C. względem punktu pomiarowego "DATUM"**
 > Patrz: [Pytanie PL040-0024](#pytanie-pl040-0024)
 
 ## Pytanie PL040-0028
-`Choroba powietrzna :`
+`Choroba powietrzna:`
 * **jest synonimem choroby lokomocyjnej w samolocie**
 * jest wywołana brakiem powietrza
 * jest wywołana nadmiarem powietrza
 * jest spowodowana spadkiem ciśnienia atmosferycznego
 
 ## Pytanie PL040-0029
-`Choroba powietrzna :`
+`Choroba powietrzna:`
 * **występuje częściej u pasażerów niż u pilotów**
 * występuje częściej u pilotów niż u pasażerów
 * występuje równie często u pilotów jak i u pasażerów
 * nie ma znaczenia ani dla pilota ani dla pasażera
 
 ## Pytanie PL040-0030
-`Choroba powietrzna jest to :`
+`Choroba powietrzna jest to:`
 * **choroba spowodowana bodźcami płynącymi z błędników jako wyraz ich nadmiernego pobudzenia**
 * choroba spowodowana niedoborem tlenu w otaczającej atmosferze
 * choroba wywołana obniżeniem ciśnienia w otaczającej atmosferze
@@ -6039,14 +6039,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zaburzenia związane z procesami adaptacji społecznej
 
 ## Pytanie PL040-0044
-`Człowiek gorzej toleruje przeciążenia wzdłuż długiej osi ciała :`
+`Człowiek gorzej toleruje przeciążenia wzdłuż długiej osi ciała:`
 * **ujemne**
 * dodatnie
 * toleruje je tak samo
 * nie toleruje prawie zupełnie ani jednych ani drugich
 
 ## Pytanie PL040-0045
-`Człowiek lepiej toleruje przeciążenia wzdłuż długiej osi ciała :`
+`Człowiek lepiej toleruje przeciążenia wzdłuż długiej osi ciała:`
 * **dodatnie**
 * ujemne
 * toleruje je tak samo
@@ -6109,7 +6109,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * obniżeniu zawartości tlenu we wdychanym powietrzu
 
 ## Pytanie PL040-0054
-`Dezorientacja przestrzenna w lotnictwie oznacza :`
+`Dezorientacja przestrzenna w lotnictwie oznacza:`
 * **zaburzenie prawidłowej oceny rzeczywistej, pozycji pilota i samolotu w przestrzeni oraz względem powierzchni ziemi**
 * niepewność co do prawidłowego kursu samolotu
 * zagubienie mapy lotu
@@ -6130,7 +6130,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * jedynie transport substratów metabolizmu
 
 ## Pytanie PL040-0057
-`Do jakiej ostrości wzroku może pilot wykonywać loty bez szkieł korekcyjnych :`
+`Do jakiej ostrości wzroku może pilot wykonywać loty bez szkieł korekcyjnych:`
 * **0,8**
 * 0,9
 * 0,7
@@ -6145,7 +6145,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * bóle okolicy lędźwiowo-krzyżowej promieniujące  do kończyn dolnych
 
 ## Pytanie PL040-0060
-`Do przegrzania organizmu w warunkach wysokiej temperatury otoczenia predysponuje :`
+`Do przegrzania organizmu w warunkach wysokiej temperatury otoczenia predysponuje:`
 * **otyłość, zmniejszona podaż płynów**
 * zwiększona podaż płynów i niska wilgotność otoczenia
 * zmniejszona aktywność ruchowa
@@ -6173,7 +6173,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * dobrej kontroli wzrokowej nośników informacji dotyczącej przebiegu lotu wewnątrz kabiny
 
 ## Pytanie PL040-0065
-`Fałszywy horyzont jest :`
+`Fałszywy horyzont jest:`
 * **złudzeniem wzrokowym wynikiem przyjęcia przez pilota poziomu np. ciemnych chmur za linię horyzontu właściwego**
 * źle oznaczonym instrumentem pokładowym
 * niesprawnym instrumentem pokładowym
@@ -6194,28 +6194,28 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 20-30
 
 ## Pytanie PL040-0068
-`Fizjologiczny proces utraty zdolności okomodacyjnych oka to :`
+`Fizjologiczny proces utraty zdolności okomodacyjnych oka to:`
 * **starczowzroczność**
 * skurcz okomodacji
 * krótkowzroczność
 * nadwzroczność
 
 ## Pytanie PL040-0069
-`Fotodysocjacja tlenu cząstkowego /O2/ w atmosferze prowadzi do :`
+`Fotodysocjacja tlenu cząstkowego /O2/ w atmosferze prowadzi do:`
 * **powstania tlenu atomowego i ozonu**
 * pochłaniania
 * ultrafioletowego promieniowania słońca
 * mieszania składników każdej części powietrza
 
 ## Pytanie PL040-0070
-`Funkcje integracyjne człowieka w układzie sterowania pilot – statek powietrzny obejmują podstawowe procesy :`
+`Funkcje integracyjne człowieka w układzie sterowania pilot – statek powietrzny obejmują podstawowe procesy:`
 * **intelektualne, emocjonalno- motywacyjne, orientacji i wykonawcze**
 * złożone procesy myślowe analizy i syntezy
 * antycypacji, czyli przewidywania biegu wydarzeń
 * decyzyjne w sytuacji wyboru – gdy występuje możliwość pojawienia się więcej niż jednej reakcji w danym zadaniu
 
 ## Pytanie PL040-0071
-`Generalizacja bodźca ma miejsce gdy :`
+`Generalizacja bodźca ma miejsce gdy:`
 * **podobne bodźce wywołują tę samą reakcję – niesie rozszerzenie reakcji warunkowej**
 * zupełnie różne bodźce wywołują tę samą reakcję
 * następuje uwarunkowanie typu lękowego po jednorazowym zestawieniu bodźca obojętnego z traumatycznym
@@ -6278,7 +6278,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * niewydolność nerek
 
 ## Pytanie PL040-0081
-`Jaskra to schorzenie powodujące :`
+`Jaskra to schorzenie powodujące:`
 * **wzmożone ciśnienie śródgałkowe**
 * wzmożenie ciśnienia
 śródczaszkowego
@@ -6315,14 +6315,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * poszkodowany jest nieprzytomny
 
 ## Pytanie PL040-0088
-`Krwawienie z przedramienia może być chwilowo zatamowane przez :`
+`Krwawienie z przedramienia może być chwilowo zatamowane przez:`
 * **doraźny ucisk na tętnicę ramienną np. palcami rąk w połowie długości ramienia po jego stronie wewnętrznej**
 * doraźny ucisk na tętnicę promieniową (uciśnięcie nadgarstka)
 * doraźny ucisk na tętnicę udową
 * doraźny ucisk na tętnicę szyjną (uciśnięcie bocznej części szyi)
 
 ## Pytanie PL040-0089
-`Krwawienie z tętnicy charakteryzuje się :`
+`Krwawienie z tętnicy charakteryzuje się:`
 * **zazwyczaj większą intensywnościąi wypływaniem jasnoczerwonej krwi zgodnie z falami tętna**
 * zazwyczaj większą intensywnością i wypływaniem ciemnoczerwonej krwi
 * małą intensywnościąi wypływaniem ciemnoczerwonej krwi
@@ -6392,7 +6392,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zwiększonego narażeniem na wystąpienie złudzeń wzrokowych
 
 ## Pytanie PL040-0099
-`Leki nasenne mogą mieć przedłużone działanie i mieć wpływ na pogorszenie czynności pilota :`
+`Leki nasenne mogą mieć przedłużone działanie i mieć wpływ na pogorszenie czynności pilota:`
 * **PRAWDA**
 * FAŁSZ
 * prawda jedynie w przypadku pilotów liniowych
@@ -6406,7 +6406,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * jeśli przyjmowane leki nie są przyjmowane doustnie
 
 ## Pytanie PL040-0101
-`Leki uspokajające (anksjolityki) mogą być dopuszczone u pilotów :`
+`Leki uspokajające (anksjolityki) mogą być dopuszczone u pilotów:`
 * **nigdy**
 * zawsze
 * jedynie w przypadku pilotów akrobacyjnych
@@ -6420,7 +6420,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * należy osłabić działanie ostatniej dawki leku przyjmując ją w czasie posiłku
 
 ## Pytanie PL040-0103
-`Leki, które są przeciwwskazane w przy operowaniu maszynami (np. prowadzeniu samochodu) :`
+`Leki, które są przeciwwskazane w przy operowaniu maszynami (np. prowadzeniu samochodu):`
 * **są zawsze zakazane w lotnictwie**
 * nie są przeciwwskazane w lotnictwie sportowym
 * nie są przeciwwskazane u pilotów liniowych
@@ -6456,7 +6456,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * rozstrojenie-stabilność emocjonalna – mobilizacja
 
 ## Pytanie PL040-0111
-`Na układ optyczny oka składają się :`
+`Na układ optyczny oka składają się:`
 * **rogówka, komora przednia, soczewka, ciało szkliste**
 * rogówka, soczewka, nerw wzrokowy
 * rogówka, spojówka, siatkówka
@@ -6491,7 +6491,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zwężenie źrenic
 
 ## Pytanie PL040-0117
-`Najodpowiedniejszą z wymienionych poniżej metodą zapobiegania lotniczej chorobie lokomocyjnej u pilotów jest :`
+`Najodpowiedniejszą z wymienionych poniżej metodą zapobiegania lotniczej chorobie lokomocyjnej u pilotów jest:`
 * **trening desensytyzacyjny**
 * podawanie leków antychololinoalergicznych
 /Scopolamina/
@@ -6500,7 +6500,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zastosowanie nadciśnienia oddechowego
 
 ## Pytanie PL040-0118
-`Najważniejszym czynnikiem wpływającym na nieprzystosowanie zdrowotne pilotów jest :`
+`Najważniejszym czynnikiem wpływającym na nieprzystosowanie zdrowotne pilotów jest:`
 * **indywidualne różnice w wydolności funkcjonalnej wynikające z cech struktury osobowości**
 * zbyt racjonalne i trafne szacowanie ryzyka
 * niezaspokojenie potrzeb wyższych związanych z poziomem aspiracji
@@ -6598,7 +6598,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * ból brzucha
 
 ## Pytanie PL040-0132
-`Niektóre leki sprzedawane bez recepty mogą być przeciwwskazane podczas wykonywania czynności pilota :`
+`Niektóre leki sprzedawane bez recepty mogą być przeciwwskazane podczas wykonywania czynności pilota:`
 * **PRAWDA**
 * FAŁSZ
 * prawda jedynie w przypadku pilotów liniowych
@@ -6620,7 +6620,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * utrata przytomności
 
 ## Pytanie PL040-0135
-`O występowaniu dezorientacji przestrzennej można powiedzieć w :`
+`O występowaniu dezorientacji przestrzennej można powiedzieć w:`
 * **sytuacji, w której pilot ma fałszywe odczucie lotu poziomego podczas wykonywania zakrętu**
 * sytuacji, w której pilot nie wie nad jakim terenem przelatuje
 * sytuacji, w której pilot nie zna kursu do lotniska docelowego
@@ -6641,21 +6641,21 @@ S.C. względem punktu pomiarowego "DATUM"**
 * tachykardią
 
 ## Pytanie PL040-0139
-`Objawy świadczące o możliwości powstania złamania kości kończyny obejmują :`
+`Objawy świadczące o możliwości powstania złamania kości kończyny obejmują:`
 * **ból, obrzęk, zmianę obrysu kończyny, nienaturalne jej ułożenie lub też otwartą ranę z wystającą kością**
 * ból i obrzęk sąsiedniego stawu
 * ból i obrzęk stawu bliżej tułowia
 * ból i obrzęk dwóch sąsiednich stawów
 
 ## Pytanie PL040-0140
-`Objawy wzrokowe podczas narastania przeciążenia Gz + zależą od :`
+`Objawy wzrokowe podczas narastania przeciążenia Gz + zależą od:`
 * **niedotlenienia ośrodkowego układu nerwowego**
 * spadku wysycenia krwi tlenem
 * wzrostu CO2
 * spadku ciśnienia śródgałkowego
 
 ## Pytanie PL040-0141
-`Objawy zespołu odstawiennego (popularnego "kaca") mogą być równie groźne podczas lotu jak sam stan upojenia alkoholowego :`
+`Objawy zespołu odstawiennego (popularnego "kaca") mogą być równie groźne podczas lotu jak sam stan upojenia alkoholowego:`
 * **teza jest prawdziwa**
 * teza jest fałszywa
 * teza jest prawdziwa jedynie podczas lotów z użyciem aparatury tlenowej
@@ -6676,7 +6676,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * mózgu i rdzenia kręgowego
 
 ## Pytanie PL040-0145
-`Oddychanie wewnętrzne jest wymianą gazów pomiędzy krwią, a komórkami ustroju i polega na dyfuzji przez błonę komórkową :`
+`Oddychanie wewnętrzne jest wymianą gazów pomiędzy krwią, a komórkami ustroju i polega na dyfuzji przez błonę komórkową:`
 * **tlenu /O2/ z krwi do komórki**
 * dwutlenku węgla /CO2/ z krwi do komórki
 * procesem dyfuzji objęty jest tylko tlen
@@ -6713,7 +6713,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * cofnięcie ręki przy zetknięciu z gorącą blachą
 
 ## Pytanie PL040-0150
-`Oko ludzkie zdolne jest do rozróżniania ok.160 odcieni barw, które są mieszaniną trzech podstawowych tj. :`
+`Oko ludzkie zdolne jest do rozróżniania ok.160 odcieni barw, które są mieszaniną trzech podstawowych tj.:`
 * **czerwonej, zielonej, niebieskiej**
 * czerwonej, zielonej, żółtej
 * czerwonej, żółtej, niebieskiej
@@ -6727,7 +6727,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * od podania leku do jego pełnego wchłonięcia z przewodu pokarmowego
 
 ## Pytanie PL040-0152
-`Osobę, u której podejrzewamy złamanie kręgosłupa, oraz stwierdzamy zatrzymanie krążenia i oddechu własnego :`
+`Osobę, u której podejrzewamy złamanie kręgosłupa, oraz stwierdzamy zatrzymanie krążenia i oddechu własnego:`
 * **należy reanimować na twardym podłożu, z powodu bezpośredniego zagrożenia życia**
 * nie reanimować nawet na twardym podłożu z powodu zagrożenia uszkodzeniem rdzenia kręgowego
 * nie reanimować z powodu zagrożenia
@@ -6806,7 +6806,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * „kurzą ślepotą”
 
 ## Pytanie PL040-0163
-`Pod wpływem niedotlenienia wysokościowego następuje adaptacja do zmiany czynników środowiska :`
+`Pod wpływem niedotlenienia wysokościowego następuje adaptacja do zmiany czynników środowiska:`
 * **tak**
 * nie
 * zależy od indywidualnych możliwości organizmu
@@ -6820,7 +6820,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 4,1,2,5,3,6
 
 ## Pytanie PL040-0165
-`Podczas "nurkowania" samolotu, szybowca :`
+`Podczas "nurkowania" samolotu, szybowca:`
 * **krew napływa do głowy**
 * krew odpływa od głowy
 * krew napływa do kończyn dolnych
@@ -6848,7 +6848,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * krew napływa do trzew (jamy brzusznej)
 
 ## Pytanie PL040-0169
-`Podczas wdechu i wydechu ciśnienie powietrza pęcherzykowatego jest sumą ciśnień parcjalnych wielu gazów takich jak : tlen, dwutlenek węgla i azot. Które z praw gazowych w sposób najlepszy opisuje to zjawisko :`
+`Podczas wdechu i wydechu ciśnienie powietrza pęcherzykowatego jest sumą ciśnień parcjalnych wielu gazów takich jak : tlen, dwutlenek węgla i azot. Które z praw gazowych w sposób najlepszy opisuje to zjawisko:`
 * **prawo Daltona**
 * prawo Henrye"go
 * prawo Boyle`a
@@ -6862,21 +6862,21 @@ S.C. względem punktu pomiarowego "DATUM"**
 * bok do boku/ Gz + /
 
 ## Pytanie PL040-0171
-`Podczas wykonywania „ pętli„ działa na pilota przyspieszenie o kierunku :`
+`Podczas wykonywania „ pętli„ działa na pilota przyspieszenie o kierunku:`
 * **#NAZWA?**
 * #NAZWA?
 * #NAZWA?
 * #NAZWA?
 
 ## Pytanie PL040-0172
-`Podczas wymiany gazowej w pęcherzyku płucnym :`
+`Podczas wymiany gazowej w pęcherzyku płucnym:`
 * **tlen przechodzi do krwi, a dwutlenek węgla do pęcherzyka**
 * tlen przechodzi do pęcherzyka, a dwutlenek węgla do krwi
 * tlen i dwutlenek węgla przechodzą do krwi
 * tlen i dwutlenek węgla przechodzą do pęcherzyka
 
 ## Pytanie PL040-0173
-`Podczas wymiany gazowej w tkankach :`
+`Podczas wymiany gazowej w tkankach:`
 * **tlen przechodzi do tkanek, a dwutlenek węgla do krwi**
 * tlen przechodzi do krwi, a dwutlenek węgla do tkanek
 * tlen i dwutlenek węgla przechodzą do krwi
@@ -6890,14 +6890,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * na przemian rośnie i maleje
 
 ## Pytanie PL040-0175
-`Podejmowanie decyzji przez człowieka jest :`
+`Podejmowanie decyzji przez człowieka jest:`
 * **subiektywne i podatne na błędy, związane ze sposobem formułowania problemu i jego interpretacją oraz rodzajem postaw wobec ryzyka**
 * zawsze związane z koniecznością przezwyciężenia zjawiska „bloku umysłowego”
 * redukcja rozwiązania złożonych problemów do prostszych cząstkowych operacji
 * głównie oparte na bieżącej analizie informacji zdrowotnych związanych z daną podjętą reakcją
 
 ## Pytanie PL040-0176
-`Podstawową funkcją narządów otolitowych jest :`
+`Podstawową funkcją narządów otolitowych jest:`
 * **pomiar przyspieszeń liniowych**
 * pomiar prędkości liniowych
 * pomiar przyspieszeń kątowych
@@ -6918,7 +6918,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zmiana współczynnika cieplnego tkanek
 
 ## Pytanie PL040-0180
-`Podstawowymi procesami psychicznymi, które zapewniają pilotowi orientację są :`
+`Podstawowymi procesami psychicznymi, które zapewniają pilotowi orientację są:`
 * **wrażenia, spostrzeżenia, wyobrażenia, procesy myślowe i decyzyjne**
 * utworzenie wewnętrznej reprezentacji przestrzeni problemu zadaniowego
 * procesy widzenia stereoskopowego i dużej przerzutności uwagi
@@ -6939,7 +6939,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * do jednej godziny
 
 ## Pytanie PL040-0183
-`Poziom motywacji wpływa na sprawność wykonania danego zadania. Nieefektywność działania, błędy, problemy z koncentracją uwagi pojawiają się :`
+`Poziom motywacji wpływa na sprawność wykonania danego zadania. Nieefektywność działania, błędy, problemy z koncentracją uwagi pojawiają się:`
 * **zawsze przy skrajnie wysokim lub skrajnie niskim poziomie motywacji**
 * tylko przy zawyżonym poziomie motywacji
 * przy średnio intensywnym poziomie motywacji
@@ -6988,14 +6988,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * twardówkę
 
 ## Pytanie PL040-0192
-`Przeciążenia nie mają wpływu na jakość wykonywania czynności pilota :`
+`Przeciążenia nie mają wpływu na jakość wykonywania czynności pilota:`
 * **zdanie jest nieprawdziwe**
 * PRAWDA
 * zdanie jest nieprawdziwe jedynie w przypadku akrobacji
 * zdanie jest nieprawdziwe jedynie przypadku lotu w pętli odwróconej
 
 ## Pytanie PL040-0193
-`Przeciążenia wzdłuż osi ciała mostek-kręgosłup :`
+`Przeciążenia wzdłuż osi ciała mostek-kręgosłup:`
 * **są najlepiej tolerowane przez organizm ludzki**
 * są najgorzej tolerowane przez organizm ludzki
 * są gorzej tolerowane niż przeciążenia wzdłuż osi długiej
@@ -7030,7 +7030,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * utratę orientacji przestrzennej w chmurach
 
 ## Pytanie PL040-0198
-`Przy krwawieniu z żyły :`
+`Przy krwawieniu z żyły:`
 * **krew zazwyczaj wypływa leniwym strumieniem i ma ciemnoczerwone zabarwienie**
 * krew zazwyczaj wypływa leniwym strumieniem i ma jasnoczerwone zabarwienie
 * krew zazwyczaj wypływa intensywnym tętniącym strumieniem i ma ciemnoczerwone zabarwienie
@@ -7044,7 +7044,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * następuje zawsze całkowite zahamowanie przebiegu procesów myślowych u człowieka
 
 ## Pytanie PL040-0200
-`Przy szybkim spadku prędkości samolotu w locie poziomym i prostoliniowym pilot ulega złudzeniu :`
+`Przy szybkim spadku prędkości samolotu w locie poziomym i prostoliniowym pilot ulega złudzeniu:`
 * **opadania samolotu „nosem” w dół**
 * podnoszenia „nosa” samolotu w górę
 * rotacji bocznej
@@ -7058,21 +7058,21 @@ S.C. względem punktu pomiarowego "DATUM"**
 * niezależnie od wysokości nie robić nic czekając na ustąpienie dolegliwości
 
 ## Pytanie PL040-0202
-`Przy złamaniu kręgosłupa u poszkodowanego zawsze dochodzi do uszkodzenia rdzenia kręgowego stąd po urazie nie ma znaczenia w jakiej pozycji będzie on transportowany :`
+`Przy złamaniu kręgosłupa u poszkodowanego zawsze dochodzi do uszkodzenia rdzenia kręgowego stąd po urazie nie ma znaczenia w jakiej pozycji będzie on transportowany:`
 * **zdanie jest fałszywe i dlatego należy obchodzić się z takimi poszkodowanymi bardzo ostrożnie, ograniczyć ich poruszanie się i przenosić ich jedynie w pozycji poziomej**
 * zdanie jest prawdziwe i dlatego takie osoby mogą być przenoszone w pozycji pionowej
 * zdanie jest prawdziwe i dlatego takie osoby mogą być przenoszone jedynie w pozycji poziomej
 * zdanie jest fałszywe, a uszkodzenie rdzenia kręgowego nie ma żadnego związku z uszkodzeniem kręgosłupa
 
 ## Pytanie PL040-0203
-`Przy znacznym przyspieszaniu podczas startu samolotu pilot ulega złudzeniu :`
+`Przy znacznym przyspieszaniu podczas startu samolotu pilot ulega złudzeniu:`
 * **podnoszenia „nosa” samolotu w górę**
 * opadania samolotu „nosem” w dół
 * rotacji bocznej
 * autorotacji
 
 ## Pytanie PL040-0204
-`Przyczyną dolegliwości w chorobie dekompresyjnej są pęcherzyki którego gazu :`
+`Przyczyną dolegliwości w chorobie dekompresyjnej są pęcherzyki którego gazu:`
 * **azotu**
 * tlenu
 * dwutlenku węgla
@@ -7128,7 +7128,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zmiany stref czasowych
 
 ## Pytanie PL040-0212
-`Psychologiczne procesy orientacji pilota lecącego na małych wysokościach są :`
+`Psychologiczne procesy orientacji pilota lecącego na małych wysokościach są:`
 * **złożone, odbywają się w deficycie czasu przy konieczności dużej przerzutności uwagi w celu odbioru informacji z punktów orientacyjnych znajdujących się na ziemi oraz wskazań przyrządów kontrolnych**
 * głównie są to skoordynowane korekcyjne czynności motoryczne angażujące podstawowe rodzaje ruchów w działaniu pilota: pozycyjne, ciągłe, seryjne
 * zmniejsza się zakres koniecznej świadomej kontroli lotu i angażowania procesów orientacyjnych, pilot bazuje na zautomatyzowaniu czynności i nawykach lotniczych
@@ -7163,7 +7163,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * myślenie dereistyczne, oderwane od rzeczywistości
 
 ## Pytanie PL040-0217
-`Różnicowanie bodźców ma miejsce, gdy :`
+`Różnicowanie bodźców ma miejsce, gdy:`
 * **człowiek uczy się reagować inaczej na wyłącznie określony bodziec wśród podobnych, w pewnym wymiarze rozpoznawanej gamy selektywności wg specyficznych właściwości bodźca**
 * generalizowanie i reagowanie na wszystkie podobne bodźce szybko wygasza się
 * wyzwoleniu się spod działania negatywnego bodźca towarzyszą reakcje autonomicznego układu nerwowego
@@ -7185,7 +7185,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * nie występuje w gałce ocznej
 
 ## Pytanie PL040-0220
-`Specyficzna metoda oceny stosowanaw psychologii to :`
+`Specyficzna metoda oceny stosowanaw psychologii to:`
 * **ocena testowa**
 * wywiad
 * metoda statystyczna
@@ -7227,7 +7227,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 8-9 tys. m
 
 ## Pytanie PL040-0226
-`Strefa krytyczna to wysokość :`
+`Strefa krytyczna to wysokość:`
 * **od 6.000 – 8.000 mnpm**
 * od 2.000 – 4.000 mnpm
 * od 4.000 – 6.000 mnpm
@@ -7270,14 +7270,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * nieistotne dla pilota
 
 ## Pytanie PL040-0232
-`Sytuacje decyzyjne probabilistyczne pojawiają się gdy :`
+`Sytuacje decyzyjne probabilistyczne pojawiają się gdy:`
 * **pilot wykonuje czynności lotnicze przy niedostatecznej ilości informacji dotyczącej sytuacji w powietrzu**
 * w procesie podejmowania decyzji pilot wykorzystuje głównie informacje stałe przyswojone w czasie naziemnego przygotowania do lotu
 * decyzja jest jednoznaczna i nie wymaga większego zaangażowania procesów myślowych
 * dominują określone indywidualne preferencje w sposobie działania pilota
 
 ## Pytanie PL040-0233
-`Szerszy niż zwykle pas startowy :`
+`Szerszy niż zwykle pas startowy:`
 * **powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się niżej niż w rzeczywistości**
 * powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się wyżej niż w rzeczywistości
 * powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się na wysokości rzeczywistej
@@ -7291,14 +7291,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 0,5g/godzinę
 
 ## Pytanie PL040-0235
-`Szybkość metabolizmu alkoholu zależy od masy ciała człowieka :`
+`Szybkość metabolizmu alkoholu zależy od masy ciała człowieka:`
 * **prawda i wynosi ok.10 mg/kg masy ciała na godzinę**
 * fałsz, zależy ona jedynie od ilości wypitego alkoholu
 * prawda i wynosi ona 100 mg/kg masy ciała na godzinę
 * fałsz, zależy ona jedynie od rodzaju wypitego alkoholu
 
 ## Pytanie PL040-0236
-`Ślepota zmierzchowa tzw. kurza ślepota, czyli upośledzenie widzenia o zmierzchu lub upośledzenie adaptacji oka do ciemności wywołana jest :`
+`Ślepota zmierzchowa tzw. kurza ślepota, czyli upośledzenie widzenia o zmierzchu lub upośledzenie adaptacji oka do ciemności wywołana jest:`
 * **długotrwałym niedoborem witaminy A**
 * niedoborem witaminy E
 * podwyższonym poziomem cholesterolu
@@ -7312,7 +7312,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * około 80 dB
 
 ## Pytanie PL040-0238
-`Toksyczność tlenku węgla / CO / wynika :`
+`Toksyczność tlenku węgla / CO / wynika:`
 * **z większego powinowactwa do hemoglobiny niż tlen**
 * z mniejszego powinowactwa do hemoglobiny niż tlen
 * z uszkodzenia układu białokrwinkowego krwi
@@ -7341,14 +7341,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * naukę umiejętności lekceważenia znaczenia nieistotnych zagrożeń
 
 ## Pytanie PL040-0243
-`Trwałe zaburzenie widzenia barw, może być :`
+`Trwałe zaburzenie widzenia barw, może być:`
 * **wrodzona**
 * po usunięciu soczewki
 * po przeszczepieniu rogówki
 * po zapaleniu tęczówki
 
 ## Pytanie PL040-0245
-`U człowieka najsilniejszym „dawcą czasu” /synchronizatorem rytmów okołodobowych/ jest :`
+`U człowieka najsilniejszym „dawcą czasu” /synchronizatorem rytmów okołodobowych/ jest:`
 * **naprzemienność nocy i dnia**
 * intensywność iluminacji
 * czynnik socjalny
@@ -7362,35 +7362,35 @@ S.C. względem punktu pomiarowego "DATUM"**
 * wszyscy ludzie są równi pod względem inteligencji
 
 ## Pytanie PL040-0247
-`Uczeń – pilot w porównaniu z pilotem doświadczonym :`
+`Uczeń – pilot w porównaniu z pilotem doświadczonym:`
 * **potrzebuje więcej czasu na odebranie i przetworzenie informacji, uwzględnia większe ilości danych by poprawnie zorientować się w funkcjonowaniu obiektu sterowania**
 * przetwarzanie informacji jest podobne pod względem jakościowym
 * potrzebuje mniej czasu na odebranie i przetworzenie informacji z racji szybkiego przetwarzania informacji niepełnej nie obciążony nadmiarem doświadczeń
 * nie koncentruje się na informacjach pochodzących z wskazań przyrządów określających parametry lotu
 
 ## Pytanie PL040-0248
-`Uczucie lekkości i "podchodzenia żołądka do gardła" podczas lotu może być wynikiem :`
+`Uczucie lekkości i "podchodzenia żołądka do gardła" podczas lotu może być wynikiem:`
 * **działania na organizm przeciążenia ujemnego wzdłuż osi kończyny dolne - głowa**
 * działania na organizm przeciążenia dodatniego wzdłuż osi kończyny dolne-głowa
 * działania na organizm przeciążenia ujemnego wzdłuż osi bocznej ciała
 * działania na organizm przeciążenia dodatniego wzdłuż osi bocznej ciała
 
 ## Pytanie PL040-0249
-`Uczucie rozpierania w głowie oraz przekrwienie twarzy jest wynikiem :`
+`Uczucie rozpierania w głowie oraz przekrwienie twarzy jest wynikiem:`
 * **przeciążenia ujemnego wzdłuż długiej osi ciała**
 * przeciążenia dodatniego wzdłuż długiej osi ciała
 * przeciążenia dodatniego wzdłuż bocznej osi ciała
 * przeciążenia dodatniego wzdłuż bocznej osi ciała
 
 ## Pytanie PL040-0250
-`Uczucie silnego bólu głowy sprawiający wrażenie rozsadzania głowy jest spowodowany przez :`
+`Uczucie silnego bólu głowy sprawiający wrażenie rozsadzania głowy jest spowodowany przez:`
 * **przeciążenie ujemne /Gz -/**
 * spadek temperatury
 * hałas
 * przeciążenie dodatnie / Gz+ /
 
 ## Pytanie PL040-0251
-`Udział czynnika ludzkiego w wypadkach lotniczych określa się na około :`
+`Udział czynnika ludzkiego w wypadkach lotniczych określa się na około:`
 * **0,9**
 * 0,6
 * 0,3
@@ -7439,7 +7439,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * rozpoznawanie zapachów
 
 ## Pytanie PL040-0259
-`Upośledzenie barofunkcji ucha środkowego występuje najczęściej :`
+`Upośledzenie barofunkcji ucha środkowego występuje najczęściej:`
 * **przy zwiększaniu ciśnienia otaczającej atmosfery**
 * niezależnie od kierunku zmian ciśnienia otaczającego
 * przy długotrwałym oddychaniu czystym tlenem
@@ -7483,7 +7483,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL040-0265
 `W czasie badania tolerancji ustroju na niedobór tlenu w otaczającym
-środowisku głębokie oddychanie :`
+środowisku głębokie oddychanie:`
 * **poprawia tolerancję niedotlenienia**
 * poprawia tolerancję niedotlenienia wysokościowego, jeżeli wzrośnie również liczba oddechów
 * nie poprawia tolerancji niedotlenienia wysokościowego
@@ -7497,7 +7497,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zmienia się cyklicznie
 
 ## Pytanie PL040-0268
-`W krótkowzroczności promienie po przejściu przez ośrodki optyczne załamują się :`
+`W krótkowzroczności promienie po przejściu przez ośrodki optyczne załamują się:`
 * **przed siatkówką**
 * na siatkówce
 * za siatkówką
@@ -7567,7 +7567,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * powoli zwiększać wysokość i przełykać ślinę
 
 ## Pytanie PL040-0278
-`W przypadku wystąpienia dezorientacji przestrzennej oraz zauważenia w trakcie lotu niezgodności pomiędzy wrażeniami z narządu równowagi, wrażeniami wzrokowymi oraz wskazaniem przyrządów, pilot powinien zaufać :`
+`W przypadku wystąpienia dezorientacji przestrzennej oraz zauważenia w trakcie lotu niezgodności pomiędzy wrażeniami z narządu równowagi, wrażeniami wzrokowymi oraz wskazaniem przyrządów, pilot powinien zaufać:`
 * **wskazaniom przyrządów**
 * wrażeniom wzrokowym
 * wrażeniom błędnika oraz wzrokowym
@@ -7616,7 +7616,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * poszkodowany jest przytomny lub nastąpiło zatrucie substancja płynną
 
 ## Pytanie PL040-0285
-`W przypadku złamania i nienaturalnego (poza zakresem fizjologicznym ruchu) ułożenia kończyny należy :`
+`W przypadku złamania i nienaturalnego (poza zakresem fizjologicznym ruchu) ułożenia kończyny należy:`
 * **unieruchomić dwa sąsiednie stawy w zastanej pozycji**
 * unieruchomić dwa sąsiednie stawy dopiero po ustawieniu kończyny w pozycji naturalnej
 * unieruchomić jedynie staw bliższy tułowia
@@ -7630,28 +7630,28 @@ S.C. względem punktu pomiarowego "DATUM"**
 * nie przenosić
 
 ## Pytanie PL040-0289
-`W skręcie ze stałą prędkości kątową samolotu wykonywanie przez pilota ruchów głową w płaszczyźnie innej niż płaszczyzna skrętu może spowodować :`
+`W skręcie ze stałą prędkości kątową samolotu wykonywanie przez pilota ruchów głową w płaszczyźnie innej niż płaszczyzna skrętu może spowodować:`
 * **silne wrażenie wirowania, skrętu i przyspieszania zwane złudzeniem Coriolisa**
 * silny ból głowy
 * zatkanie uszu
 * silny ból zęba
 
 ## Pytanie PL040-0290
-`W utrzymaniu prawidłowej postawy ciała i sprawnej orientacji w przestrzeni, nadrzędna rolę odgrywa :`
+`W utrzymaniu prawidłowej postawy ciała i sprawnej orientacji w przestrzeni, nadrzędna rolę odgrywa:`
 * **błędnik**
 * narząd słuchu
 * narząd wzroku
 * zmysł dotyku
 
 ## Pytanie PL040-0292
-`W wypadku, w którym poszkodowanych zostało więcej osób, w pierwszej kolejności należy udzielić pomocy :`
+`W wypadku, w którym poszkodowanych zostało więcej osób, w pierwszej kolejności należy udzielić pomocy:`
 * **najciężej poszkodowanym**
 * najlżej poszkodowanym
 * najbliższym znajdującym się przy ratowniku
 * osobom ze zwichnięciami
 
 ## Pytanie PL040-0293
-`W wypadku, w którym poszkodowanych zostało więcej osób, w pierwszej kolejności należy udzielić pomocy :`
+`W wypadku, w którym poszkodowanych zostało więcej osób, w pierwszej kolejności należy udzielić pomocy:`
 * **osobom z zatrzymanym krążeniem i oddechem**
 * osobom ze złamaniami
 * osobom ze zwichnięciami
@@ -7672,7 +7672,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * umiejętność przeforsowania swojego punktu widzenia w rozmowie
 
 ## Pytanie PL040-0297
-`Węższy niż zwykle pas startowy :`
+`Węższy niż zwykle pas startowy:`
 * **powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się wyżej niż w rzeczywistości**
 * powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się niżej niż w rzeczywistości
 * powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się na wysokości rzeczywistej
@@ -7707,7 +7707,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * silnie uwarunkowana sytuacyjnie
 
 ## Pytanie PL040-0303
-`Wskaż prawdziwe twierdzenie dotyczące bezpieczeństwa lotów :`
+`Wskaż prawdziwe twierdzenie dotyczące bezpieczeństwa lotów:`
 * **po umiarkowanym spożyciu alkoholu obowiązuje zasada 24 godzinnej przerwypo ostatnim drinku zanim rozpocznie się lot**
 * w przypadku utrzymywania się objawów „kaca" wolno zasiadać za sterami, nawet gdy stężenie alkoholu we krwi jest poniżej progu trzeźwości
 * alkohol zwiększa zdolność mózgu do zużycia tlenu, szczególnie w czasie pobytu na znacznych wysokościach
@@ -7742,7 +7742,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * jest pożądana przy obniżaniu wysokości
 
 ## Pytanie PL040-0308
-`Wymiana ciepła pomiędzy ustrojem a otoczeniem może zachodzić na drodze sposobów wymienionych niżej. Za pomocą których z nich ciepło może być przez ustrój zarówno zyskiwane jak i tracone :`
+`Wymiana ciepła pomiędzy ustrojem a otoczeniem może zachodzić na drodze sposobów wymienionych niżej. Za pomocą których z nich ciepło może być przez ustrój zarówno zyskiwane jak i tracone:`
 * **promieniowanie**
 * parowanie potu
 * przewodzenie
@@ -7756,7 +7756,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * tętnicach
 
 ## Pytanie PL040-0310
-`Wypicie kawy po alkoholu :`
+`Wypicie kawy po alkoholu:`
 * **nie przyspiesza znacząco jego eliminacji z krwi**
 * przyspiesza dwukrotnie jego eliminację z krwi
 * przyspiesza trzykrotnie jego eliminację z krwi
@@ -7770,7 +7770,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * może zaburzać koncentrację uwagi i koordynację psychoruchową
 
 ## Pytanie PL040-0312
-`Wysokość powyżej której nie wolno latać bez sprawnej aparatury tlenowej na pokładzie wynosi :`
+`Wysokość powyżej której nie wolno latać bez sprawnej aparatury tlenowej na pokładzie wynosi:`
 * **4 tys.**
 * 3 tys.
 * 5 tys.
@@ -7812,7 +7812,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * ograniczenie pola widzenia przy utrzymaniu uwagi dowolnej na tym samym poziomie
 
 ## Pytanie PL040-0319
-`Zaczerwienienie skóry, obrzęk, uczucie pieczenia i pęcherze są objawami oparzenia stopnia :`
+`Zaczerwienienie skóry, obrzęk, uczucie pieczenia i pęcherze są objawami oparzenia stopnia:`
 * **II**
 * I
 * III
@@ -7868,7 +7868,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zależnie od temperatury powietrza
 
 ## Pytanie PL040-0327
-`Ze wzrostem wysokości, w składzie powietrza :`
+`Ze wzrostem wysokości, w składzie powietrza:`
 * **skład procentowy gazów pozostaje bez zmian**
 * zmniejsza się procentowa zawartość tlenu i azotu
 * zmniejsza się procentowa zawartość tlenu, azotu i CO2
@@ -7882,7 +7882,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * określenie zespołu objawów związanych z brakiem poczucia kontroli nad jedzeniem w chwilach smutku i przygnębienia
 
 ## Pytanie PL040-0329
-`Zez to :`
+`Zez to:`
 * **wada układu mięśniowego oczu**
 * zaburzenie pracy mięśni rzęskowych
 * kręcz karku
@@ -7896,7 +7896,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * wspólna nazwa dla bólów stawów, mrowienia i świądu skóry
 
 ## Pytanie PL040-0331
-`Zjedzenie tłustego posiłku powoduje szybsze pozbycie się alkoholu z krwi :`
+`Zjedzenie tłustego posiłku powoduje szybsze pozbycie się alkoholu z krwi:`
 * **fałsz, zwalnia jedynie jego wchłanianie się z żołądka**
 * fałsz przyspiesza jedynie jego wchłanianie z żołądka
 * PRAWDA
@@ -7924,7 +7924,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * mają miejsce jedynie w lotnictwie liniowym
 
 ## Pytanie PL040-0335
-`Złudzenia somatograwitacyjne spowodowane są głównie działaniem :`
+`Złudzenia somatograwitacyjne spowodowane są głównie działaniem:`
 * **przyspieszeń liniowych na narządy otolitowe**
 * przyspieszeń liniowych na kanały półkoliste
 * przyspieszeń kątowych na narządy otolitowe
@@ -7938,7 +7938,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * mają miejsce jedynie w lotnictwie liniowym
 
 ## Pytanie PL040-0337
-`Złudzenie autokinezy polega na :`
+`Złudzenie autokinezy polega na:`
 * **fałszywym odczuciu ruchu nieruchomego punktu świetlnego**
 * złudzeniu lotu z przechyleniem na skrzydło
 * odczuciu zbyt dużego kąta wznoszenia podczas startu
@@ -7952,7 +7952,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * rzadko spotykany efekt symulacji zjawiska uwagi selektywnej
 
 ## Pytanie PL040-0339
-`Zmęczenie wzroku pilota w lotach dziennych na małej wysokości wynika z :`
+`Zmęczenie wzroku pilota w lotach dziennych na małej wysokości wynika z:`
 * **konieczności stałego przenoszenia wzroku z szybko przesuwających się obiektów naziemnych na przyrządy pokładowe**
 * niepełnej adaptacji
 * ubytków w polu widzenia
@@ -12273,7 +12273,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * - wzmacniacz hydrauliczny; - klapka odciążająca
 
 ## Pytanie PL080-0230
-`W normalnych warunkach lotu siły na sterownicach są :`
+`W normalnych warunkach lotu siły na sterownicach są:`
 * **zawsze odpowiednio proporcjonalne do zmian ruchu lub zmian stanu lotu**
 * zawsze odpowiednio proporcjonalne do wysokości i prędkości lotu
 * niezależne od prędkości lotu
@@ -13372,21 +13372,21 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 0<n<1
 
 ## Pytanie PL080-0514
-`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne :`
+`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
 * **procentowe zwiększenie Cx będzie większe od procentowego zwiększenia Cz**
 * procentowe zwiększenie Cz będzie większe od procentowego zwiększenia Cx
 * procentowe zwiększenie Cx będzie takie same jak procentowe zwiększenia Cz
 * doskonałość profilu nieznacznie wzrośnie
 
 ## Pytanie PL080-0515
-`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne :`
+`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
 * **stosunek Cz/Cx zmaleje**
 * stosunek Cz/Cx wzrośnie
 * stosunek Cz/Cx nie zmieni się
 * doskonałość profilu nieznacznie wzrośnie
 
 ## Pytanie PL080-0516
-`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne :`
+`W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
 * **doskonałość profilu zmaleje**
 * doskonałość profilu wzrośnie
 * doskonałość profilu nie zmieni się
@@ -13784,7 +13784,7 @@ sprawdzającą
 * 180 dni
 
 ## Pytanie PL099-0027
-`Plomba na spadochronie zawiera datę :`
+`Plomba na spadochronie zawiera datę:`
 * **Ważności ułożenia spadochronu**
 * ułożenia spadochronu
 * Produkcji spadochronu
