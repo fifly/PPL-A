@@ -6503,12 +6503,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 * +Gzdziałanie wzdłuż kręgosłupa w kierunku kończyn dolnych
 * +Gydziałanie wzdłuż kręgosłupa w kierunku kończyn górnych
 
+> Patrz: [Pytanie PL040-0028](#pytanie-pl040-0028)
+
 ## Pytanie PL040-0097
 `Który z kierunków przelotu jest najbardziej niekorzystny z punktu widzenia chronobiologii:`
 * **zachód – wschód**
 * północ – południe
 * wschód – zachód
 * południe – północ
+
+> Jet Lag - sprawdzony :)
 
 ## Pytanie PL040-0098
 `Latanie wkrótce po nurkowaniu jest niewskazane z powodu`
@@ -6621,11 +6625,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 ## Pytanie PL040-0117
 `Najodpowiedniejszą z wymienionych poniżej metodą zapobiegania lotniczej chorobie lokomocyjnej u pilotów jest:`
 * **trening desensytyzacyjny**
-* podawanie leków antychololinoalergicznych
-/Scopolamina/
-* podawanie leków antyhistaminowych
-/Meclizyna, Dimenhydrant/
+* podawanie leków antychololinoalergicznych /Scopolamina/
+* podawanie leków antyhistaminowych /Meclizyna, Dimenhydrant/
 * zastosowanie nadciśnienia oddechowego
+
+> **Desensytyzacja lub odwrażliwianie** – proces terapeutyczny polegający na redukowaniu intensywności reakcji lękowej (np. na traumatyczne przeżycia, obiekt wywołujący fobię) poprzez konstruowanie sytuacji, w których osoba (w rzeczywistości lub w wyobraźni) może skonfrontować się ze złagodzoną wersją swoich doświadczeń (czy obiektem lęku)[1]. Może oznaczać także pozbawienie wrażliwości wynikające z przyzwyczajenia się do widoku drastycznych scen[2].
+Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej chorobie lokomocyjnej u pilotów[potrzebny przypis].
+>
+> Źródło: https://pl.wikipedia.org/wiki/Desensytyzacja
 
 ## Pytanie PL040-0118
 `Najważniejszym czynnikiem wpływającym na nieprzystosowanie zdrowotne pilotów jest:`
