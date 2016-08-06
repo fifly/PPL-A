@@ -5863,7 +5863,6 @@ S.C. względem punktu pomiarowego "DATUM"**
 * obustronnie niedrożnymi trąbkami słuchowymi
 * ciśnienie parcjalne tlenu O2 w przybliżeniu wynosiok. 20% całkowitego ciśnienia atmosferycznego
 
-> http://www.lufthansa.com/pl/pl/Bol-uszu
 > **Możliwe przyczyny bólu uszu na pokładzie samolotu**
 > Ciśnienie powietrza w kabinie samolotu pasażerskiego może spaść do poziomu, który odpowiada mniej więcej wysokości około 2500 m nad poziomem morza. Z tego powodu pasażerowie mogą niekiedy odczuwać ból w uszach.
 >
@@ -5882,6 +5881,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 > Dodatkowo można za pomocą ruchów szczęką, jak przy żuciu gumy, przyspieszyć wyrównanie ciśnienia. Najlepiej zabrać ze sobą kilka gum do żucia. Także przez świadome ziewanie można wspomóc wyrównanie ciśnienia.
 >
 > W przypadku ciężkich stanów zapalnych zatok przynosowych należy zawsze skonsultować się przed lotem z lekarzem prowadzącym.
+>
+> Źródło: http://www.lufthansa.com/pl/pl/Bol-uszu
 
 ## Pytanie PL040-0022
 `Ból zatok obocznych nosa z powodu uwięzienia w nich powietrza może zdarzyć się u pilotów podczas`
@@ -5891,6 +5892,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 * tak samo często podczas zwiększania i zmniejszania wysokości
 
 > Patrz: [Pytanie PL040-0021](#pytanie-pl040-0021)
+>
+> Pytanie czy u innych osób (poza pilotami) takie objawy nie występują? :D
 
 ## Pytanie PL040-0023
 `Centralny układ nerwowy składa się z:`
@@ -5898,6 +5901,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 * tylko mózgu
 * tylko rdzenia kręgowego
 * narządów zmysłów
+
+> **Ośrodkowy układ nerwowy (łac. systema nervosum centrale), OUN, CNS (od ang. central nervous system)** – najważniejsza część układu nerwowego kręgowców. Ośrodkowy układ nerwowy jest chroniony przez kości czaszki oraz kręgosłup. Zbudowany jest z istoty szarej i białej. Częścią składową istoty szarej są komórki nerwowe, a także włókna nerwowe rdzenne i bezrdzenne, tkanka glejowa i naczynia krwionośne wraz z paskami tkanki łącznej. Skład istoty białej to tkanka glejowa, naczynia włókien nerwowych niemających osłonki Schwanna.
+>
+> Źródło: https://pl.wikipedia.org/wiki/O%C5%9Brodkowy_uk%C5%82ad_nerwowy
 
 ## Pytanie PL040-0024
 `Choroba dekompresyjna jest`
