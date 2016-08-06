@@ -7012,14 +7012,20 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 > Źródło: https://pl.wikipedia.org/wiki/Prawo_Daltona
 
 ## Pytanie PL040-0170
-`Podczas wykonywania „ pętli odwróconej” działa na pilota przeciążenie z wektorem siły zwróconym w kierunku:`
+`Podczas wykonywania „pętli odwróconej” działa na pilota przeciążenie z wektorem siły zwróconym w kierunku:`
 * **kończyny dolne - głowa/ Gz - /**
 * głowa - kończyny dolne / Gz + /
 * przednia ściana klatki piersiowej – plecy /Gx + /
 * bok do boku/ Gz + /
 
+> Rozróżniamy pętle:
+> * zwykła - W pętli zwykłej (klasycznej) głowa pilota jest skierowana do środka zataczanego okręgu, występują w niej przeciążenia dodatnie.
+> * odwrócona - W pętli odwróconej (inaczej plecowej) głowa pilota jest na zewnątrz zataczanego kręgu, występują w niej przeciążenia ujemne.
+>
+> Źródło: https://pl.wikipedia.org/wiki/P%C4%99tla_(lotnictwo)
+
 ## Pytanie PL040-0171
-`Podczas wykonywania „ pętli„ działa na pilota przyspieszenie o kierunku:`
+`Podczas wykonywania „pętli„ działa na pilota przyspieszenie o kierunku:`
 * **#NAZWA?**
 * #NAZWA?
 * #NAZWA?
