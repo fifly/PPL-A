@@ -12443,21 +12443,21 @@ S.C. względem punktu pomiarowego "DATUM"**
 * klapka odciążającej
 
 ## Pytanie PL080-0255
-`Wykres zależności Cx = f(α) dla profilu symetrycznego jest:`
+`Wykres zależności c<sub>x</sub> = f(α) dla profilu symetrycznego jest:`
 * **symetryczny względem osi "Cx"**
 * symetryczny względem osi ‘α’
 * symetryczny względem środka układu współrzędnych
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0256
-`Wykres zależności Cz = f(Cx) dla profilu symetrycznego jest:`
+`Wykres zależności c<sub>z</sub> = f(c<sub>x</sub>) dla profilu symetrycznego jest:`
 * **symetryczny względem osi "Cx"**
 * symetryczny względem osi "Cz"
 * symetryczny względem środka układu współrzędnych
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0257
-`Wykres zależności Cz = f(Cx) wykonany na podstawie pomiarów w czasie lotu nazywamy:`
+`Wykres zależności c<sub>z</sub> = f(c<sub>x</sub>) wykonany na podstawie pomiarów w czasie lotu nazywamy:`
 * **biegunową szybowca**
 * biegunową prędkości szybowca
 * biegunową profilu
@@ -12469,26 +12469,26 @@ S.C. względem punktu pomiarowego "DATUM"**
 > Jak tworzy się biegunową statku powietrznego (samolotu, szybowca)(z biegunowej skrzydeł przez sumowanie poszczególnych oporów). Dlatego biorąc pod uwagę współczynnik siły nośnej c<sub>z</sub> i współczynnik oporu czołowego c<sub>x</sub> podczas pomiarów w czasie lotu bierzemy pod uwagę statek powietrzny jako całość.
 
 ## Pytanie PL080-0258
-`Wykres zależności Cz = f(α) dla profilu symetrycznego jest:`
+`Wykres zależności c<sub>z</sub> = f(α) dla profilu symetrycznego jest:`
 * **symetryczny względem środka układu współrzędnych**
 * symetryczny względem osi ‘α’
-* symetryczny względem osi "Cz"
+* symetryczny względem osi "c<sub>z</sub>"
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0259
 `Wykresy jakich zależności dla profilu symetrycznego przechodzą przez
 środek układu współrzędnych?`
-* **Cz = f(α), Cm = f(α)**
-* Cz = f(α), Cx = f(α)
-* Cx = f(α), Cm = f(α)
-* Cz = f(α), Cz = f(Cx)
+* **c<sub>z</sub> = f(α), Cm = f(α)**
+* c<sub>z</sub> = f(α), c<sub>x</sub> = f(α)
+* c<sub>x</sub> = f(α), Cm = f(α)
+* c<sub>z</sub> = f(α), c<sub>z</sub> = f(c<sub>x</sub>)
 
 ## Pytanie PL080-0260
 `Wykresy jakich zależności dla profilu symetrycznego są osiowosymetryczne?`
-* **Cx = f(α), Cz = f(Cx)**
-* tylko Cx = f(α)
-* Cz = f(α), Cx = f(α)
-* tylko Cz = f(Cx)
+* **c<sub>x</sub> = f(α), c<sub>z</sub> = f(c<sub>x</sub>)**
+* tylko c<sub>x</sub> = f(α)
+* c<sub>z</sub> = f(α), c<sub>x</sub> = f(α)
+* tylko c<sub>z</sub> = f(c<sub>x</sub>)
 
 ## Pytanie PL080-0261
 `Wznios skrzydeł stosowany jest w celu:`
@@ -13435,7 +13435,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * #NAZWA?
 
 ## Pytanie PL080-0522
-`Wykres zależności Cz = f(Cx) wykonany na podstawie pomiarów w czasie lotu nazywamy:`
+`Wykres zależności c<sub>z</sub> = f(c<sub>x</sub>) wykonany na podstawie pomiarów w czasie lotu nazywamy:`
 * **biegunową samolotu**
 * biegunową prędkości samolotu
 * biegunową profilu
