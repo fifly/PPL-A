@@ -6319,6 +6319,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 * ultrafioletowego promieniowania słońca
 * mieszania składników każdej części powietrza
 
+> Wiadomo, że tlen jest bardzo aktywnym chemicznie pierwiastkiem, to tym bardziej aktywny musi być ozon. Jego zawartość w danym miejscu i czasie jest wynikiem chwiejnej równowagi między procesami powstawania trójatomowych cząstek tlenu a nieustannym procesem ich rozpadu. Już w 1930 roku na trop wiodący do wyjaśnienia tego zjawiska wpadł S. Chapman. Trafnie wywnioskował, że skoro ozon bardzo silnie pochłania nadfioletowe promieniowanie słoneczne, to musi ono odgrywać jakąś rolę w jego powstawaniu. Okazuje się, że promieniowanie nadfioletowe ma tak dużą energię, iż powoduje rozpad dwuatomowej cząsteczki tlenu na pojedyńcze atomy. Proces ten nazywa się fotodysocjacją. Dziś wiadomo, że proces ten przebiega tylko pod wpływem promieniowania nadfioletowego o długości fali nie większej, niż 0,000242 mm. Promieniowanie o tej długości nie przenika jednak do atmosfery poniżej 20 km wysokości. Toteż fotodysocjacja nie może zachodzić na wysokościach mniejszych. Następnie pojedyńcze atomy tlenu mogą się łączyć z dwuatomowymi jego cząstkami, w wyniku czego powstaje trzyatomowa cząstka ozonu. Proces ten zapisany symbolami chemicznymi ma postać:
+>
+> O + promieniowanie < 0,000242 mm = O + O
+>
+> O + O2 + M = O3 + M
+>
+> Warunkiem powstania tlenu trójatomowego jest ponadto dostatecznie gęsta atmosfera, umożliwiająca duże prawdopodobieństwo wystąpienia tzw. potrójnych zderzeń cząstek tlenu O2 z atomami tlenu O i cząsteczką neutralną M ( np. N2 ). ( Kożuchowski, 1995)
+>
+> Źródło: http://ozonosfera.eprace.edu.pl/410,Ozonowy_parasol_Ziemi.html
+
 ## Pytanie PL040-0070
 `Funkcje integracyjne człowieka w układzie sterowania pilot – statek powietrzny obejmują podstawowe procesy:`
 * **intelektualne, emocjonalno- motywacyjne, orientacji i wykonawcze**
