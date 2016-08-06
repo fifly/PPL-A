@@ -6297,14 +6297,18 @@ S.C. względem punktu pomiarowego "DATUM"**
 ## Pytanie PL040-0067
 `Fizjologiczna częstość oddechów na minutę u człowieka wynosi:`
 * **14-16**
-* 10-sie
-* 07-maj
+* 8-10
+* 5-7
 * 20-30
 
+> W warunkach prawidłowych liczba oddechów u osoby dorosłej 16-20 na minutę, natomiast u noworodka około 40 (dopiero powyżej 60 oddechów na minutę pozwala na rozpoznanie tachypnoe).
+>
+> Źródło: https://pl.wikipedia.org/wiki/Tachypnoe
+
 ## Pytanie PL040-0068
-`Fizjologiczny proces utraty zdolności okomodacyjnych oka to:`
+`Fizjologiczny proces utraty zdolności akomodacyjnych oka to:`
 * **starczowzroczność**
-* skurcz okomodacji
+* skurcz akomodacji
 * krótkowzroczność
 * nadwzroczność
 
