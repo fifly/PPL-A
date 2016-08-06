@@ -7635,6 +7635,25 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * prawidłowe napięcie mięśni
 * rozpoznawanie zapachów
 
+> **Błędnik błoniasty (łac. labyrinthus membranaceus)** – worek łącznotkankowy o zawiłym kształcie znajdujący się we wnętrzu błędnika kostnego zawieszony w przychłonce i wypełniony śródchłonką. Znajdują się w nim właściwe receptory słuchu i równowagi. W błędniku wyróżnia się następujące części: błędnik przedsionkowy i ślimakowy.
+>
+> Budowa błędnika przedsionkowego:
+> * łagiewka – wewnątrz otolity odbierające wrażenia związane z położeniem głowy, stanowi podstawę kanałów półkolistych
+> * woreczek – zawiera plamkę woreczka
+> * przewody półkoliste – dostarczają informacje o ruchach głowy, biegną w kanałach półkolistych
+> * przewód łagiewkowo-woreczkowy
+> * przewód śródchłonki
+>
+> Na błędnik ślimakowy składa się głównie przewód ślimakowy.
+>
+> W łagiewce i woreczku błędnika błoniastego występują receptory wrażliwe na przyspieszenie liniowe (zmiana położenia w górę, w dół, w linii prostej). Receptory tworzą tzw. plamkę łagiewki i woreczka, które skupiają urzęsione komórki zmysłowe, na których spoczywa błona galaretowata. W błonie tej znajdują się kryształy soli wapniowych, tzw. otolity. Ruch głowy w linii prostej powoduje przemieszczanie się otolitów na zasadzie bezwładności, w wyniku czego pobudzane są komórki zmysłowe. Impulsy przesyłane są do ośrodkowego układu nerwowego.
+>
+> Ruchy głowy powodują przepływ endolimfy wypełniającej kanały półkoliste do rozszerzonych zakończeń zwanych bańkami, w których występują urzęsione komórki zmysłowe. Komórki te reagują na obrót głowy, czyli przyspieszenie kątowe.
+>
+> Błędnik odpowiada za utrzymanie równowagi.
+>
+> Źródło: https://pl.wikipedia.org/wiki/B%C5%82%C4%99dnik_b%C5%82oniasty
+
 ## Pytanie PL040-0259
 `Upośledzenie barofunkcji ucha środkowego występuje najczęściej:`
 * **przy zwiększaniu ciśnienia otaczającej atmosfery**
