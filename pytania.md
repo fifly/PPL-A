@@ -6256,6 +6256,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 * lotu poziomego
 * wznoszenia z dużą prędkością
 
+> Patrz: [Pytanie PL040-0021](#pytanie-pl040-0021)
+
 ## Pytanie PL040-0063
 `Ebulizacja oznacza:`
 * **wrzenie płynów ustrojowych na wysokości 19.200m bez wyposażenia pilota w wysokościowy ubiór kompensacyjny**
