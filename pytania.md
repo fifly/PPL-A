@@ -6960,6 +6960,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * 6,1,2,3,4,5
 * 4,1,2,5,3,6
 
+> Najpierw upewniamy się czy miejsce wypadku jest bezpieczne dopiero potem przystępujemy do dalszych czynności. Dlatego 3 na początku ;)
+
 ## Pytanie PL040-0165
 `Podczas "nurkowania" samolotu, szybowca:`
 * **krew napływa do głowy**
