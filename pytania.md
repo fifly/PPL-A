@@ -7317,6 +7317,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 > **Plamka ślepa (łac. macula ceca; plamka Mariotte'a)** – obszar siatkówki oka kręgowców, w którym nerw wzrokowy opuszcza gałkę oczną i biegnie w stronę mózgu. Jest całkowicie pozbawiony fotoreceptorów (czopków i pręcików), jest więc niewrażliwy na światło.
 >
 > Plamki ślepe w gałkach ocznych umieszczone są symetrycznie (względem płaszczyzny symetrii ciała). Wskutek tego luki w polu widzenia obu oczu nie pokrywają się – to, czego nie widzi jedno oko, widzi drugie. Jeśli jest to niemożliwe, np. gdy jedno oko jest zasłonięte, luka w polu widzenia uzupełniana jest odpowiednimi jakościami sensorycznymi – powstaje wrażenie, że pole widzenia jest pełne.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Plamka_%C5%9Blepa
 
 ## Pytanie PL040-0214
 `Rozproszenie uwagi oznacza:`
@@ -7352,6 +7354,17 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * dwa przewody półkoliste błędnika
 * jeden przewód półkolisty błędnika
 * ślimak
+
+> **Kanały półkoliste (łac. canales semicirculares)** – trzy kostne kanały ucha wewnętrznego, znajdujące się w błędniku. Rozpoczynają i kończą się w przedsionku, a jeden z końców zamyka się bańką (ampulla), do której wiedzie odnoga bańkowa (crus ampullaris).
+>
+> U człowieka są one tak usytuowane, że każdy z nich jest ustawiony mniej więcej prostopadle do płaszczyzn dwóch pozostałych:
+> * boczny lub poziomy (lateralis),
+> * tylny lub pionowy tylny (posterior),
+> * przedni lub pionowy przedni (anterior).
+>
+> Wypełnione są przychłonką w której zawieszone są błoniaste przewody półkoliste.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Kana%C5%82y_p%C3%B3%C5%82koliste
 
 ## Pytanie PL040-0219
 `Siatkówka`
