@@ -5998,6 +5998,28 @@ S.C. względem punktu pomiarowego "DATUM"**
 * związana z zaburzeniami błędnika
 * synonimem choroby dekompresyjnej
 
+> **Choroba wysokościowa (choroba d'Acosty, ang. acute mountain sickness, AMS)** nie jest jedną konkretną dolegliwością, a zespołem chorobowym spowodowanym brakiem adaptacji do warunków panujących na dużych wysokościach. Z reguły pojawia się na wysokościach powyżej 2500 m n.p.m., gdzie dostępność tlenu w powietrzu, ze względu na rozrzedzenie atmosfery, zaczyna być za mała na potrzeby organizmu człowieka. U osób wyjątkowo wrażliwych i niezaaklimatyzowanych pierwsze objawy mogą pojawić się już na wysokości około 1500 m n.p.m.
+>
+> Z reguły pierwszymi objawami są ból głowy, nudności, wymioty. Często także osłabienie, brak apetytu, zawroty głowy, problemy z zaśnięciem.
+>
+> Początkowo zaburzenia dotyczą pracy ośrodkowego układu nerwowego. Występuje pogorszenie przypominania, koncentracji, refleksu i spostrzegawczości. Somatycznie następuje wzrost tętna i ciśnienia krwi, co jest reakcją samoobronną organizmu. Następnie przychodzi osłabienie serca i spadek ciśnienia krwi, co prowadzi do omdlenia. Ponadto następuje utrata szeregu podstawowych funkcji organizmu, m.in. pogorszenie zdolności do rozmnażania (powyżej około 4500 m n.p.m.), utrata wagi (nawet do 1 kilograma tygodniowo), nie dająca się skompensować prawidłowym odżywianiem. Zwiększa się ilość erytrocytów we krwi co powoduje jej zagęszczenie, a stosowanie dużych dawek aspiryny w celu jej rozrzedzenia może spowodować owrzodzenie układu pokarmowego.
+>
+> Klasycznymi objawami ostrego stanu są:
+> * obrzęk płuc
+> * obrzęk mózgu.
+>
+> W przypadku braku interwencji lekarskiej, a zwłaszcza nieprzetransportowania chorego w niżej położone rejony, może nastąpić zgon.
+>
+> W celu uniknięcia choroby wysokościowej należy:
+> * prawidłowo zaplanować okres aklimatyzacji i odpowiednio ją stopniować,
+> * zapobiegać odwodnieniu organizmu,
+> * obserwować reakcje organizmu na wzrost wysokości,
+> * nie lekceważyć pierwszych symptomów.
+>
+> Należy też pamiętać, że w wielu przypadkach przekroczenie bariery 6000 m n.p.m. nie jest wskazane ze względów osobniczych, a zdolność rozpoznania sytuacji i czynów bywa ograniczona ze względu na problemy z koncentracją i halucynacje.
+>
+> Żródło: https://pl.wikipedia.org/wiki/Choroba_wysoko%C5%9Bciowa
+
 ## Pytanie PL040-0034
 `Chorobą laryngologiczną występującą najczęściej u pilotów i stanowiącą problem lekarski jest:`
 * **osłabienie słuchu**
