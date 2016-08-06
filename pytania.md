@@ -12465,6 +12465,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 > * Wikipedia: [Doskonałość aerodynamiczna](https://pl.wikipedia.org/wiki/Doskona%C5%82o%C5%9B%C4%87_aerodynamiczna)
 > * [A. Abłamowicz, W. Nowakowski - Szkolenie samolotowe - Podstawy aerodynamiki i mechaniki lotu, Wydawnictwa Komunikacji i Łączności, Warszawa 1980](http://aeroklub.jaroslaw.pl/public/download/ksiazki/aeromech.pdf) - strona 55
+>
 > Jak tworzy się biegunową statku powietrznego (samolotu, szybowca)(z biegunowej skrzydeł przez sumowanie poszczególnych oporów). Dlatego biorąc pod uwagę współczynnik siły nośnej c<sub>z</sub> i współczynnik oporu czołowego c<sub>x</sub> podczas pomiarów w czasie lotu bierzemy pod uwagę statek powietrzny jako całość.
 
 ## Pytanie PL080-0258
