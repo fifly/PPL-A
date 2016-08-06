@@ -11624,10 +11624,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 * grubość profilu
 
 ## Pytanie PL080-0121
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘c<sub>x</sub>’ ma wartość minimalną: α=αc<sub>x</sub>min. W wyniku niewielkiego zwiększenia kąta natarcia:`
-* **procentowe zwiększenie "c<sub>z</sub>" będzie większe od procentowego zwiększenia "c<sub>x</sub>"**
-* procentowe zwiększenie "c<sub>x</sub>" będzie większe od procentowego zwiększenia "c<sub>z</sub>"
-* procentowe zwiększenie "c<sub>x</sub>" będzie takie same jak procentowe zwiększenia "c<sub>z</sub>"
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘Cx’ ma wartość minimalną: α=αc<sub>x</sub>min. W wyniku niewielkiego zwiększenia kąta natarcia:`
+* **procentowe zwiększenie c<sub>z</sub> będzie większe od procentowego zwiększenia c<sub>x</sub>**
+* procentowe zwiększenie c<sub>x</sub> będzie większe od procentowego zwiększenia c<sub>z</sub>
+* procentowe zwiększenie c<sub>x</sub> będzie takie same jak procentowe zwiększenia c<sub>z</sub>
 * doskonałość płatowca nie zmieni się
 
 ## Pytanie PL080-0122
@@ -11645,7 +11645,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * ośi OZ› i ośi OY›
 
 ## Pytanie PL080-0124
-`Maksymalna dopuszczalna prędkość lotu ‘VNE’ to:`
+`Maksymalna dopuszczalna prędkość lotu ‘V<sub>NE</sub>’ to:`
 * **największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym**
 * prędkość, do jakiej nie przewiduje się ograniczeń użytkowania statku powietrznego zgodnie z jego przeznaczeniem
 * maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia
@@ -11786,10 +11786,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0146
 `Niewielkie zwiększanie kąta natarcia α=α optymalne powoduje:`
-* **zwiększanie ‘C<sub>x</sub>’ oraz ‘C<sub>z</sub>’**
-* zmniejszanie ‘C<sub>x</sub>’ oraz ‘C<sub>z</sub>’
-* zwiększanie ‘C<sub>x</sub>’ oraz zmniejszanie ‘C<sub>z</sub>’
-* zwiększanie ‘C<sub>z</sub>’ oraz zmniejszanie ‘C<sub>x</sub>’
+* **zwiększanie ‘Cx’ oraz ‘C<sub>z</sub>’**
+* zmniejszanie ‘Cx’ oraz ‘C<sub>z</sub>’
+* zwiększanie ‘Cx’ oraz zmniejszanie ‘C<sub>z</sub>’
+* zwiększanie ‘C<sub>z</sub>’ oraz zmniejszanie ‘Cx’
 
 ## Pytanie PL080-0147
 `Oblodzenie powierzchni nośnych powoduje:`
@@ -12444,15 +12444,15 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0255
 `Wykres zależności c<sub>x</sub> = f(α) dla profilu symetrycznego jest:`
-* **symetryczny względem osi "c<sub>x</sub>"**
+* **symetryczny względem osi c<sub>x</sub>**
 * symetryczny względem osi ‘α’
 * symetryczny względem środka układu współrzędnych
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0256
 `Wykres zależności c<sub>z</sub> = fc<sub>x</sub> dla profilu symetrycznego jest:`
-* **symetryczny względem osi "c<sub>x</sub>"**
-* symetryczny względem osi "c<sub>z</sub>"
+* **symetryczny względem osi c<sub>x</sub>**
+* symetryczny względem osi c<sub>z</sub>
 * symetryczny względem środka układu współrzędnych
 * nie posiada żadnej symetrii
 
@@ -12472,7 +12472,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 `Wykres zależności c<sub>z</sub> = f(α) dla profilu symetrycznego jest:`
 * **symetryczny względem środka układu współrzędnych**
 * symetryczny względem osi ‘α’
-* symetryczny względem osi "c<sub>z</sub>"
+* symetryczny względem osi c<sub>z</sub>
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0259
@@ -12584,10 +12584,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0276
 `Zwiększanie kąta natarcia α >α kr powoduje:`
-* **zwiększanie "c<sub>x</sub>" oraz zmniejszanie "c<sub>z</sub>"**
-* zwiększanie "c<sub>z</sub>" oraz zmniejszanie "c<sub>x</sub>"
-* zwiększanie "c<sub>x</sub>" oraz "c<sub>z</sub>"
-* zmniejszanie "c<sub>x</sub>" oraz "c<sub>z</sub>"
+* **zwiększanie c<sub>x</sub> oraz zmniejszanie c<sub>z</sub>**
+* zwiększanie c<sub>z</sub> oraz zmniejszanie c<sub>x</sub>
+* zwiększanie c<sub>x</sub> oraz c<sub>z</sub>
+* zmniejszanie c<sub>x</sub> oraz c<sub>z</sub>
 
 ## Pytanie PL080-0282
 `Co to za zasada?: „W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const"`
