@@ -7068,6 +7068,10 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * pomiar przyspieszeń kątowych
 * pomiar prędkości kątowych
 
+> **Narządy otolitowe**
+>
+> W każdym narządzie otolitowym (łagiewce i woreczku) znajduje się struktura czuciowa zwana plamką. Plamka składa się z nabłonka wraz z włoskowatymi komórkami czuciowymi oraz z błony, w której umieszczone są elementy otolitowe (są to kryształki CaCO3 zwane też kamyczkami błędnikowymi). **Zadaniem plamki jest wykrywanie przyspieszenia liniowego.** Ze względu na jej ułożenie (pionowe w woreczku i poziome w łagiewce) woreczek jest czuły na zmiany przyspieszenia w kierunku pionowym (np. grawitacja), zaś łagiewka wykrywa odchylenia głowy od pionu. Receptory w narządach otolitowych są wrażliwe na ruchy o niskiej częstości, które są jedną z przyczyn choroby lokomocyjnej.
+
 ## Pytanie PL040-0177
 `Podstawową funkcją ozonu w atmosferze jest:`
 * **filtrowanie szkodliwego promieniowania UV**
