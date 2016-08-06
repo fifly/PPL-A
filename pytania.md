@@ -7381,6 +7381,10 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * metoda statystyczna
 * metoda opisu
 
+> Test psychologiczny jest specyficzną procedurą diagnozowania. Może on być zbiorem zadań lub pytań, które – w standardowych warunkach – mają wywoływać określone rodzaje zachowań i dostarczać wyników o pożądanych właściwościach psychometrycznych.
+> 
+> Źródło: http://www.staff.amu.edu.pl/~hornowsk/psychologia/Wyklad%201.pdf
+
 ## Pytanie PL040-0221
 `Spostrzeganie głębi to:`
 * **spostrzeganie obiektów w przestrzeni trójwymiarowej wymagające interpretacji odległości między podmiotem a spostrzeganym obiektem**
