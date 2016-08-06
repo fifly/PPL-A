@@ -6265,7 +6265,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * odwodnianie organizmu pilota przed lotem
 * wzrost ciśnienia w tętnicy płucnej
 
-> **EBULIZACJA** – zjawisko wrzenia płynów tkankowych w organizmie; u człowieka ma małe znaczenie, gdyż występuje na wysokości ponad 19 km.
+> **EBULIZACJA** – zjawisko wrzenia płynów tkankowych w organizmie; u człowieka ma małe znaczenie, gdyż występuje na wysokości ponad 19 km (loty stratosferyczne).
 >
 > Zjawiska meteoryzmu (dysbaryzmu) w jamie brzusznej - dolegliwości w jamie brzusznej spowodowane rozszerzającym się gazem w przewodzie pokarmowym. W wypadku, gdy dekompresja wystąpiła na wysokościach, gdzie ostateczne **ciśnienie otaczającej atmosfery osiąga wartości poniżej 47 mm Hg, mamy do czynienia ze zjawiskiem ebulizacji - wrzenia płynów ustrojowych (ciecz o temperaturze 37°C w ciśnieniu 47 mm Hg - wrze).**
 
@@ -6289,6 +6289,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 90-110 skurczów/min
 * powyżej 120 skurczów/min
 * 40-50 skurczów/min
+
+> Skurcze serca są kontrolowane przez układ bodźcoprzewodzący serca. Fala depolaryzacji biegnąca przez mięśniówkę przedsionków i komór powoduje ich skurcz, faza repolaryzacji poprzedza ich rozkurcz. Skurcz i rozkurcz zarówno przedsionków jak i komór powtarza się cyklicznie z częstością ok. 72 skurczów na minutę w spoczynku. Jeden cykl pracy serca trwa około 800 ms.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Fizjologia_serca
 
 ## Pytanie PL040-0067
 `Fizjologiczna częstość oddechów na minutę u człowieka wynosi:`
