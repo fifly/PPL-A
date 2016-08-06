@@ -6343,6 +6343,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 * następuje uwarunkowanie typu lękowego po jednorazowym zestawieniu bodźca obojętnego z traumatycznym
 * reakcja zależności typu : bodziec – reakcja w miarę upływu czasu przestaje zachodzić
 
+> **Generalizacja bodźca (łac. generalis - powszechny, ogólny)** - zjawisko polegające na tym, że reakcja uwarunkowana na bodziec eksperymentalny przejawia się również w stosunku do wielu innych bodźców obecnych w otoczeniu eksperymentalnym (z których eksperymentator może sobie nawet nie zdawać sprawy, natomiast zwierzę je zauważa). Przeciwdziałając temu zjawisku, o ile zachodzi taka potrzeba, eksperymentator przeprowadza warunkowanie różnicujące do chwili gdy ma pewność, ze oczekiwana reakcja zachodzi tylko na bodziec właściwy. Brak warunkowania różnicującego prowadzi do paradoksalnych zachowań opisanych jako zależność magiczna.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Generalizacja_bod%C5%BAca
+
 ## Pytanie PL040-0072
 `Główną przyczyną upośledzenia słuchu w lotnictwie jest:`
 * **ultradźwięki, hałas**
