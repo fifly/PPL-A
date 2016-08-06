@@ -6094,6 +6094,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 * toleruje je tak samo
 * nie toleruje prawie zupełnie ani jednych ani drugich
 
+> Patrz: [Pytanie PL040-0045](#pytanie-pl040-0045)
+
 ## Pytanie PL040-0045
 `Człowiek lepiej toleruje przeciążenia wzdłuż długiej osi ciała:`
 * **dodatnie**
@@ -6101,12 +6103,48 @@ S.C. względem punktu pomiarowego "DATUM"**
 * toleruje je tak samo
 * nie toleruje prawie zupełnie ani jednych ani drugich
 
+> dodatnie
+> * Gz+ siły działają w dół na sylwetkę stojącego człowieka, od głowy do stóp (np. ruszająca winda w górę)
+> * Gx+ siły działają wzdłuż sylwetki stojącego człowieka, od klatki piersiowej do pleców
+>
+> ujemne
+> * Gx- siły działają wzdłuż sylwetki stojącego człowieka, od pleców do klatki piersiowej
+> * Gz- siły działają w górę na sylwetkę stojącego człowieka, od stóp do głowy (np. ruszająca winda w dół)
+>
+> ----
+>
+> **Przeciążenie (używany jest także termin nadważkość)[1] to stan**, w jakim znajduje się ciało poddane działaniu sił zewnętrznych innych, niż siła grawitacji, których wypadkowa powoduje przyspieszenie inne niż wynikające z siły grawitacji. Przyjęto wyrażać przeciążenie jako wielokrotność standardowego przyspieszenia ziemskiego. Tak zdefiniowane przeciążenie jest wektorem, mającym kierunek i zwrot.
+>
+> Przeciążenie może być powodowane przez wibracje, manewry obiektu takiego jak samolot czy samochód, ciąg silników napędowych statku kosmicznego, ciśnienie gazów przyspieszających w lufie pocisk, kolizje itp.
+> 1 g to składowa pionowa przeciążenia ciała znajdującego się na powierzchni Ziemi w spoczynku lub w ruchu ustalonym, 0 g odpowiada stanowi nieważkości (spadek swobodny pod działaniem sił grawitacji). Znajomość przewidywanych przeciążeń umożliwia obliczenie obciążeń i odpowiednie zaprojektowanie konstrukcji obiektów technicznych a także ocenę narażeń, jakim poddawane będą w rozważanych okolicznościach organizmy żywe.
+> Przeciążenie (jak i niedociążenie) może mieć wyłącznie wartość nieujemną (dodatnią lub równą 0).
+> Znak przyspieszenia charakteryzuje umowny kierunek działania sił:
+> dodatnie
+> * Gz+ siły działają w dół na sylwetkę stojącego człowieka, od głowy do stóp (np. ruszająca winda w górę)
+> * Gx+ siły działają wzdłuż sylwetki stojącego człowieka, od klatki piersiowej do pleców (np. przyspieszanie auta)
+>
+> ujemne
+> * Gz- siły działają w górę na sylwetkę stojącego człowieka, od stóp do głowy (np. ruszająca winda w dół)
+> * Gx- siły działają wzdłuż sylwetki stojącego człowieka, od pleców do klatki piersiowej (np. hamowanie auta)
+>
+> Z uwagi na położenie delikatnie ukrwionych organów (mózg, gałki oczne) kierunek przyspieszenia powoduje odpowiednio napływ lub odpływ krwi powodując zmianę jej ciśnienia w tych narządach.
+> W przypadku napływu krwi i wzrostu jej ciśnienia wzrasta prawdopodobieństwo wystąpienia wylewów do mózgu zagrażających zdrowiu i życiu lub do gałek ocznych zagrażających  częściowym lub trwałym upośledzeniem widzenia. Z tego też powodu organizm człowieka dużo lepiej znosi przeciążenia dodatnie niż ujemne.
+> Największe, jednak najkrócej działające, przeciążenia występują w trakcie katapultowania (w niektórych radzieckich konstrukcjach nawet 20-22 g, w zachodnich samolotach 12-14g), podczas wyczynowej akrobacji lotniczej, podczas walki powietrznej samolotu myśliwskiego (do 10 g). Duże przeciążenia występują podczas szybkiego wyprowadzenia (wyrwania) z lotu nurkowego i ogólnie podczas wszystkich manewrów lotniczych wykonywanych podczas lotu z dużą prędkością po łuku. Człowiek w stanie spoczynku poddany jest przeciążeniu 1 g, a 0 g w stanie nieważkości.
+> Długotrwałe przeciążenie dodatnie doprowadza do zaburzeń widzenia (krew odpływa z siatkówki oka), a im większa jest wartość przeciążenia tym krócej może ono działać na organizm bez obawy o niekorzystny wpływ na stan zdrowia. Ponadto występują zaburzenia świadomości (pod postacią przymglenia lub częściowego zamroczenia) – co jest związane z zaburzeniami w ukrwieniu mózgu.
+> Skutki przeciążenia można zmniejszać np. stosując skafander przeciwprzeciążeniowy czy umieszczając pilota w pozycji leżącej. Przyspieszenia poprzeczne (np. plecy – piersi) mogą być około dwukrotnie większe niż dodatnie. Głównymi objawami są utrudnienie oddychania i trudności w poruszaniu kończynami. Powolny wzrost przyspieszenia jest znoszony lepiej niż szybki. Ważną rolę odgrywa systematyczny trening i dobra sprawność fizyczna pilota[2].
+> W życiu codziennym stanu przeciążenia można doświadczyć np. w ruszającej lub zatrzymującej się windzie, w zakręcającym lub pokonującym nierówności samochodzie, w czasie podróży samolotem – szczególnie gdy występują turbulencje. W życiu codziennym największe przeciążenia występują podczas wypadków drogowych a także katastrof lotniczych, są one powodem obrażeń wielonarządowych.
+> Duże przeciążenia, głównie w celu badania ich wpływu na pilotów i astronautów, uzyskuje się w wirówce przeciążeniowej.
+>
+> Żródło: https://pl.wikipedia.org/wiki/Przeci%C4%85%C5%BCenie
+
 ## Pytanie PL040-0046
 `Człowiek wykazuje największą wytrzymałość na przeciążenie działające w kierunku:`
 * **plecy – klatka piersiowa / Gx + /**
 * bok do boku/ Gy-+ /
 * kończyny dolne - głowa /Gz - /
 * głowa – kończyny dolne / Gz + /
+
+> Patrz: [Pytanie PL040-0045](#pytanie-pl040-0045)
 
 ## Pytanie PL040-0047
 `Czy prawidłowa samoocena oraz stopień samoakceptacji ma znaczenie w pracy pilota?`
