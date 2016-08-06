@@ -5768,12 +5768,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zdolność przechodzenia promieni przez soczewkę
 * zdolność przejścia promieni przez ciało szkliste
 
+> http://www.swiatlo.tak.pl/1/index.php/funkcje-wzroku-akomodacja-adaptacja-zbieznosc/
+
 ## Pytanie PL040-0007
 `Akomodacja jest spowodowana:`
 * **zmianą kształtu soczewki**
 * zmianami w rogówce
 * zmianami w ciele szklistym
 * zmianami na dnie oka
+
+> http://www.swiatlo.tak.pl/1/index.php/funkcje-wzroku-akomodacja-adaptacja-zbieznosc/
 
 ## Pytanie PL040-0008
 `Aktywne słuchanie to:`
@@ -5859,12 +5863,34 @@ S.C. względem punktu pomiarowego "DATUM"**
 * obustronnie niedrożnymi trąbkami słuchowymi
 * ciśnienie parcjalne tlenu O2 w przybliżeniu wynosiok. 20% całkowitego ciśnienia atmosferycznego
 
+> http://www.lufthansa.com/pl/pl/Bol-uszu
+> **Możliwe przyczyny bólu uszu na pokładzie samolotu**
+> Ciśnienie powietrza w kabinie samolotu pasażerskiego może spaść do poziomu, który odpowiada mniej więcej wysokości około 2500 m nad poziomem morza. Z tego powodu pasażerowie mogą niekiedy odczuwać ból w uszach.
+>
+> Zdarza się to przede wszystkim wtedy, gdy zostanie zaburzona równowaga pomiędzy ciśnieniem ucha środkowego a otoczeniem. Dolegliwość ta pojawia się zwłaszcza u pasażerów z przeziębieniem, któremu towarzyszy obrzęk nosa i przegrody pomiędzy tylną ścianą gardła i uchem środkowym (tzw. trąbką Eustachiusza).
+>
+> **Mniej kłopotliwy jest start**
+> Mniej kłopotliwy jest zazwyczaj start i wznoszenie się samolotu do wysokości przelotu, bowiem w kabinie powstaje wówczas podciśnienie. U pasażerów z przeziębieniem nadciśnienie występujące w uchu środkowym może zostać stosunkowo łatwo wyrównane przez trąbkę Eustachiusza.
+>
+> **Lądowanie może spowodować bolesność uszu przy przeziębieniu**
+> Problemy sprawia częściej lądowanie, ponieważ przy zmniejszaniu wysokości wraz z rosnącym w kabinie ciśnieniem istnieje możliwość, że naturalne wyrównanie ciśnienia może zostać zakłócone przez obrzmienie śluzówki. Wówczas występuje podciśnienie w uchu środkowym, które naciska na błonę bębenkową, co może być bolesne.
+> **Co można zrobić, aby uniknąć bólu uszu**
+> Najskuteczniejszym sposobem wyrównywania ciśnień jest tzw. metoda Valsalva. Należy wykonać wdech, zatkać nos i przy zamkniętych ustach dynamicznie skierować powietrze w kierunku tylnej ściany gardła, co pozwoli na otwarcie trąbki Eustachiusza i wyrównanie różnicy ciśnień.
+>
+> Zapobiegawczo można na około pół godziny przed obniżeniem przez samolot wysokości przelotowej zaaplikować do obu dziurek w nosie spray zmniejszający obrzęk nosa. Połączenia pomiędzy zatokami przynosowymi a uchem środkowym zostaną wówczas udrożnione i umożliwią wyrównanie ciśnienia pomiędzy uchem środkowym a otoczeniem.
+>
+> Dodatkowo można za pomocą ruchów szczęką, jak przy żuciu gumy, przyspieszyć wyrównanie ciśnienia. Najlepiej zabrać ze sobą kilka gum do żucia. Także przez świadome ziewanie można wspomóc wyrównanie ciśnienia.
+>
+> W przypadku ciężkich stanów zapalnych zatok przynosowych należy zawsze skonsultować się przed lotem z lekarzem prowadzącym.
+
 ## Pytanie PL040-0022
 `Ból zatok obocznych nosa z powodu uwięzienia w nich powietrza może zdarzyć się u pilotów podczas`
 * **zmniejszania wysokości oraz znacznie rzadziej podczas zwiększania wysokości**
 * zwiększania wysokości oraz znacznie rzadziej podczas zmniejszania wysokości
 * lotu poziomego
 * tak samo często podczas zwiększania i zmniejszania wysokości
+
+> Patrz: [Pytanie PL040-0021](#pytanie-pl040-0021)
 
 ## Pytanie PL040-0023
 `Centralny układ nerwowy składa się z:`
@@ -5909,18 +5935,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 * choroba spowodowana przez powstające w ustroju /przy zmianie ciśnienia/ pęcherzyki azotu
 
 ## Pytanie PL040-0031
-`Choroba powietrzną jest reakcją organizmu na niewielkie zmienne przyspieszenie podczas lotu i jest zależna od :`
+`Choroba powietrzną jest reakcją organizmu na niewielkie zmienne przyspieszenie podczas lotu i jest zależna od:`
 * **podrażnienie błędnika /narządu przedsionkowego/**
-* podrażnienie ślimaka /narządu słuchu
-/
+* podrażnienie ślimaka /narządu słuchu/
 * narządu wzroku
 * niedotlenienie mózgu
 
 ## Pytanie PL040-0032
 `Choroba wysokościowa jest:`
 * **związana z niedoborem tlenu**
-* związana z powstaniemw ustroju pęcherzyków azotu / zmiany ciśnienia
-/
+* związana z powstaniemw ustroju pęcherzyków azotu /zmiany ciśnienia/
 * związana z zaburzeniami błędnika
 * synonimem choroby dekompresyjnej
 
