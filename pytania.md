@@ -7375,14 +7375,14 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * nie występuje w gałce ocznej
 
 ## Pytanie PL040-0220
-`Specyficzna metoda oceny stosowanaw psychologii to:`
+`Specyficzna metoda oceny stosowana w psychologii to:`
 * **ocena testowa**
 * wywiad
 * metoda statystyczna
 * metoda opisu
 
 > Test psychologiczny jest specyficzną procedurą diagnozowania. Może on być zbiorem zadań lub pytań, które – w standardowych warunkach – mają wywoływać określone rodzaje zachowań i dostarczać wyników o pożądanych właściwościach psychometrycznych.
-> 
+>
 > Źródło: http://www.staff.amu.edu.pl/~hornowsk/psychologia/Wyklad%201.pdf
 
 ## Pytanie PL040-0221
@@ -7450,8 +7450,7 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 
 ## Pytanie PL040-0230
 `Stresorami psychologicznymi nazywamy:`
-* **czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze stanem gotowości do
-„ataku lub ucieczki”**
+* **czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze stanem gotowości do „ataku lub ucieczki”**
 * wszelkie zakłócenia fizjologicznego funkcjonowania człowieka
 * czynniki powodujące bezsenność
 * problemy i kłopoty życia codziennego
@@ -7483,6 +7482,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * 10g/godzinę
 * 5g/godzinę
 * 0,5g/godzinę
+
+> Szybkość metabolizmu alkoholu zależy od masy ciała człowieka : prawda i wynosi ok.10 mg/kg masy ciała na godzinę
 
 ## Pytanie PL040-0235
 `Szybkość metabolizmu alkoholu zależy od masy ciała człowieka:`
@@ -7540,6 +7541,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * po usunięciu soczewki
 * po przeszczepieniu rogówki
 * po zapaleniu tęczówki
+
+> *Ślepota barw** – zwana też zaburzeniem rozpoznawania barw (często ogólnie nazywana daltonizmem[1]), u ludzi jest niezdolnością do spostrzegania różnic pomiędzy niektórymi lub wszystkimi barwami, które normalnie są dostrzegane przez inne osoby. Ślepota barw jest zazwyczaj wadą wrodzoną, uwarunkowaną genetycznie, dziedziczoną recesywnie w sprzężeniu z chromosomem X. Z tego też powodu znacznie częściej dotyczy mężczyzn (ok. 8%) niż kobiet (ok. 0,5%)[2]. Ponieważ mężczyźni nie przekazują swojego chromosomu X swoim męskim potomkom, zatem mężczyzna ze ślepotą barw nie przekaże jej swojemu synowi. Kobieta, mając dwa chromosomy X może być nosicielką genu ślepoty barw nawet o tym nie wiedząc. Jeżeli po stronie rodziny matki jest mężczyzna, który ma ślepotę barw, to jest duża szansa, że jej dziecko odziedziczy jego gen. Przyczyni się to do ślepoty barw zazwyczaj w przypadku, gdy dziecko będzie płci męskiej. W bardzo rzadkich przypadkach matka sama będzie miała tę wadę. Oznaczać to będzie, że posiada dwa „ślepe na barwy” chromosomy X. Fakt, że gen ślepoty barw jest w chromosomie X, jest przyczyną, że prawdopodobieństwo wystąpienia tej choroby u mężczyzn jest od 10 do 20 razy większe niż u kobiet.
 
 ## Pytanie PL040-0245
 `U człowieka najsilniejszym „dawcą czasu” /synchronizatorem rytmów okołodobowych/ jest:`
