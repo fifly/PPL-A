@@ -5913,12 +5913,30 @@ S.C. względem punktu pomiarowego "DATUM"**
 * bezpośrednim następstwem zbyt szybkiego oddychania 100% tlenem
 * stanem nie występującym w lotnictwie, a jedynie podczas nurkowania na znacznej głębokości
 
+> **Choroba dekompresyjna, DCS, (dawniej: choroba kesonowa)** – zespół objawów dotykających osobę wystawioną na zbyt szybko zmniejszające się ciśnienie zewnętrzne. Choroba dekompresyjna rzadko występuje u osób, które nie oddychały gazem pod zwiększonym ciśnieniem (freediving).
+>
+> Choroba dekompresyjna może wystąpić w sytuacjach, gdy:
+>
+> * nurek zbyt szybko wynurzy się na powierzchnię bez zastosowania odpowiedniej prędkości i przystanków dekompresyjnych;
+> * samolot po wystartowaniu dla bezpieczeństwa w kontrolowany sposób obniża w środku ciśnienie (samolot jest szczelny);
+> * robotnik opuszcza keson lub kopalnię, do których wpompowano powietrze w celu pozbycia się wody.
+>
+> Następuje wówczas zmniejszanie ciśnienia otoczenia, co powoduje z kolei powstawanie pęcherzyków gazu obojętnego (zazwyczaj azotu) w tkankach i płynach ustrojowych organizmu.
+>
+> Zgodnie z prawem Henry’ego, jeśli ciśnienie gazu nad lustrem płynu zostaje zmniejszone, ilość gazu rozpuszczonego w płynie również ulega zmniejszeniu. To samo zjawisko występuje przy otwieraniu butelki z gazowanym napojem – gdy zostanie odkręcona nakrętka słychać ulatujący gaz i widać tworzące się pęcherzyki dwutlenku węgla. Powstają one w wyniku nagłego zmniejszenia ciśnienia otoczenia panującego w butelce do wartości ciśnienia atmosferycznego.
+>
+> Podobnie dzieje się z azotem (gazem obojętnym), który normalnie występuje w tkankach i płynach ustrojowych organizmu w niegroźnej postaci rozpuszczonej. Podczas szybkiego zmniejszania ciśnienia, np. w przypadku rozszczelnienia kabiny lecącego samolotu lub podczas wynurzania w nurkowaniu, następuje uwalnianie gazu obojętnego rozpuszczonego w organizmie. Jeśli cały proces przebiega zbyt szybko, gaz obojętny wytrąca się z krwi i tworzy pęcherzyki, wywołując następujące objawy: świąd i marmurkowatość skóry, skrzypienie skóry, bóle stawów, uszkodzenia układu nerwowego, paraliż lub śmierć. Późne powikłania to zmiany zwyrodnieniowe stawów i martwica kości.
+>
+> Choroba dekompresyjna (DCS) oraz zator gazowy, mimo że wywoływane przez różne czynniki, mogą mieć bardzo podobne objawy. Dlatego występują w nazewnictwie fachowym wspólnie pod terminem zespół zaburzeń dekompresyjnych lub DCI.
+
 ## Pytanie PL040-0025
 `Choroba dekompresyjna jest powodowana przez:`
 * **obniżenie ciśnienia otaczającego**
 * wzrost ciśnienia otaczającego
 * niedobór azotu w powietrzu pęcherzykowym
 * spadek ciśnienia parcjalnego tlenu
+
+> Patrz: [Pytanie PL040-0024](#Pytanie-PL040-0024)
 
 ## Pytanie PL040-0028
 `Choroba powietrzna :`
