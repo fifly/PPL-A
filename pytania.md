@@ -11192,7 +11192,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 ## Pytanie PL080-0050
 `Doskonałość profilu:`
 * **zmienia się w zależności od kąta natarcia**
-* jest stałą charakterystyczną dla profilu i odpowiada wartości (Cz/Cx)max
+* jest stałą charakterystyczną dla profilu i odpowiada wartości ((c<sub>z</sub>)/c<sub>x</sub>)max
 * zawsze rośnie przy zwiększaniu kąta natarcia
 * zawsze rośnie przy zmniejszaniu kąta natarcia
 
@@ -11267,7 +11267,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * punkt turbulencyjny
 
 ## Pytanie PL080-0061
-`Jak nazywa się wykres przedstawiający zależność współczynnika siły nośnej Cz od współczynnika oporu Cx statku powietrznego?`
+`Jak nazywa się wykres przedstawiający zależność współczynnika siły nośnej (c<sub>z</sub>) od współczynnika oporu c<sub>x</sub> statku powietrznego?`
 * **Biegunowa.**
 * Krzywa doskonałości.
 * Biegunowa prędkości.
@@ -11484,7 +11484,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * sterowność podłużna nie zmieni się
 
 ## Pytanie PL080-0096
-`Każde ciało ma swój własny, stały i niezmienny współczynnik oporu kształtu cx<sub>kszt</sub>`
+`Każde ciało ma swój własny, stały i niezmienny współczynnik oporu kształtu c<sub>x</sub><sub>kszt</sub>`
 * **fałsz, współczynnik oporu kształtu zależy również od ustawienia ciała**
 * zawsze prawda
 * fałsz, współczynnik oporu kształtu nie zależy od kształtu ciała
@@ -11492,8 +11492,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0097
 `Kąt natarcia dla którego C<sub>x</sub>= C <sub>xmin</sub>zawsze jest:`
-* **mniejszy od kąta natarcia dla(Cz/Cx)max**
-* mniejszy od kąta natarcia dla optymalnego Cx
+* **mniejszy od kąta natarcia dla((c<sub>z</sub>)/c<sub>x</sub>)max**
+* mniejszy od kąta natarcia dla optymalnego c<sub>x</sub>
 * równy kątowi natarcia dla C <sub>z</sub> = 0
 * większy od kąta natarcia dla C<sub>z</sub> = 0
 
@@ -11624,10 +11624,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 * grubość profilu
 
 ## Pytanie PL080-0121
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘Cx’ ma wartość minimalną: α=αCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
-* **procentowe zwiększenie "Cz" będzie większe od procentowego zwiększenia "Cx"**
-* procentowe zwiększenie "Cx" będzie większe od procentowego zwiększenia "Cz"
-* procentowe zwiększenie "Cx" będzie takie same jak procentowe zwiększenia "Cz"
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘c<sub>x</sub>’ ma wartość minimalną: α=αc<sub>x</sub>min. W wyniku niewielkiego zwiększenia kąta natarcia:`
+* **procentowe zwiększenie "c<sub>z</sub>" będzie większe od procentowego zwiększenia "c<sub>x</sub>"**
+* procentowe zwiększenie "c<sub>x</sub>" będzie większe od procentowego zwiększenia "c<sub>z</sub>"
+* procentowe zwiększenie "c<sub>x</sub>" będzie takie same jak procentowe zwiększenia "c<sub>z</sub>"
 * doskonałość płatowca nie zmieni się
 
 ## Pytanie PL080-0122
@@ -11653,7 +11653,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0125
 `Maksymalna doskonałość profilu:`
-* **jest stałą charakterystyczną dla profilu i odpowiada wartości (Cz/Cx)max**
+* **jest stałą charakterystyczną dla profilu i odpowiada wartości ((c<sub>z</sub>)/c<sub>x</sub>)max**
 * zmienia się w zależności od kąta natarcia
 * zawsze rośnie przy zwiększaniu kąta natarcia
 * zawsze rośnie przy zmniejszaniu kąta natarcia
@@ -11680,7 +11680,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * poprawienia stateczności w pełnym zakresie kątów natarcia
 
 ## Pytanie PL080-0129
-`Minimalną wartość współczynnika siły oporu Cx otrzymujemy dla kąta natarcia α = 0°`
+`Minimalną wartość współczynnika siły oporu c<sub>x</sub> otrzymujemy dla kąta natarcia α = 0°`
 * **prawda tylko dla profili symetrycznych**
 * zawsze prawda
 * zawsze fałsz
@@ -12394,14 +12394,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * przepływ ma charakter turbulentny
 
 ## Pytanie PL080-0245
-`Wartość współczynnika siły nośnej Cz dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
+`Wartość współczynnika siły nośnej (c<sub>z</sub>) dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
 * **zawsze prawda**
 * zawsze fałsz
 * prawda tylko dla profili symetrycznych
 * fałsz tylko dla profili symetrycznych
 
 ## Pytanie PL080-0246
-`Wartość współczynnika siły oporu Cx dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
+`Wartość współczynnika siły oporu c<sub>x</sub> dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
 * **zawsze fałsz**
 * zawsze prawda
 * prawda tylko dla profili symetrycznych
@@ -12444,20 +12444,20 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0255
 `Wykres zależności c<sub>x</sub> = f(α) dla profilu symetrycznego jest:`
-* **symetryczny względem osi "Cx"**
+* **symetryczny względem osi "c<sub>x</sub>"**
 * symetryczny względem osi ‘α’
 * symetryczny względem środka układu współrzędnych
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0256
-`Wykres zależności c<sub>z</sub> = f(c<sub>x</sub>) dla profilu symetrycznego jest:`
-* **symetryczny względem osi "Cx"**
-* symetryczny względem osi "Cz"
+`Wykres zależności c<sub>z</sub> = fc<sub>x</sub> dla profilu symetrycznego jest:`
+* **symetryczny względem osi "c<sub>x</sub>"**
+* symetryczny względem osi "c<sub>z</sub>"
 * symetryczny względem środka układu współrzędnych
 * nie posiada żadnej symetrii
 
 ## Pytanie PL080-0257
-`Wykres zależności c<sub>z</sub> = f(c<sub>x</sub>) wykonany na podstawie pomiarów w czasie lotu nazywamy:`
+`Wykres zależności c<sub>z</sub> = fc<sub>x</sub> wykonany na podstawie pomiarów w czasie lotu nazywamy:`
 * **biegunową szybowca**
 * biegunową prędkości szybowca
 * biegunową profilu
@@ -12481,14 +12481,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * **c<sub>z</sub> = f(α), Cm = f(α)**
 * c<sub>z</sub> = f(α), c<sub>x</sub> = f(α)
 * c<sub>x</sub> = f(α), Cm = f(α)
-* c<sub>z</sub> = f(α), c<sub>z</sub> = f(c<sub>x</sub>)
+* c<sub>z</sub> = f(α), c<sub>z</sub> = fc<sub>x</sub>
 
 ## Pytanie PL080-0260
 `Wykresy jakich zależności dla profilu symetrycznego są osiowosymetryczne?`
-* **c<sub>x</sub> = f(α), c<sub>z</sub> = f(c<sub>x</sub>)**
+* **c<sub>x</sub> = f(α), c<sub>z</sub> = fc<sub>x</sub>**
 * tylko c<sub>x</sub> = f(α)
 * c<sub>z</sub> = f(α), c<sub>x</sub> = f(α)
-* tylko c<sub>z</sub> = f(c<sub>x</sub>)
+* tylko c<sub>z</sub> = fc<sub>x</sub>
 
 ## Pytanie PL080-0261
 `Wznios skrzydeł stosowany jest w celu:`
@@ -12584,10 +12584,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0276
 `Zwiększanie kąta natarcia α >α kr powoduje:`
-* **zwiększanie "Cx" oraz zmniejszanie "Cz"**
-* zwiększanie "Cz" oraz zmniejszanie "Cx"
-* zwiększanie "Cx" oraz "Cz"
-* zmniejszanie "Cx" oraz "Cz"
+* **zwiększanie "c<sub>x</sub>" oraz zmniejszanie "c<sub>z</sub>"**
+* zwiększanie "c<sub>z</sub>" oraz zmniejszanie "c<sub>x</sub>"
+* zwiększanie "c<sub>x</sub>" oraz "c<sub>z</sub>"
+* zmniejszanie "c<sub>x</sub>" oraz "c<sub>z</sub>"
 
 ## Pytanie PL080-0282
 `Co to za zasada?: „W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const"`
@@ -12681,18 +12681,18 @@ S.C. względem punktu pomiarowego "DATUM"**
 * zmienia się i można go odczytać wykreślając biegunową szybowca
 
 ## Pytanie PL080-0307
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: α=αCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
-* **stosunek Cz/Cx wzrośnie**
-* stosunek Cz/Cx zmaleje
-* stosunek Cz/Cx nie zmieni się
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu c<sub>x</sub> ma wartość minimalną: α=αc<sub>x</sub>min. W wyniku niewielkiego zwiększenia kąta natarcia:`
+* **stosunek (c<sub>z</sub>)/c<sub>x</sub> wzrośnie**
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> zmaleje
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> nie zmieni się
 * doskonałość płatowca nie zmieni się
 
 ## Pytanie PL080-0308
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: α=αCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu c<sub>x</sub> ma wartość minimalną: α=αc<sub>x</sub>min. W wyniku niewielkiego zwiększenia kąta natarcia:`
 * **doskonałość płatowca wzrośnie**
 * doskonałość płatowca zmaleje
 * doskonałość płatowca nie zmieni się
-* stosunek Cz/Cx zmaleje
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> zmaleje
 
 ## Pytanie PL080-0309
 `Na rodzaj korkociągu główny wpływ mają następujące czynniki:`
@@ -12939,18 +12939,18 @@ S.C. względem punktu pomiarowego "DATUM"**
 * - iloraz siły i drogi- jednostka wat [W]
 
 ## Pytanie PL080-0427
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: α=αCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
-* **stosunek Cz/Cx wzrośnie**
-* stosunek Cz/Cx zmaleje
-* stosunek Cz/Cx nie zmieni się
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu c<sub>x</sub> ma wartość minimalną: α=αc<sub>x</sub>min. W wyniku niewielkiego zwiększenia kąta natarcia:`
+* **stosunek (c<sub>z</sub>)/c<sub>x</sub> wzrośnie**
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> zmaleje
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> nie zmieni się
 * doskonałość płatowca nie zmieni się
 
 ## Pytanie PL080-0428
-`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: α=αCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
+`Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu c<sub>x</sub> ma wartość minimalną: α=αc<sub>x</sub>min. W wyniku niewielkiego zwiększenia kąta natarcia:`
 * **doskonałość płatowca wzrośnie**
 * doskonałość płatowca zmaleje
 * doskonałość płatowca nie zmieni się
-* stosunek Cz/Cx zmaleje
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> zmaleje
 
 ## Pytanie PL080-0429
 `Miarą stateczności statycznej jest pochodna Mx = dM/dx, zwana „pochodną momentu M względem zmiennej x”. Jaki znak pochodnej określa niestateczność?`
@@ -13042,7 +13042,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 `Pociągnięcie drążka na siebie powoduje:`
 * **wzrost współczynnika obciążenia samolotu "n"**
 * zmniejszenie współczynnika obciążenia samolotu "n"
-* wzrost współczynnika CZ , co powoduje spadek współczynnika obciążenia "n"
+* wzrost współczynnika (c<sub>z</sub>) , co powoduje spadek współczynnika obciążenia "n"
 * zmianę wartości współczynnika obciążenia ‘n’ z dodatniego na ujemny
 
 ## Pytanie PL080-0454
@@ -13401,16 +13401,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0514
 `W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
-* **procentowe zwiększenie Cx będzie większe od procentowego zwiększenia Cz**
-* procentowe zwiększenie Cz będzie większe od procentowego zwiększenia Cx
-* procentowe zwiększenie Cx będzie takie same jak procentowe zwiększenia Cz
+* **procentowe zwiększenie c<sub>x</sub> będzie większe od procentowego zwiększenia Cz**
+* procentowe zwiększenie (c<sub>z</sub>) będzie większe od procentowego zwiększenia c<sub>x</sub>
+* procentowe zwiększenie c<sub>x</sub> będzie takie same jak procentowe zwiększenia Cz
 * doskonałość profilu nieznacznie wzrośnie
 
 ## Pytanie PL080-0515
 `W wyniku niewielkiego zwiększania kąta natarcia α=α optymalne:`
-* **stosunek Cz/Cx zmaleje**
-* stosunek Cz/Cx wzrośnie
-* stosunek Cz/Cx nie zmieni się
+* **stosunek (c<sub>z</sub>)/c<sub>x</sub> zmaleje**
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> wzrośnie
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> nie zmieni się
 * doskonałość profilu nieznacznie wzrośnie
 
 ## Pytanie PL080-0516
@@ -13418,7 +13418,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * **doskonałość profilu zmaleje**
 * doskonałość profilu wzrośnie
 * doskonałość profilu nie zmieni się
-* stosunek Cz/Cx wzrośnie
+* stosunek (c<sub>z</sub>)/c<sub>x</sub> wzrośnie
 
 ## Pytanie PL080-0519
 `Wychylenie lotek w lewo podczas lotu w fazie przeciągnięcia spowoduje:`
@@ -13429,13 +13429,13 @@ S.C. względem punktu pomiarowego "DATUM"**
 
 ## Pytanie PL080-0520
 `Wychyleniu klap towarzyszy zwykle:`
-* **- wzrost Cz; - wzrost Cx; - spadek doskonałości samolotu**
-* - wzrost Cz; - wzrost Cx; - wzrost doskonałości samolotu
-* - wzrost Cz; - wzrost Cx; - nie zmieniona doskonałość samolotu
+* **- wzrost (c<sub>z</sub>); - wzrost c<sub>x</sub>; - spadek doskonałości samolotu**
+* - wzrost (c<sub>z</sub>); - wzrost c<sub>x</sub>; - wzrost doskonałości samolotu
+* - wzrost (c<sub>z</sub>); - wzrost c<sub>x</sub>; - nie zmieniona doskonałość samolotu
 * #NAZWA?
 
 ## Pytanie PL080-0522
-`Wykres zależności c<sub>z</sub> = f(c<sub>x</sub>) wykonany na podstawie pomiarów w czasie lotu nazywamy:`
+`Wykres zależności c<sub>z</sub> = fc<sub>x</sub> wykonany na podstawie pomiarów w czasie lotu nazywamy:`
 * **biegunową samolotu**
 * biegunową prędkości samolotu
 * biegunową profilu
