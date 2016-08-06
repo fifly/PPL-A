@@ -6057,7 +6057,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 380 mmHg (ok. 50% ciśnienia powietrza)
 * 570 mmHg (ok. 75% ciśnienia powietrza)
 
-> Patrz: [Pytanie PL040-0038](pytanie-pl040-0038)
+> Patrz: [Pytanie PL040-0038](#pytanie-pl040-0038)
 
 ## Pytanie PL040-0040
 `Ciśnienie parcjalne tlenu w pęcherzyku płucnym w stosunku do ciśnienia parcjalnego tlenu w powietrzu na danej wysokości jest:`
