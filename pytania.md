@@ -6048,14 +6048,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 * ok. 4 % całkowitego ciśnienia atmosferycznego
 * ok.1% całkowitego ciśnienia atmosferycznego
 
-> Zawartość tlenu w atmosferze wynosi prawie 21%. **Ciśnienie cząstkowe (ciśnienie parcjalne)** - ciśnienie, jakie wywierałby dany składnik mieszaniny gazów, gdyby w tej samej temperaturze sam zajmował objętość całej mieszaniny.
+> Zawartość tlenu w atmosferze wynosi prawie 21%, dlatego jego ciśnienie parcjalne na poziomie morza wynosi około 152 mmHg. **Ciśnienie cząstkowe (ciśnienie parcjalne)** - ciśnienie, jakie wywierałby dany składnik mieszaniny gazów, gdyby w tej samej temperaturze sam zajmował objętość całej mieszaniny.
 
 ## Pytanie PL040-0039
 `Ciśnienie parcjalne tlenu w atmosferze na poziomie morza jest równe:`
 * **152 mmHg (ok. 21% ciśnienia powietrza)**
 * 760 mmHg (ok. 100% ciśnienia powietrza)
-* 380 mmHg (ok.50% ciśnienia powietrza)
+* 380 mmHg (ok. 50% ciśnienia powietrza)
 * 570 mmHg (ok. 75% ciśnienia powietrza)
+
+> Patrz: [Pytanie PL040-0038](pytanie-pl040-0038)
 
 ## Pytanie PL040-0040
 `Ciśnienie parcjalne tlenu w pęcherzyku płucnym w stosunku do ciśnienia parcjalnego tlenu w powietrzu na danej wysokości jest:`
@@ -6065,7 +6067,7 @@ S.C. względem punktu pomiarowego "DATUM"**
 * wyższe lub niższew zależności od temperatury powietrza
 
 ## Pytanie PL040-0041
-`Co określa uwarunkowania odporności psychicznej człowieka ?`
+`Co określa uwarunkowania odporności psychicznej człowieka?`
 * **typ temperamentu, typ strategii zachowania i reakcji emocjonalnej w sytuacjach trudnych, dojrzałość osobowości**
 * dobre funkcjonowanie przy wzroście poziomu aktywacji
 * głównie cechy związane z doświadczeniem życiowym nabyte i wyuczone społecznie przez jednostkę
