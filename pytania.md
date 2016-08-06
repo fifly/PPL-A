@@ -6265,6 +6265,10 @@ S.C. względem punktu pomiarowego "DATUM"**
 * odwodnianie organizmu pilota przed lotem
 * wzrost ciśnienia w tętnicy płucnej
 
+> **EBULIZACJA** – zjawisko wrzenia płynów tkankowych w organizmie; u człowieka ma małe znaczenie, gdyż występuje na wysokości ponad 19 km.
+>
+> Zjawiska meteoryzmu (dysbaryzmu) w jamie brzusznej - dolegliwości w jamie brzusznej spowodowane rozszerzającym się gazem w przewodzie pokarmowym. W wypadku, gdy dekompresja wystąpiła na wysokościach, gdzie ostateczne **ciśnienie otaczającej atmosfery osiąga wartości poniżej 47 mm Hg, mamy do czynienia ze zjawiskiem ebulizacji - wrzenia płynów ustrojowych (ciecz o temperaturze 37°C w ciśnieniu 47 mm Hg - wrze).**
+
 ## Pytanie PL040-0064
 `Efektywność czynności wykonawczych pilota jest przede wszystkim uzależniona od:`
 * **dokładności i trwałości ukształtowanych w procesie szkolenia schematówdziałania poprzez systematyczne i coraz bardziej skomplikowane ćwiczenia**
