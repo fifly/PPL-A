@@ -7679,9 +7679,14 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 `Uwaga dowolna to:`
 * **uwaga skupiona na przedmiocie na skutek aktywnego zamiaru i wysiłku woli powstaje w wyniku istnienia odpowiedniej motywacji ze strony człowieka**
 * nieświadome zapamiętywanie informacji sensorycznych
-* umiejętność skupienia się na jednym
-źródle informacji
+* umiejętność skupienia się na jednym źródle informacji
 * przetwarzanie informacji ze zmysłów do świadomości
+
+> Wyróżniamy uwagę **mimowolną** i **dowolną**.
+>
+> **Uwaga mimowolna** występuje wówczas, gdy nie stawiamy sobie określonego celu i nie zamierzamy się czymś specjalnie intere­sować. Na przykład idąc ulicą nie mamy zamiaru obserwować wystaw sklepowych, lecz chcemy jak najszybciej dotrzeć na umówione miejsce, a jednak wystawy swoim układem towarów zwracają naszą uwagę. Budząc się rano ze snu, zwracamy uwa­gę na wspaniałe oświetlenie nieba podczas wschodzącego słońca. Uwagę mimowolną przyciąga zawsze to, co wyróżnia się z oto­czenia, co jest inne, nie spotykane w tym otoczeniu. Osoba w barwnym stroju ludowym na ulicy niewielkiego miasta lub mężczyzna z dużą brodą pośród gładko wygolonych natychmiast wzbudzają uwagę mimowolną.
+>
+> Wzbudzenie **uwagi dowolnej** związane jest zawsze z określo­nym celem, wymaga wysiłku, a często nawet przełamania we­wnętrznych oporów i skoncentrowania się na wybranym zjawis­ku czy przedmiocie, którym chcemy się zająć. W koncentracji uwagi pomaga zainteresowanie danym zjawiskiem. Jeśli człowiek pracuje w danej dziedzinie, to zawsze znajdzie w niej sprawy interesujące go i łatwiej skoncentruje uwagę na zjawiskach z tej dziedziny. Uwaga dowolna ma duże znaczenie dla naszej pracy i nauki. W pracy koncentracja uwagi pozwala na lepsze i’ spraw­niejsze wykonanie jej, a w nauce na szybsze przyswojenie treści, lepsze opanowanie ich, ekonomiczne wykorzystanie czasu prze­znaczonego na naukę. Ucząc się trzeba zapamiętać dużo różno­rodnych treści, dokonać często skomplikowanych wyliczeń, a bez koncentracji uwagi łatwo o pomyłki i niedokładności.
 
 ## Pytanie PL040-0263
 `Uwaga mimowolna to:`
@@ -7689,6 +7694,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * nieświadome przechowywanie i zapamiętywanie informacji
 * rodzaj uwagi o ograniczonej pojemności
 * rodzaj uwagi świadomie selekcjonujący informacje w jednostce czasu
+
+> Patrz [Pytanie PL040-0262](#pytanie-pl040-0262)
 
 ## Pytanie PL040-0264
 `Uwagę dowolną człowieka charakteryzuje:`
