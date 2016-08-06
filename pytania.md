@@ -6993,9 +6993,23 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 ## Pytanie PL040-0169
 `Podczas wdechu i wydechu ciśnienie powietrza pęcherzykowatego jest sumą ciśnień parcjalnych wielu gazów takich jak : tlen, dwutlenek węgla i azot. Które z praw gazowych w sposób najlepszy opisuje to zjawisko:`
 * **prawo Daltona**
-* prawo Henrye"go
-* prawo Boyle`a
+* prawo Henrye'go
+* prawo Boyle'a
 * żadne z nich
+
+> **Prawo Daltona** – wspólne określenie na dwa różne prawa, sformułowane przez Johna Daltona, które są wzajemnie komplementarne:
+> * prawo ciśnień cząstkowych
+> * prawo objętości cząstkowych
+>
+> Prawo ciśnień cząstkowych zostało opublikowane przez Daltona w 1810 r. Głosi ono:
+>
+> `Ciśnienie wywierane przez mieszaninę gazów jest równe sumie ciśnień wywieranych przez składniki mieszaniny, gdyby każdy z nich był umieszczany osobno w tych samych warunkach objętości i temperatury, jest ono zatem sumą ciśnień cząstkowych.`
+>
+> Prawo objętości cząstkowych głosi:
+>
+> `Objętość zajmowana przez mieszaninę gazów jest równa sumie objętości, które byłyby zajmowane przez składniki mieszaniny, gdyby każdy z nich był umieszczony osobno w tych samych warunkach ciśnienia i temperatury, czyli jest równa sumie objętości cząstkowych.`
+>
+> Źródło: https://pl.wikipedia.org/wiki/Prawo_Daltona
 
 ## Pytanie PL040-0170
 `Podczas wykonywania „ pętli odwróconej” działa na pilota przeciążenie z wektorem siły zwróconym w kierunku:`
