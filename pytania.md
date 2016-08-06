@@ -12394,14 +12394,14 @@ S.C. względem punktu pomiarowego "DATUM"**
 * przepływ ma charakter turbulentny
 
 ## Pytanie PL080-0245
-`Wartość współczynnika siły nośnej **Cz** dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
+`Wartość współczynnika siły nośnej Cz dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
 * **zawsze prawda**
 * zawsze fałsz
 * prawda tylko dla profili symetrycznych
 * fałsz tylko dla profili symetrycznych
 
 ## Pytanie PL080-0246
-`Wartość współczynnika siły oporu **Cx** dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
+`Wartość współczynnika siły oporu Cx dla krytycznego kąta natarcia ‘α kr’ przyjmuje wartość maksymalną.`
 * **zawsze fałsz**
 * zawsze prawda
 * prawda tylko dla profili symetrycznych
