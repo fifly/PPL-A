@@ -6048,6 +6048,8 @@ S.C. względem punktu pomiarowego "DATUM"**
 * ok. 4 % całkowitego ciśnienia atmosferycznego
 * ok.1% całkowitego ciśnienia atmosferycznego
 
+> Zawartość tlenu w atmosferze wynosi prawie 21%. **Ciśnienie cząstkowe (ciśnienie parcjalne)** - ciśnienie, jakie wywierałby dany składnik mieszaniny gazów, gdyby w tej samej temperaturze sam zajmował objętość całej mieszaniny.
+
 ## Pytanie PL040-0039
 `Ciśnienie parcjalne tlenu w atmosferze na poziomie morza jest równe:`
 * **152 mmHg (ok. 21% ciśnienia powietrza)**
