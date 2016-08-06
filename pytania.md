@@ -7031,6 +7031,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * #NAZWA?
 * #NAZWA?
 
+> Przy tym pytaniu zapewne pojawia się odwrotna pętla jak w [PL040-0170](pytanie-pl040-0170) (czyli pętla zwykła). Siła działać wtedy będzie w kierunku głowa - kończyny dolne / Gz + /
+
 ## Pytanie PL040-0172
 `Podczas wymiany gazowej w pęcherzyku płucnym:`
 * **tlen przechodzi do krwi, a dwutlenek węgla do pęcherzyka**
