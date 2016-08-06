@@ -7686,7 +7686,7 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 >
 > **Uwaga mimowolna** występuje wówczas, gdy nie stawiamy sobie określonego celu i nie zamierzamy się czymś specjalnie intere­sować. Na przykład idąc ulicą nie mamy zamiaru obserwować wystaw sklepowych, lecz chcemy jak najszybciej dotrzeć na umówione miejsce, a jednak wystawy swoim układem towarów zwracają naszą uwagę. Budząc się rano ze snu, zwracamy uwa­gę na wspaniałe oświetlenie nieba podczas wschodzącego słońca. Uwagę mimowolną przyciąga zawsze to, co wyróżnia się z oto­czenia, co jest inne, nie spotykane w tym otoczeniu. Osoba w barwnym stroju ludowym na ulicy niewielkiego miasta lub mężczyzna z dużą brodą pośród gładko wygolonych natychmiast wzbudzają uwagę mimowolną.
 >
-> Wzbudzenie **uwagi dowolnej** związane jest zawsze z określo­nym celem, wymaga wysiłku, a często nawet przełamania we­wnętrznych oporów i skoncentrowania się na wybranym zjawis­ku czy przedmiocie, którym chcemy się zająć. W koncentracji uwagi pomaga zainteresowanie danym zjawiskiem. Jeśli człowiek pracuje w danej dziedzinie, to zawsze znajdzie w niej sprawy interesujące go i łatwiej skoncentruje uwagę na zjawiskach z tej dziedziny. Uwaga dowolna ma duże znaczenie dla naszej pracy i nauki. W pracy koncentracja uwagi pozwala na lepsze i’ spraw­niejsze wykonanie jej, a w nauce na szybsze przyswojenie treści, lepsze opanowanie ich, ekonomiczne wykorzystanie czasu prze­znaczonego na naukę. Ucząc się trzeba zapamiętać dużo różno­rodnych treści, dokonać często skomplikowanych wyliczeń, a bez koncentracji uwagi łatwo o pomyłki i niedokładności.
+> Wzbudzenie **uwagi dowolnej** związane jest zawsze z określo­nym celem, wymaga wysiłku, a często nawet przełamania we­wnętrznych oporów i skoncentrowania się na wybranym zjawis­ku czy przedmiocie, którym chcemy się zająć. W koncentracji uwagi pomaga zainteresowanie danym zjawiskiem. Jeśli człowiek pracuje w danej dziedzinie, to zawsze znajdzie w niej sprawy interesujące go i łatwiej skoncentruje uwagę na zjawiskach z tej dziedziny. Uwaga dowolna ma duże znaczenie dla naszej pracy i nauki. W pracy koncentracja uwagi pozwala na lepsze i spraw­niejsze wykonanie jej, a w nauce na szybsze przyswojenie treści, lepsze opanowanie ich, ekonomiczne wykorzystanie czasu prze­znaczonego na naukę. Ucząc się trzeba zapamiętać dużo różno­rodnych treści, dokonać często skomplikowanych wyliczeń, a bez koncentracji uwagi łatwo o pomyłki i niedokładności.
 >
 > Źródło: http://www.beyondtheframe.pl/psychika-czlowieka/rodzaje-uwagi
 
@@ -8049,6 +8049,10 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * zamglenie rogówki
 * męty w ciele szklistym
 * zmiany zwyrodnieniowe na dnie oka
+
+> **Zaćma (katarakta, łac. cataracta)** – wrodzona lub degeneracyjna choroba oczu, prowadząca do zmętnienia soczewki. Jest jedną z przyczyn ślepoty. Polega na powstawaniu plamek lub zmętniałych obszarów na zwykle przezroczystej soczewce oka, co utrudnia promieniom świetlnym przedostanie się do siatkówki, a w konsekwencji prowadzi do upośledzenia ostrości wzroku. Im większe zmętnienia na soczewce oka, tym większe pogorszenie ostrości wzroku następuje u chorego.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Za%C4%87ma
 
 ## Pytanie PL040-0321
 `Zaznacz prawidłową odpowiedź`
