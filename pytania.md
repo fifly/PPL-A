@@ -5947,12 +5947,31 @@ S.C. względem punktu pomiarowego "DATUM"**
 * jest wywołana nadmiarem powietrza
 * jest spowodowana spadkiem ciśnienia atmosferycznego
 
+> **Choroba lokomocyjna (kinetoza, choroba ruchu) (kinetosis)** – schorzenie wywołane podczas poruszania się dowolnymi środkami transportu. Przyczyną jest brak zgodności bodźców, sygnałów wzrokowych i błędnika, odbieranych przez mózg. Podczas jazdy wzrok odbiera zmianę otoczenia, co mózg interpretuje jako ruch, jednak błędnik, jako narząd równowagi, nie odnotowuje zmian położenia ciała. Reaguje jednak na inne siły powstające podczas jazdy (hamowanie, przyspieszanie, kiwanie) co w efekcie skutkuje brakiem zgodności tych bodźców z określoną sytuacją. Podczas płynięcia statkiem objawy najczęściej występują pod pokładem, kiedy wzrok nie odbiera bodźców, które mózg interpretowałby jako kołysanie (np. nieruchome wnętrze kajuty) przy jednoczesnych długotrwałych bodźcach z błędnika wykrywającego zmienne przeciążenia wywołane kołysaniem – tu również występuje niezgodność bodźców dostarczanych przez zmysł wzroku i równowagi powodujące tę chorobę. Choroba zwykle ustępuje wkrótce po zakończeniu podróży i nie daje powikłań, jednak w ciężkich przypadkach może dojść do wycieńczenia.
+>
+> Osoby mające dolegliwości związane z chorobą lokomocyjną powinny:
+> * siadać przodem do kierunku jazdy;
+> * w autobusie i pociągu wybierać miejsce jak najdalej od osi kół (najlepiej środkowa część autobusu);
+> * w czasie lotu samolotem usiąść w fotelu zlokalizowanym nad skrzydłem, najlepiej od strony okna;
+> * przed wyjazdem zjeść tylko lekki posiłek;
+> * przed wyjazdem nie pić napojów gazowanych;
+> * w czasie jazdy patrzeć na horyzont – stabilny punkt w krajobrazie, ponieważ obserwacja mijanych drzew czy słupów przydrożnych wzmaga dolegliwości chorobowe;
+> * jeśli to możliwe, wybrać pozycję półleżącą (opuścić nieco oparcie fotela), ze stabilnym podparciem głowy;
+> * często wietrzyć pojazd, a także robić krótkie odpoczynki na świeżym powietrzu;
+> * wypocząć i wyspać się przed podróżą;
+> * gdy wystąpią mdłości, zamknąć oczy i głęboko oddychać, odsunąć szybę i zaczerpnąć świeżego powietrza;
+> * zaopatrzyć się w torebki foliowe – na wypadek nagłego wystąpienia wymiotów.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Choroba_lokomocyjna
+
 ## Pytanie PL040-0029
 `Choroba powietrzna:`
 * **występuje częściej u pasażerów niż u pilotów**
 * występuje częściej u pilotów niż u pasażerów
 * występuje równie często u pilotów jak i u pasażerów
 * nie ma znaczenia ani dla pilota ani dla pasażera
+
+> Patrz: [Pytanie PL040-0028](#pytanie-pl040-0028)
 
 ## Pytanie PL040-0030
 `Choroba powietrzna jest to:`
@@ -5961,12 +5980,16 @@ S.C. względem punktu pomiarowego "DATUM"**
 * choroba wywołana obniżeniem ciśnienia w otaczającej atmosferze
 * choroba spowodowana przez powstające w ustroju /przy zmianie ciśnienia/ pęcherzyki azotu
 
+> Patrz: [Pytanie PL040-0028](#pytanie-pl040-0028)
+
 ## Pytanie PL040-0031
 `Choroba powietrzną jest reakcją organizmu na niewielkie zmienne przyspieszenie podczas lotu i jest zależna od:`
 * **podrażnienie błędnika /narządu przedsionkowego/**
 * podrażnienie ślimaka /narządu słuchu/
 * narządu wzroku
 * niedotlenienie mózgu
+
+> Patrz: [Pytanie PL040-0028](#pytanie-pl040-0028)
 
 ## Pytanie PL040-0032
 `Choroba wysokościowa jest:`
