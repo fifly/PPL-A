@@ -7314,6 +7314,10 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * stanowi obszar takiej samej wrażliwości na bodźce wzrokowe
 * stanowi obszar zagęszczenia pręcików i czopków
 
+> **Plamka ślepa (łac. macula ceca; plamka Mariotte'a)** – obszar siatkówki oka kręgowców, w którym nerw wzrokowy opuszcza gałkę oczną i biegnie w stronę mózgu. Jest całkowicie pozbawiony fotoreceptorów (czopków i pręcików), jest więc niewrażliwy na światło.
+>
+> Plamki ślepe w gałkach ocznych umieszczone są symetrycznie (względem płaszczyzny symetrii ciała). Wskutek tego luki w polu widzenia obu oczu nie pokrywają się – to, czego nie widzi jedno oko, widzi drugie. Jeśli jest to niemożliwe, np. gdy jedno oko jest zasłonięte, luka w polu widzenia uzupełniana jest odpowiednimi jakościami sensorycznymi – powstaje wrażenie, że pole widzenia jest pełne.
+
 ## Pytanie PL040-0214
 `Rozproszenie uwagi oznacza:`
 * **niezdolność do skupienia się na bodźcach zewnętrznych istotnych dla zadań wynikających z bieżącej sytuacji**
