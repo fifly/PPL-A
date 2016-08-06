@@ -8159,6 +8159,10 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * przyspieszeń kątowych na narządy otolitowe
 * przyspieszeń kątowych na kanały półkoliste
 
+> "...Złudzenia w lotnictwie to nie tylko iluzje optyczne, ale też złudzenia pochodzenia przedsionkowego czyli np.  złudzenia somatograwitacyjne  powstające w narządach otolitowych..."
+>
+> Źródło: http://zawodpilot.pl/human-performance-in-aviation/zludzenia-w-lotnictwie/
+
 ## Pytanie PL040-0336
 `Złudzenia wzrokowe`
 * **mogą mieć miejsce szczególnie w lotach nocnych**
