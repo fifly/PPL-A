@@ -6697,6 +6697,12 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * cecha ludzi powolnych, flegmatycznych, działających z rozwagą
 * określenie rodzaju wrodzonego typu temperamentu człowieka
 
+> **Neurotyczność** – cecha osobowości polegająca na silnym niezrównoważeniu emocjonalnym o charakterze nerwicowym, niskiej odporności na stres, skłonności do popadania w stany lękowe. Przeciwieństwem neurotyczności jest równowaga emocjonalna. Pojęcie to wprowadził Eysenck w teorii temperamentu PEN.
+>
+> Neurotyczność – Wikipedia, wolna encyklopedia
+>
+> Źródło: https://pl.wikipedia.org/wiki/Neurotyczność
+
 ## Pytanie PL040-0127
 `Niedotlenienie jest bardzo niebezpieczne w czasie lotu gdyż:`
 * **może przebiegać bez wyraźnych objawów lub wywoływać uczucie euforii**
