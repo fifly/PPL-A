@@ -5829,14 +5829,13 @@ Przeznaczony dla personelu technicznego i latającego**
 >
 >  1000 kg                         10000 kg
 >     KP-----------------------ŚM-----KG
->     |         10 - x         |  x  |
->
->     |              10 m            |
-> ```
+>     |         10 - x         |  x   |
+>     +-------------------------------+
+>     |              10 m             |
 >
 > Obliczamy momenty:
->  1000 * (10 - x) = 10000 * x
->  x = 0.91 m
+>  1000 * (10 - x) = 10000 * x => **x = 0.91 m**
+> ```
 
 ## Pytanie PL030-0120
 `Zjawisko polegajce na oblodzeniu statecznika poziomego:.`
