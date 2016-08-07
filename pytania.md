@@ -5389,19 +5389,24 @@ Przeznaczony dla personelu technicznego i latającego**
 
 ## Pytanie PL030-0007
 `Międzynarodowa Atmosfera Wzorcowa (International Standard Atmosphere) definiuje następujące warunki na poziomie morza: temperatura / ciśnienie / gęstość / gradient temperatury:`
-* **15°C / 1013,25 hPa / 1.225 kg/m3 / -
-6.5°C na 1000 m**
-* 15°C / 1013,25 mb / 1.225 kg/m3 /
-1.98°C na 1000m
-* 0°C / 1.013 Bar / 1225 g/m3 / 1.98°C
-na 1000 ft
-* 15°C / 29.92 in.Hg / 1013 kg/m3 /
-1.98°C na 1000 ft.
+* **15°C / 1013,25 hPa / 1.225 kg/m3 / -6.5°C na 1000 m**
+* 15°C / 1013,25 mb / 1.225 kg/m3 / 1.98°C na 1000m
+* 0°C / 1.013 Bar / 1225 g/m3 / 1.98°C na 1000 ft
+* 15°C / 29.92 in.Hg / 1013 kg/m3 / 1.98°C na 1000 ft.
+
+> **Atmosfera wzorcowa, atmosfera standardowa (ang. International Standard Atmosphere, ISA)** – pionowy, umowny rozkład ciśnienia, temperatury, gęstości i lepkości kinematycznej powietrza oraz prędkości dźwięku przyjęty za wzorzec międzynarodowy do porównywania wyników badań statków powietrznych i zespołów napędowych przeprowadzanych w różnych warunkach. Parametry atmosfery wzorcowej są obliczane przy założeniu, że atmosfera jest układem statycznym, powietrze jest gazem suchym, a jego skład chemiczny nie zależy od wysokości. Ponadto przyjmuje się stałe wartości graniczne dla wysokości równej poziomowi morza:
+> * temperatura:T0 = 288,15 K (15 °C)
+> * ciśnienie: p0 = 1013,25 hPa
+> * gęstość: ρ0 = 1,2255 kg/m³
+> * lepkość kinematyczna: ν0 = 1,461·10−5 m²/s
+> * prędkość dźwięku: a0 = 340,3 m/s
+> * pionowy gradient temperatury do 11 km wynoszący –6,5 K/km (°C/km), od 11-20 km temperatura jest stała (–56,5 °C), a od 20 do 32 km dodatni gradient wynoszący 1 K/km (°C/km).
+>
+> Źródło: https://pl.wikipedia.org/wiki/Atmosfera_wzorcowa
 
 ## Pytanie PL030-0008
 `Środek ciężkości jest wyrażony w:`
-* **w procentach średniej cięciwy aerodynamicznej (% MAC) lub odległości (mm, cm, inch) położenia
-S.C. względem punktu pomiarowego "DATUM"**
+* **w procentach średniej cięciwy aerodynamicznej (% MAC) lub odległości (mm, cm, inch) położenia S.C. względem punktu pomiarowego "DATUM"**
 * w procentach średniej cięciwy aerodynamicznej ciężkości (% MAC).
 * w procentach cięciwy aerodynamicznej przy kadłubie (% MAC).
 * w procentach średniej cięciwy aerodynamicznej liczonej w średniej rozpiętości (% MAC).
@@ -5420,6 +5425,15 @@ S.C. względem punktu pomiarowego "DATUM"**
 * 2,92
 * 3,2
 * 1,68
+
+> | Masa | Ramię | Moment [kgm] |
+> |---|---|---|
+> | 155 | 0,8 | 124 |
+> | 320 | 2,4 | 768 |
+> |---|---|---|
+> | 475 | x | 892 |
+>
+> Szukamy **x**. Dzielimy sumę momentów przez sumę mas. x = 1,878 m
 
 ## Pytanie PL030-0011
 `Ważenie statku powietrznego (SP): odczyt na wadze pod przednim podwoziem 205 kg, odczyt – suma na głównym 420 kg. Odległość przód SP
@@ -5458,11 +5472,23 @@ S.C. względem punktu pomiarowego "DATUM"**
 * Osiągnięcie większego ciągu silnika blisko ziemi – efekt ten zanika na wysokości równej w przybliżeniu rozpiętości samolotu.
 
 ## Pytanie PL030-0029
-`Aby przy rozbiegu / dobiegu samolotu wystąpiło zjawisko „hydroplanning’” (dynamiczne) muszą wystąpić nastepujące czynniki:.`
+`Aby przy rozbiegu / dobiegu samolotu wystąpiło zjawisko "hydroplanning" (dynamiczne) muszą wystąpić nastepujące czynniki:.`
 * **Grubość warstwy wody na pasie musi być większa od krytycznej (około 3 mm) oraz samolot musi uzyskać odpowiednią prękość.**
 * Bieżniki koł samolotu muszą rozgrzać się do wysokiej temperatury podczas intensywnego hamowania na wilgotnym pasie.
 * Jedna z koł samolotu musi zostać zablokowane (np. awaria anti-skid) na mokrym pasie.
 * „Hydroplanning’” to określenie dotyczące tylko lądowania wodnosamolotu na gładkiej powierzchni wody.
+
+> **Akwaplanacja (aquaplaning, hydroplaning)** – utrata przyczepności opony podczas jazdy po nawierzchni pokrytej wodą, spowodowana tworzeniem się warstwy wody między oponą a jezdnią. W rezultacie może wystąpić utrata kontroli nad pojazdem. O akwaplanację łatwo (między innymi) podczas jazdy w czasie albo po deszczu na asfaltowych nawierzchniach z wygniecionymi koleinami lub nierównościami, w których zbiera i długo się utrzymuje wystarczająco gruba warstwa wody.
+>
+> Odczucia kierowcy podczas akwaplanacji są podobne jak podczas jazdy po oblodzonej nawierzchni. W podobny sposób należy też postępować: unikać gwałtownych ruchów kierownicą, a jeżeli hamowanie jest konieczne, należy (o ile samochód nie jest wyposażony w ABS) robić to delikatnie. W sytuacji intensywnego hamowania naciskać pedał hamulca pulsacyjnie (impulsowo).
+>
+> Ryzyko wystąpienia akwaplanacji zwiększa się wraz ze wzrostem grubości warstwy wody na jezdni, prędkości pojazdu, szerokości opon, zmniejszeniem lub zabrudzeniem bieżnika opony.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Akwaplanacja
+>
+> **Dynamic aquaplaning** is a relatively high-speed phenomenon that occurs **when there is a film of water on the runway that is at least 1/10 inch (2.5 mm) deep**.[8] As the speed of the aircraft and the depth of the water increase, the water layer builds up an increasing resistance to displacement, resulting in the formation of a wedge of water beneath the tire. At some speed, termed the aquaplaning speed (Vp), the upward force generated by water pressure equals the weight of the aircraft and the tire is lifted off the runway surface. In this condition, the tires no longer contribute to directional control, and braking action is nil. Dynamic aquaplaning is generally related to tire inflation pressure. Tests have shown that for tires with significant loads and enough water depth for the amount of tread so that the dynamic head pressure from the speed is applied to the whole contact patch, the minimum speed for dynamic aquaplaning (Vp) in knots is about 9 times the square root of the tire pressure in pounds per square inch (PSI).[8] For an aircraft tire pressure of 64 PSI, the calculated aquaplaning speed would be approximately 72 knots. This speed is for a rolling, non-slipping wheel; a locked wheel reduces the Vp to 7.7 times the square root of the pressure. Therefore, once a locked tire starts aquaplaning it will continue until the speed reduces by other means (air drag or reverse thrust).[8]
+>
+> Źródło: https://en.wikipedia.org/wiki/Aquaplaning#Dynamic
 
 ## Pytanie PL030-0034
 `Co to jest Vx:.`
