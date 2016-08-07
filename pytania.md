@@ -5812,6 +5812,9 @@ Przeznaczony dla personelu technicznego i latającego**
 * Zawsze dokładnie pod środkiem aerodynamicznym.
 * Za środkiem aerodynamicznym.
 
+> * https://pl.wikipedia.org/wiki/Stateczno%C5%9B%C4%87_samolotu
+> * https://pl.wikipedia.org/wiki/Plik:Airplanstb8.svg - Stateczność statyczna - **mg znajduje się przed Pz**
+
 ## Pytanie PL030-0111
 `Ważenie samolotu: przednie kółko 1000kg, lewe i prawe koła główne po 5000kg. Odległość między kółkiem przednim i głównymi wynosi 10 m. Ile przed kołami głównego podwozia znajduje się środek masy:`
 * **0.91 m**
@@ -5834,7 +5837,7 @@ Przeznaczony dla personelu technicznego i latającego**
 >     |              10 m             |
 >
 > Obliczamy momenty:
->  1000 * (10 - x) = 10000 * x => **x = 0.91 m**
+>  1000 * (10 - x) = 10000 * x => x = 0.91 m
 > ```
 
 ## Pytanie PL030-0120
@@ -13131,24 +13134,25 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * samolot jest niesterowny
 
 ## Pytanie PL080-0406
-`Jeżeli środek ciężkości samolotu z profilem klasycznym znajduje się przed
-środkiem równowagi obojętnej to:`
+`Jeżeli środek ciężkości samolotu z profilem klasycznym znajduje się przed środkiem równowagi obojętnej to:`
 * **samolot jest stateczny**
 * samolot jest niestateczny
 * samolot jest statycznie obojętny
 * samolot nie jest stateczny i nie jest niestateczny
 
+> https://pl.wikipedia.org/wiki/Stateczno%C5%9B%C4%87_samolotu
+
 ## Pytanie PL080-0407
-`Jeżeli środek ciężkości samolotu z profilem klasycznym znajduje się za
-środkiem równowagi obojętnej to:`
+`Jeżeli środek ciężkości samolotu z profilem klasycznym znajduje się za środkiem równowagi obojętnej to:`
 * **samolot jest niestateczny**
 * samolot jest niesterowny
 * samolot jest stateczny
 * samolot nie jest stateczny i nie jest niestateczny
 
+> https://pl.wikipedia.org/wiki/Stateczno%C5%9B%C4%87_samolotu
+
 ## Pytanie PL080-0408
-`Jeżeli znacznie zwiększymy prędkość lotu przy stałej prędkości obrotowej
-śmigła nieprzestawialnego, to:`
+`Jeżeli znacznie zwiększymy prędkość lotu przy stałej prędkości obrotowej śmigła nieprzestawialnego, to:`
 * **kąt natarcia łopat śmigła zmaleje**
 * kąt natarcia łopat śmigła nieznacznie wzrośnie
 * kąt natarcia łopat śmigła nie zmieni się
