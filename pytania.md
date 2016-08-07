@@ -5426,14 +5426,13 @@ Przeznaczony dla personelu technicznego i latającego**
 * 3,2
 * 1,68
 
-> | Masa | Ramię | Moment [kgm] |
-> |---|---|---|
-> | 155 | 0,8 | 124 |
-> | 320 | 2,4 | 768 |
-> |---|---|---|
-> | 475 | x | 892 |
+> |   | Masa | Ramię | Moment [kgm] |
+> |---|---|---|---|
+> | Przednie podwozie: | 155 | 0,8 | 124 |
+> | Główne podwozie: | 320 | 2,4 | 768 |
+> | **Suma:** | 475 | **x** | 892 |
 >
-> Szukamy **x**. Dzielimy sumę momentów przez sumę mas. x = 1,878 m
+> Szukamy **x**. Dzielimy sumę momentów przez sumę mas. x = 892/475 = 1,878 m
 
 ## Pytanie PL030-0011
 `Ważenie statku powietrznego (SP): odczyt na wadze pod przednim podwoziem 205 kg, odczyt – suma na głównym 420 kg. Odległość przód SP
