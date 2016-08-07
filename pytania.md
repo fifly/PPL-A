@@ -5503,12 +5503,24 @@ Przeznaczony dla personelu technicznego i latającego**
 * To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.
 * To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu.
 
+> **Vs** - (Stall speed) Prędkość przeciągnięcia. Poniżej tej prędkości następuje oderwanie strug opływających skrzydła samolotu.
+> **Vs0** - Prędkość przeciągnięcia w konfiguracji do lądowania (z wypuszczonymi klapami i podwoziem)
+> **Vx** - Prędkość najbardziej stromego wznoszenia (przyrost wysokości w funkcji przebytej odległości)
+> **Vy** - Prędkość najszybszego wznoszenia (przyrost wysokości w funkcji czasu)
+> **Vfe** - (Flaps extended speed) Prędkość maksymalna z wypuszczonymi klapami
+> **Vno** - Dopuszczalna eksploatacyjna prędkość maksymalna.
+> **Vne** - (Never exceed sped) Dopuszczalna chwilowa prędkość maksymalna w spokojnym powietrzu, której przekroczenie może spowodować uszkodzenie konstrukcji samolotu (najczęściej z powodu > fl**att**eru)
+> **Va** - Prędkość manewrowa (taka, przy której możliwe są pełne wychylenia sterów bez uszkodzenia konstrukcji samolotu)
+> **Vl/d** - (Lift-To-Drag speed) Prędkość najdłuższego szybowania
+
 ## Pytanie PL030-0035
 `Co to jest Vy:.`
 * **To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.**
 * To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.
 * To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.
 * To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu.
+
+> Patrz: [Pytanie PL030-0034](#pytanie-pl030-0034)
 
 ## Pytanie PL030-0038
 `Czy wysoka wilgotność przyczynia się do spadku osiągów samolotu:.`
@@ -5642,6 +5654,21 @@ Przeznaczony dla personelu technicznego i latającego**
 * Prędkości IAS i lokalnej prędkości dźwięku.
 * Prędkości IAS i prędkości dźwięku na danej wysokości odniesionej do ISA.
 * Prędkości TAS i prędkości dźwięku na poziomie morza.
+
+> **Liczba Macha, mach (M, Ma)** – liczba podobieństwa, wyrażająca:
+> * stosunek prędkości przepływu płynu w danym miejscu do prędkości dźwięku w tym płynie w tym samym miejscu;
+> * stosunek prędkości obiektu poruszającego się w płynie do prędkości dźwięku w tym płynie, niezakłóconym ruchem obiektu, czyli formalnie – w nieskończoności.
+>
+> **M=v/a**
+>
+> gdzie:
+> v – prędkość przepływu lub obiektu;
+> a – prędkość dźwięku w płynie w danym miejscu lub – odpowiednio – w nieskończoności.
+>
+> Nazwa pochodzi od austriackiego fizyka Ernsta Macha.
+> W powietrzu o temperaturze 15 °C prędkość dźwięku wynosi 340,3 m/s[1] (1225 km/h).
+>
+> Źródło: https://pl.wikipedia.org/wiki/Liczba_Macha
 
 ## Pytanie PL030-0068
 `Maksymalna konstrukcyjna masa do lądowania (Maximum Structural Landing Mass) to:.`
