@@ -5729,6 +5729,10 @@ Przeznaczony dla personelu technicznego i latającego**
 * Ciąg dzielony przez ciężar.
 * Ciężar dzielony przez ciąg.
 
+> **Przeciążenie** jest to liczba określająca, ile razy siła nośna jest większa od ciężaru samolotu (w locie normalnym przeciążenie wynosi 1, bo siła nośna równa się ciężarowi samolotu).
+>
+> Źródło: Budowa i pilotaż
+
 ## Pytanie PL030-0088
 `Przy starcie z pasa nachylonego - pod górę – przyspieszenie podczas rozbiegu samolotu będzie ... ,a długość rozbiegu ... :.`
 * **Mniejsze, wzrośnie.**
@@ -5749,6 +5753,15 @@ Przeznaczony dla personelu technicznego i latającego**
 * prędkość wznoszenia statku powietrznego osiąga zero.
 * prędkość przeciągniecia i krytyczna prędkość Macha statku powietrznego są równe.
 * prędkość statku powietrznego nie pozwala na żadne poziome manewry.
+
+> **Pułap** – maksymalna wysokość, jaką jest w stanie osiągnąć statek powietrzny.
+> * **Pułap praktyczny** – wysokość, na której dany statek powietrzny w danych warunkach dysponuje jeszcze pewną niewielką prędkością wznoszenia; najczęściej przyjmowana jest tu prędkość wznoszenia > 0,5 m/s.
+> * **Pułap teoretyczny** – wysokość, na której ustalona prędkość wznoszenia oraz nadmiar mocy są równe zero. Pułap ten jest w praktyce nieosiągalny, gdyż czas wznoszenia byłby równy > nieskończoności.
+> * **Pułap dynamiczny (kinetyczny, balistyczny)** – wysokość osiągana przez statek powietrzny dzięki wykorzystaniu zapasu energii kinetycznej w locie poziomym. Nadwyżka tej energii jest zamieniana > na energię potencjalną kosztem równoczesnego zmniejszania prędkości lotu. Po zmniejszeniu prędkości do prędkości optymalnej samolot zmniejsza wysokość lotu do poziomu pułapu praktycznego.
+>
+> Potoczne określenie pułap lotu, jako synonim wysokości lotu, czyli wysokości na jakiej znajduje się statek powietrzny, jest niepoprawne.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Pu%C5%82ap
 
 ## Pytanie PL030-0091
 `Rozbieg z pasa o jakiej nawierzchni będzie najdłuższy:.`
@@ -5805,6 +5818,25 @@ Przeznaczony dla personelu technicznego i latającego**
 * 0.75 m
 * 9.1 m
 * 0.81 m
+
+> Napisane jest że każde koło główne jest obciążone 5000 kg (lewe i prawe, łącznie 10000 kg).
+> Odległość pomiędzy kołami wynosi 10 m
+>
+> ```
+>  KP - koło przednie
+>  KG - koła główne
+>  ŚM - środek masy
+>
+>  1000 kg                         10000 kg
+>     KP-----------------------ŚM-----KG
+>     |         10 - x         |  x  |
+>
+>     |              10 m            |
+> ```
+>
+> Obliczamy momenty:
+>  1000 * (10 - x) = 10000 * x
+>  x = 0.91 m
 
 ## Pytanie PL030-0120
 `Zjawisko polegajce na oblodzeniu statecznika poziomego:.`
