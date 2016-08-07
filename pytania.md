@@ -5426,21 +5426,28 @@ Przeznaczony dla personelu technicznego i latającego**
 * 3,2
 * 1,68
 
-> |   | Masa | Ramię | Moment [kgm] |
-> |---|---|---|---|
-> | Przednie podwozie: | 155 | 0,8 | 124 |
-> | Główne podwozie: | 320 | 2,4 | 768 |
-> | **Suma:** | 475 | **x** | 892 |
+> |          -         | Masa |  Ramię | Moment [kgm] |
+> |:------------------:|:----:|:------:|:------------:|
+> | Przednie podwozie: |  155 |   0,8  |      124     |
+> |  Główne podwozie:  |  320 |   2,4  |      768     |
+> |      **Suma:**     |  475 | 1,8779 |      892     |
 >
-> Szukamy **x**. Dzielimy sumę momentów przez sumę mas. x = 892/475 = 1,878 m
+> **Dzielimy sumę momentów przez sumę mas.**
 
 ## Pytanie PL030-0011
-`Ważenie statku powietrznego (SP): odczyt na wadze pod przednim podwoziem 205 kg, odczyt – suma na głównym 420 kg. Odległość przód SP
-– przednie podwozie 0.9m, przód SP - główne 2.6 m. Jaka jest odległość przód SP – środek ciężkości?`
+`Ważenie statku powietrznego (SP): odczyt na wadze pod przednim podwoziem 205 kg, odczyt – suma na głównym 420 kg. Odległość przód SP – przednie podwozie 0.9m, przód SP - główne 2.6 m. Jaka jest odległość przód SP – środek ciężkości?`
 * **2.04 m**
 * 3.12 m
 * 1.88 m
 * 2.09 m
+
+> |          -         | Masa |  Ramię | Moment [kgm] |
+> |:------------------:|:----:|:------:|:------------:|
+> | Przednie podwozie: |  205 |   0,9  |     184,5    |
+> |  Główne podwozie:  |  420 |   2,6  |     1092     |
+> |      **Suma:**     |  625 | 2,0424 |    1276,5    |
+>
+> **Dzielimy sumę momentów przez sumę mas.**
 
 ## Pytanie PL030-0012
 `Wyrażenie (wzór) na moment (siły): Moment =`
