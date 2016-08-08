@@ -4084,6 +4084,8 @@ Oznacza to, że:`
 * Jedna Radiostacja UKF i jedna radiostacja KF
 * Jedna radiostacja fal średnich.
 
+> **Fale metrowe (UKF, fale ultrakrótkie), ang. VHF (Very high frequency)** – zakres fal radiowych (pasmo radiowe) o częstotliwości od 30 do 300 MHz, co odpowiada długości fali od 10 metrów do 1 metra.
+
 ## Pytanie PL020-0050
 `Do chowania i wypuszczania podwozia, głównie stosowane są instalacje:`
 * **Hydrauliczna, pneumatyczna i elektryczna**
@@ -4104,6 +4106,14 @@ Oznacza to, że:`
 * jako nadajnik ciśnienia całkowitego i dynamicznego
 * jako nadajnik ciśnienia statycznego
 * jako nadajnik ciśnienia dynamicznego i statycznego
+
+> **Rurki spiętrzeniowe**, przyrządy służące do pomiaru prędkości przepływu płynu (cieczy lub gazu). Pomiaru dokonuje się przez porównanie ciśnienia spiętrzenia i ciśnienia statycznego. Istnieją różne rodzaje rurek spiętrzeniowych różniące się między sobą szczegółami rozwiązań technicznych i zastosowań:
+> 
+> 1. **rurka Pitota** (służąca badaniu prędkości przepływów niezaburzonych),
+> 2. **rurka Prandtla** (modyfikacja poprzedniej, służąca do pomiaru prędkości przepływu w danym punkcie)
+> 3. **rurka Stantona** (służąca do pomiaru prędkości w warstwie przyściennej).
+>
+> Źródło: http://portalwiedzy.onet.pl/61087,,,,rurki_spietrzeniowe,haslo.html
 
 ## Pytanie PL020-0053
 `Do czego służy sztuczny horyzont:`
@@ -4441,6 +4451,14 @@ Oznacza to, że:`
 * g/h
 * g/kW
 * l/h
+
+> Jednostkowe zużycie paliwa okresla masę paliwa zużytego przez silnik na jednostkę mocy i czasu.
+> 
+> Źródło: http://www.zss.lublin.pl/html/pliki/motor/4.7%20Zuzycie%20paliwa.pdf
+> 
+> **Jednostkowe zużycie paliwa** – specyfikuje wagową lub objętościową ilość paliwa potrzebną do wykonania określonej pracy.
+> 
+> Źródło: https://pl.wikipedia.org/wiki/Silnik_spalinowy_t%C5%82okowy
 
 ## Pytanie PL020-0105
 `Jednoznaczność namiaru w radiokompasie otrzymujemy:`
