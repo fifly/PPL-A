@@ -5461,9 +5461,15 @@ pozycyjnych i reflektora**
 * Nie ma wpływu
 * Zależy od jakości paliwa
 
+> **Kawitacja** – zjawisko fizyczne polegające na gwałtownej przemianie fazowej z fazy ciekłej w fazę gazową pod wpływem zmniejszenia ciśnienia. Jeżeli ciecz gwałtownie przyśpiesza zgodnie z zasadą zachowania energii, ciśnienie statyczne cieczy musi zmaleć. Dzieje się tak np. w wąskim otworze przelotowym zaworu albo na powierzchni śruby napędowej statku.
+> 
+> Kawitacja jest jednym z głównych źródeł hałasu, co stanowi szczególny problem na przykład na okrętach podwodnych, czy w instalacjach pracujących pod wysokim ciśnieniem. Współcześnie coraz częstszą uciążliwością staje się też kawitacja występująca w tunelach sterów strumieniowych, zamontowanych na małych statkach specjalistycznych wykorzystujących tzw. DP (system dynamicznego pozycjonowania) oraz na statkach pasażerskich wyposażonych w takie stery, w celu uzyskania dużej manewrowości w ciasnej zabudowie portowej.
+> 
+> Źródło: https://pl.wikipedia.org/wiki/Kawitacja
+
 ## Pytanie PL020-0253
 `Zjawisko oblodzenia gaźnika występuje zazwyczaj w warunkach dużej wilgotności i temp. otoczenia ( ?C).`
-* **-1do 12**
+* **-1 do 12**
 * -1 do 4
 * -1 do -4
 * Poniżej -4
