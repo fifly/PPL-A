@@ -3747,12 +3747,80 @@ Oznacza to, że:`
 * kurs samolotu
 * wysokość lotu
 
+> **Prędkościomierz (ang. Air Speed Indicator, ASI)** – urządzenie określające prędkość statku powietrznego poprzez pomiar ciśnienia dynamicznego (ciśnienia strug powietrza napływającego na > samolot).
+>
+> ### Zasada działania
+> W celu określenia ciśnienia dynamicznego, należy od ciśnienia całkowitego odjąć ciśnienie statyczne (ciśnienie nieruchomego powietrza na danej wysokości). Dlatego też, prędkościomierz taki > jest w istocie manometrem różnicowym wskazującym różnicę pomiędzy ciśnieniem całkowitym a ciśnieniem statycznym.
+> Prędkościomierze wyskalowane są w km/h lub węzłach. Źródłem ciśnienia całkowitego jest rurka Pitota, rurka Prandtla (Pitota-Prandtla) lub dysza Venturiego. Źródłem ciśnienia statycznego > mogą być otwory po bokach kadłuba (dajniki ciśnienia statycznego), bądź może być ono pobierane, obok ciśnienia całkowitego, z rurki Prandtla.
+> ### Budowa prędkościomierza
+> Ciśnienie statyczne jest doprowadzone do obudowy przyrządu, ciśnienie całkowite do puszki membranowej (puszki różnicowej) w jego wnętrzu. Zmiana prędkości powietrznej samolotu powoduje > zmianę ciśnienia dynamicznego, które odkształca puszkę membranową powodując ruch wskazówki prędkościomierza (wskazanie prędkości).
+> ### Znaczenie kolorów
+> Często producenci samolotów zaznaczają na prędkościomierzu znaczące zakresy prędkości (patrz rysunek powyżej), według poniższego klucza kolorów:
+> * biały - zakres używania klap,
+> * zielony - standardowe prędkości użytkowe,
+> * żółty - prędkość dopuszczalna, powyżej użytkowej,
+> * czerwony - maksymalna prędkość dopuszczalna.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Pr%C4%99dko%C5%9Bciomierz_(lotnictwo)
+>
+> ## Podział prędkości
+Podział prędkości zawarty w międzynarodowych przepisach:
+> | Nazwa | Rozwinięcie skrótu (ang.)   | Opis                                                                                                                                                                                                                             |
+> |-------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+> | ASIR  | Airspeed Instrument Reading | Prędkość wskazywana przez prędkościomierz bez żadnych poprawek.                                                                                                                                                               |
+> | IAS   | Indicated Air Speed         | Prędkość ASIR z poprawką na błąd laboratoryjny przyrządu                                                                                                                                                                      |
+> | CAS   | Calibrated Air Speed        | Prędkość IAS po uwzględnieniu poprawki aerodynamicznej na błąd zabudowy przyrządu pomiarowego; prędkość CAS jest równa prędkości TAS w atmosferze standardowej na poziomie morza przy prędkościach nieprzekraczających 250 kt |
+> | EAS   | Equivalent Air Speed        | Prędkość CAS po uwzględnieniu poprawki na ściśliwość powietrza; prędkość EAS jest równa prędkości TAS w atmosferze standardowej na poziomie morza.                                                                            |
+> | TAS   | True Air Speed              | Prędkość rzeczywista lotu względem opływających statek powietrzny strug powietrza; jest to prędkość EAS uwzględniająca poprawkę związaną z wysokością lotu, temperaturą i wilgotnością powietrza.                             |
+> | GS    | Ground Speed                | Prędkość względem powierzchni ziemi; jest to wypadkowa wektorów prędkości TAS oraz wiatru.                                                                                                                                       |
+>
+>
+> | Nazwa | Rozwinięcie skrótu/opis (ang.)                                           | Opis                                                                                                                                                                                                                                                                                                                                               |
+> |-------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+> | V1    | critical engine failure recognition speed                                | prędkość decyzji (o starcie)                                                                                                                                                                                                                                                                                                                       |
+> | V2    | takeoff safety speed                                                     | bezpieczna prędkość startu                                                                                                                                                                                                                                                                                                                         |
+> | Vs    | stall speed                                                              | prędkość przepadania; przy tej prędkości samolot utrzymuje lot poziomy przy krytycznym kącie natarcia i nie jest w stanie zwiększyć wysokości; zwiększenie kąta natarcia powodujeprzeciągnięcie i utratę wysokości; poniżej tej prędkości samolot przepada, tj. traci wysokość niezależnie od kąta natarcia czy ustawienia powierzchni kontrolnych |
+> | Vs0   | stall speed in landing configuration                                     | prędkość przeciągnięcia w konfiguracji do lądowania (z wypuszczonymi klapami i podwoziem)                                                                                                                                                                                                                                                          |
+> | Vx    | best angle-of-climb speed                                                | prędkość najbardziej stromego wznoszenia (przyrost wysokości w funkcji przebytej odległości)                                                                                                                                                                                                                                                       |
+> | Vy    | best rate-of-climb speed                                                 | prędkość najszybszego wznoszenia (przyrost wysokości w funkcji czasu)                                                                                                                                                                                                                                                                              |
+> | Vxse  | best single-engine angle-of-climb speed                                  | prędkość maksymalnego gradientu wznoszenia na jednym silniku                                                                                                                                                                                                                                                                                       |
+> | Vyse  | best single-engine rate-of-climb speed                                   | prędkość maksymalnej prędkości wznoszenia na jednym silniku                                                                                                                                                                                                                                                                                        |
+> | Vfe   | flaps extended speed                                                     | prędkość maksymalna przy wypuszczaniu klap                                                                                                                                                                                                                                                                                                         |
+> | Vno   | Maximum structural cruising speed or maximum speed for normal operations | dopuszczalna eksploatacyjna prędkość maksymalna.                                                                                                                                                                                                                                                                                                   |
+> | Vne   | never exceed speed                                                       | dopuszczalna chwilowa prędkość maksymalna w spokojnym powietrzu, której przekroczenie może spowodować uszkodzenie konstrukcji samolotu (najczęściej z powodu flatteru)                                                                                                                                                                             |
+> | Va    | design maneuvering speed                                                 | prędkość manewrowa (taka, przy której możliwe są pełne wychylenia sterów bez uszkodzenia konstrukcji samolotu)                                                                                                                                                                                                                                     |
+> | Vb    | design speed for maximum gust intensity                                  | prędkość maksymalna w atmosferze burzliwej                                                                                                                                                                                                                                                                                                         |
+> | Vc    | design cruise speed                                                      | projektowana prędkość przelotowa                                                                                                                                                                                                                                                                                                                   |
+> | Vd    | design dive speed                                                        | projektowana prędkość nurkowania                                                                                                                                                                                                                                                                                                                   |
+> | Vdf   | demonstration dive speed                                                 | maksymalna prędkość demonstrowana, nie może być większa od Vd                                                                                                                                                                                                                                                                                      |
+> | Vf    | designed flap speed                                                      | projektowa prędkość z klapami                                                                                                                                                                                                                                                                                                                      |
+> | Vfc   | maximum speed for stability characteristics                              | maksymalna prędkość zapewniająca stabilne własności lotne                                                                                                                                                                                                                                                                                          |
+> | Vh    | Maximum speed in level flight at maximum continuous power                | maksymalna prędkość w locie poziomym na maksymalnej mocy trwałej                                                                                                                                                                                                                                                                                   |
+> | V2min | minimum takeoff safety speed                                             | minimalna bezpieczna prędkość startu                                                                                                                                                                                                                                                                                                               |
+> | Vle   | maximum landing-gear extended speed                                      | maksymalna prędkość z wypuszczonym podwoziem                                                                                                                                                                                                                                                                                                       |
+> | Vlo   | maximum landing-gear operating speed                                     | maksymalna prędkość na której wyciągnięcie/wysunięcie podwozia jest bezpieczne                                                                                                                                                                                                                                                                     |
+> | Vlof  | lift-off speed                                                           | prędkość oderwania                                                                                                                                                                                                                                                                                                                                 |
+> | Vmc   | minimum control speed                                                    | minimalna prędkość lotu kontrolowanego                                                                                                                                                                                                                                                                                                             |
+> | Vmca  | minimum control speed with critical engine out of ground effect          | minimalna prędkość lotu sterowanego z niepracującym silnikiem krytycznym poza efektem wpływu ziemi                                                                                                                                                                                                                                                 |
+> | Vmcg  | minimum control speed with critical engine out during takeoff run        | minimalna prędkość sterowania z niepracującym silnikiem krytycznym podczas rozbiegu                                                                                                                                                                                                                                                                |
+> | Vmo   | maximum operating speed                                                  | maksymalna prędkość eksploatacyjna                                                                                                                                                                                                                                                                                                                 |
+> | Vr    | rotation speed                                                           | prędkość rotacji (prędkość przy której samolot zaczyna być odrywany od ziemi)                                                                                                                                                                                                                                                                      |
+> | Vref  | reference speed for final approach, normally 1.3Vso                      | prędkość progowa, zwykle 1.3Vso                                                                                                                                                                                                                                                                                                                    |
+> | Vtoss | takeoff safety speed for Category A rotorcraft                           | bezpieczna prędkość startu dla samolotów Kategorii A                                                                                                                                                                                                                                                                                               |
+> | Vs1   | minimum steady flight speed in specific configuration                    | minimalna prędkość lotu ustalonego w określonej konfiguracji                                                                                                                                                                                                                                                                                       |
+> | Vsse  | minimum safe single-engine speed                                         | minimalna bezpieczna prędkość lotu na jednym silniku                                                                                                                                                                                                                                                                                               |
+>
+> Źródło: https://pl.wikipedia.org/wiki/Rodzaje_pr%C4%99dko%C5%9Bci_powietrznych
+
+
 ## Pytanie PL020-0004
-`Elementem pomiarowym  (czułym) prędkościomierza jest:`
+`Elementem pomiarowym (czułym) prędkościomierza jest:`
 * **różnicowa puszka membranowa**
 * rurka Burdona
 * puszka aneroidowa
 * przepona gumowa
+
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
 
 ## Pytanie PL020-0005
 `Elementem pomiarowym (czułym) wysokościomierza jest:`
@@ -3774,6 +3842,8 @@ Oznacza to, że:`
 * dynamiczne i statyczne
 * dynamiczne i całkowite
 * całkowite
+
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
 
 ## Pytanie PL020-0008
 `Jakie ciśnienie doprowadzane jest do wysokościomierza:`
@@ -4752,12 +4822,16 @@ Przeznaczony dla personelu technicznego i latającego**
 * prędkość samolotu względem morza
 * prędkość kątowa
 
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
+
 ## Pytanie PL020-0166
 `Prędkość rzeczywistą określamy jako:`
 * **prędkość lotu samolotu względem powietrza o parametrach panujących na wysokości lotu**
 * prędkość lotu samolotu względem ziemi
 * prędkość kątowa
 * prędkość wskazywana przez prędkościomierz
+
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
 
 ## Pytanie PL020-0167
 `Próbę iskrowników wykonuje się`
@@ -5666,7 +5740,7 @@ Przeznaczony dla personelu technicznego i latającego**
 > a – prędkość dźwięku w płynie w danym miejscu lub – odpowiednio – w nieskończoności.
 >
 > Nazwa pochodzi od austriackiego fizyka Ernsta Macha.
-> W powietrzu o temperaturze 15 °C prędkość dźwięku wynosi 340,3 m/s[1] (1225 km/h).
+> W powietrzu o temperaturze 15 °C prędkość dźwięku wynosi 340,3 m/s (1225 km/h).
 >
 > Źródło: https://pl.wikipedia.org/wiki/Liczba_Macha
 
@@ -6206,7 +6280,7 @@ Przeznaczony dla personelu technicznego i latającego**
 >
 > ----
 >
-> **Przeciążenie (używany jest także termin nadważkość)[1] to stan**, w jakim znajduje się ciało poddane działaniu sił zewnętrznych innych, niż siła grawitacji, których wypadkowa powoduje przyspieszenie inne niż wynikające z siły grawitacji. Przyjęto wyrażać przeciążenie jako wielokrotność standardowego przyspieszenia ziemskiego. Tak zdefiniowane przeciążenie jest wektorem, mającym kierunek i zwrot.
+> **Przeciążenie (używany jest także termin nadważkość) to stan**, w jakim znajduje się ciało poddane działaniu sił zewnętrznych innych, niż siła grawitacji, których wypadkowa powoduje przyspieszenie inne niż wynikające z siły grawitacji. Przyjęto wyrażać przeciążenie jako wielokrotność standardowego przyspieszenia ziemskiego. Tak zdefiniowane przeciążenie jest wektorem, mającym kierunek i zwrot.
 >
 > Przeciążenie może być powodowane przez wibracje, manewry obiektu takiego jak samolot czy samochód, ciąg silników napędowych statku kosmicznego, ciśnienie gazów przyspieszających w lufie pocisk, kolizje itp.
 >
@@ -6722,7 +6796,7 @@ Przeznaczony dla personelu technicznego i latającego**
 * podawanie leków antyhistaminowych /Meclizyna, Dimenhydrant/
 * zastosowanie nadciśnienia oddechowego
 
-> **Desensytyzacja lub odwrażliwianie** – proces terapeutyczny polegający na redukowaniu intensywności reakcji lękowej (np. na traumatyczne przeżycia, obiekt wywołujący fobię) poprzez konstruowanie sytuacji, w których osoba (w rzeczywistości lub w wyobraźni) może skonfrontować się ze złagodzoną wersją swoich doświadczeń (czy obiektem lęku)[1]. Może oznaczać także pozbawienie wrażliwości wynikające z przyzwyczajenia się do widoku drastycznych scen[2].
+> **Desensytyzacja lub odwrażliwianie** – proces terapeutyczny polegający na redukowaniu intensywności reakcji lękowej (np. na traumatyczne przeżycia, obiekt wywołujący fobię) poprzez konstruowanie sytuacji, w których osoba (w rzeczywistości lub w wyobraźni) może skonfrontować się ze złagodzoną wersją swoich doświadczeń (czy obiektem lęku). Może oznaczać także pozbawienie wrażliwości wynikające z przyzwyczajenia się do widoku drastycznych scen[2].
 Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej chorobie lokomocyjnej u pilotów[potrzebny przypis].
 >
 > Źródło: https://pl.wikipedia.org/wiki/Desensytyzacja
@@ -7635,7 +7709,7 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * po przeszczepieniu rogówki
 * po zapaleniu tęczówki
 
-> *Ślepota barw** – zwana też zaburzeniem rozpoznawania barw (często ogólnie nazywana daltonizmem[1]), u ludzi jest niezdolnością do spostrzegania różnic pomiędzy niektórymi lub wszystkimi barwami, które normalnie są dostrzegane przez inne osoby. Ślepota barw jest zazwyczaj wadą wrodzoną, uwarunkowaną genetycznie, dziedziczoną recesywnie w sprzężeniu z chromosomem X. Z tego też powodu znacznie częściej dotyczy mężczyzn (ok. 8%) niż kobiet (ok. 0,5%)[2]. Ponieważ mężczyźni nie przekazują swojego chromosomu X swoim męskim potomkom, zatem mężczyzna ze ślepotą barw nie przekaże jej swojemu synowi. Kobieta, mając dwa chromosomy X może być nosicielką genu ślepoty barw nawet o tym nie wiedząc. Jeżeli po stronie rodziny matki jest mężczyzna, który ma ślepotę barw, to jest duża szansa, że jej dziecko odziedziczy jego gen. Przyczyni się to do ślepoty barw zazwyczaj w przypadku, gdy dziecko będzie płci męskiej. W bardzo rzadkich przypadkach matka sama będzie miała tę wadę. Oznaczać to będzie, że posiada dwa „ślepe na barwy” chromosomy X. Fakt, że gen ślepoty barw jest w chromosomie X, jest przyczyną, że prawdopodobieństwo wystąpienia tej choroby u mężczyzn jest od 10 do 20 razy większe niż u kobiet.
+> *Ślepota barw** – zwana też zaburzeniem rozpoznawania barw (często ogólnie nazywana daltonizmem), u ludzi jest niezdolnością do spostrzegania różnic pomiędzy niektórymi lub wszystkimi barwami, które normalnie są dostrzegane przez inne osoby. Ślepota barw jest zazwyczaj wadą wrodzoną, uwarunkowaną genetycznie, dziedziczoną recesywnie w sprzężeniu z chromosomem X. Z tego też powodu znacznie częściej dotyczy mężczyzn (ok. 8%) niż kobiet (ok. 0,5%)[2]. Ponieważ mężczyźni nie przekazują swojego chromosomu X swoim męskim potomkom, zatem mężczyzna ze ślepotą barw nie przekaże jej swojemu synowi. Kobieta, mając dwa chromosomy X może być nosicielką genu ślepoty barw nawet o tym nie wiedząc. Jeżeli po stronie rodziny matki jest mężczyzna, który ma ślepotę barw, to jest duża szansa, że jej dziecko odziedziczy jego gen. Przyczyni się to do ślepoty barw zazwyczaj w przypadku, gdy dziecko będzie płci męskiej. W bardzo rzadkich przypadkach matka sama będzie miała tę wadę. Oznaczać to będzie, że posiada dwa „ślepe na barwy” chromosomy X. Fakt, że gen ślepoty barw jest w chromosomie X, jest przyczyną, że prawdopodobieństwo wystąpienia tej choroby u mężczyzn jest od 10 do 20 razy większe niż u kobiet.
 
 ## Pytanie PL040-0245
 `U człowieka najsilniejszym „dawcą czasu” /synchronizatorem rytmów okołodobowych/ jest:`
