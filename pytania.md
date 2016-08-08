@@ -4971,7 +4971,7 @@ pozycyjnych i reflektora**
 * Połowa cylindrów naprzeciw drugiej połowy
 * Jeden za drugim
 
-> Silnik gwiazdowy – wielocylindrowy silnik spalinowy, w którym cylindry umieszczone są promieniowo na obwodzie koła, z centralnym wałem korbowym. Silnik gwiazdowy może zawierać od trzech do kilkunastu cylindrów. Silnik taki może mieć obieg zarówno dwusuwowy jak i czterosuwowy. W przypadku tego drugiego (ponad 90% konstrukcji) liczba cylindrów w danej gwieździe jest zawsze nieparzysta. Wynika to z faktu zamknięcia obiegu w czterech suwach, czyli 2 obrotach wału korbowego. Przykładowo w silniku 5 cylindrowym podczas pierwszego obrotu wału korbowego zapłon następuje w cylindrach 1, 3, 5, a podczas drugiego obrotu – w cylindrach 2, 4 i znów kolejność zaczyna się od cylindra 1. W wyniku tego rozwiązania zapłon następuje w co drugim cylindrze i wszystkie cylindry mają jeden suw pracy po wykonaniu 2 obrotów wału korbowego - dzięki temu uzyskuje się dobre wyrównoważenie pracy silnika. Spotykane historyczne rozwiązania (np. silnik Anzani z lat 20. XX wieku) z 6 cylindrami to przykład jakby połączenia ze sobą dwóch silników 3 cylindrowych. Silniki gwiazdowe mają też niewielkie różnice w skoku tłoka poszczególnych cylindrów - jednak są to różnice nieistotne konstrukcyjnie i użytkowo. Kilkunastocylindrowe silniki gwiazdowe budowane są w układzie podwójnej, a czasem i poczwórnej gwiazdy (np. silniki do Boeing B-50 Superfortress). Stosowany był także eksperymentalnie w motocyklach np. Megola
+> **Silnik gwiazdowy** – wielocylindrowy silnik spalinowy, w którym cylindry umieszczone są promieniowo na obwodzie koła, z centralnym wałem korbowym. Silnik gwiazdowy może zawierać od trzech do kilkunastu cylindrów. Silnik taki może mieć obieg zarówno dwusuwowy jak i czterosuwowy. W przypadku tego drugiego (ponad 90% konstrukcji) liczba cylindrów w danej gwieździe jest zawsze nieparzysta. Wynika to z faktu zamknięcia obiegu w czterech suwach, czyli 2 obrotach wału korbowego. Przykładowo w silniku 5 cylindrowym podczas pierwszego obrotu wału korbowego zapłon następuje w cylindrach 1, 3, 5, a podczas drugiego obrotu – w cylindrach 2, 4 i znów kolejność zaczyna się od cylindra 1. W wyniku tego rozwiązania zapłon następuje w co drugim cylindrze i wszystkie cylindry mają jeden suw pracy po wykonaniu 2 obrotów wału korbowego - dzięki temu uzyskuje się dobre wyrównoważenie pracy silnika. Spotykane historyczne rozwiązania (np. silnik Anzani z lat 20. XX wieku) z 6 cylindrami to przykład jakby połączenia ze sobą dwóch silników 3 cylindrowych. Silniki gwiazdowe mają też niewielkie różnice w skoku tłoka poszczególnych cylindrów - jednak są to różnice nieistotne konstrukcyjnie i użytkowo. Kilkunastocylindrowe silniki gwiazdowe budowane są w układzie podwójnej, a czasem i poczwórnej gwiazdy (np. silniki do Boeing B-50 Superfortress). Stosowany był także eksperymentalnie w motocyklach np. Megola
 > 
 > Silniki gwiazdowe chłodzone są powietrzem. Silniki tego typu stosowane są przede wszystkim do napędzania samolotów śmigłowych ze względu na lekkość (dzięki chłodzeniu powietrzem), dużą odporność na uszkodzenia oraz dobre warunki chłodzenia, rzadziej do innych zastosowań. Silniki te zyskały szczególne uznanie w USA, gdzie wyprodukowano największą liczbę tych silników, do tego silników o wysokich parametrach. Na tych silnikach bazowała większość samolotów - szczególnie użytych podczas II wojny światowej. Wyjątkami były konstrukcje Curtiss P-40 Warhawk i Lockheed P-38 Lightning, gdzie zastosowano silniki widlaste Allison produkcji USA. North American P-51 Mustang nie był wyjątkiem, gdyż bazował na brytyjskim silniku RR Merlin.
 >
@@ -4983,6 +4983,16 @@ pozycyjnych i reflektora**
 * Cylindry rozmieszczone na okręgu co 90 stopni
 * Cylindry jeden za drugim
 * Cylindry jeden za drugim tzw. wiszące
+
+> **Silnik o przeciwległych cylindrach** – silnik spalinowy wielocylindrowy o parzystej liczbie tłoków, w którym cylindry usytuowane są na wspólnej osi.
+> 
+> Silniki takie mogą być przeciwbieżne, gdy każdy z tłoków ma swoją komorę spalania (bokser) albo współbieżne ze wspólną lub rozdzielną komorą spalania . Układ ten zapewnia niższy niż w konwencjonalnych silnikach poziom hałasu i wibracji oraz niższy spadek mocy. Wszystko to w związku z procesem znoszenia się sił działających na tłoki. Konstrukcja takiego silnika jest jednak dość skomplikowana, z powodu duplikacji niektórych układów takich jak rozrząd (podobnie jak w układach V), przez co jest droga i stosunkowo rzadko stosowana.
+> 
+> Dodatkowymi zaletami są znacznie mniejsza długość i wysokość takiego silnika, zwarta konstrukcja pozwalająca na zastosowanie do budowy jego kadłuba lekkiego materiału (aluminium) oraz sposób zamontowania w komorze silnikowej taki, że środek ciężkości silnika znajduje się bardzo nisko, dzięki czemu środek ciężkości samochodu znajduje się również niżej[1].
+> 
+> Silniki tego typu znane pod nazwą „silnik bokser” tradycyjnie stosowane są w motocyklach firmy BMW, czy samochodach firm Subaru, Porsche, oraz starszych modelach Alfa Romeo, czy Volkswagen Garbus. Znajdują również zastosowanie w lotnictwie lekkim (Lycoming, Continental, Rotax).
+> 
+> Źródło: https://pl.wikipedia.org/wiki/Silnik_o_przeciwleg%C5%82ych_cylindrach
 
 ## Pytanie PL020-0186
 `Siła gazowa działająca na tłok zależy od`
@@ -5146,6 +5156,8 @@ pozycyjnych i reflektora**
 * Na wejściu do silnika
 * W zbiorniku
 * Za pompą olejową
+
+> Nie do końca zgadzam się z tą odpowiedzią: https://github.com/fifly/PPL-A/issues/3
 
 ## Pytanie PL020-0211
 `Tłumik shimmi przeznaczony jest do tłumienia drgań:`
