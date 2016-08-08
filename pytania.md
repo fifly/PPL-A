@@ -3764,7 +3764,8 @@ Oznacza to, że:`
 > Źródło: https://pl.wikipedia.org/wiki/Pr%C4%99dko%C5%9Bciomierz_(lotnictwo)
 >
 > ## Podział prędkości
-Podział prędkości zawarty w międzynarodowych przepisach:
+> Podział prędkości zawarty w międzynarodowych przepisach:
+> 
 > | Nazwa | Rozwinięcie skrótu (ang.)   | Opis                                                                                                                                                                                                                             |
 > |-------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 > | ASIR  | Airspeed Instrument Reading | Prędkość wskazywana przez prędkościomierz bez żadnych poprawek.                                                                                                                                                               |
