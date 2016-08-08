@@ -5420,6 +5420,17 @@ pozycyjnych i reflektora**
 * Wyciek oleju z cylindra
 * Nie ma znaczenia
 
+> **Luz zaworowy**
+> Nagrzewanie się zaworów w czasie pracy silnika powoduje ich wydłużanie. Na skutek tego zawór może nie zamykać się całkowicie. Również zużycie gniazda zaworowego następuje szybciej, niż krzywki na wałku rozrządu, co może przyczyniać się do utraty szczelności zaworu i spadku mocy silnika.
+> 
+> Utrata szczelności grozi nadtapianiem gniazd zaworowych (a więc zużyciem przylgni zaworowej) oraz grzybka zaworu, ponieważ gorące spaliny przepływając wokół niedomkniętego zaworu powodują nadmierne grzanie się tych elementów.
+> 
+> Aby zapewnić szczelność zaworów przewidziany jest konstrukcyjnie luz zaworowy, w postaci minimalnego odstępu między określonymi elementami w mechanizmie rozrządu. Ten odstęp w zależności od konstrukcji silnika, typu rozrządu, zastosowanych materiałów, zmniejsza się lub zwiększa w miarę wzrostu temperatury pracy silnika. Zbyt mały luz zaworowy (lub jego brak) może powodować niedomykanie się zaworów, natomiast luz nadmierny powoduje spadek mocy, zwiększa hałas pracy silnika, i przyczynia się do nadmiernego zużycia układu rozrządu.
+> 
+> W celu ustalenia luzu zaworowego stosuje się różne metody regulacji. Powszechnie stosowana jest regulacja mechaniczna, „ręczna”, typowo za pomocą śrub, czasem płytek lub wymiany innych elementów pośrednich – producent silnika podaje zalecane wartości luzu zaworowego (w setnych i dziesiątych częściach mm), przeważnie w odniesieniu do zimnego silnika. Czasem stosuje się regulację automatyczną (właściwie – kasowanie nadmiernego luzu) za pomocą rozwiązań mechanicznych lub hydraulicznych. W niektórych rozwiązaniach występuje hybryda regulacji ręcznej i automatycznego kasowania (np. wstępnie ustala się luz ręcznie, „klasycznie”, ale w układzie występują popychacze hydrauliczne, kasujące luzy w czasie pracy).
+> 
+> Luz zaworowy powinien być sprawdzany przy okresowych przeglądach silnika w terminach określonych przez producenta (zależnie od przebiegu lub okresu pracy silnika). Jeśli nie przewidziano automatycznej korekty, to w miarę potrzeby należy dokonać regulacji luzu zaworowego zgodnie z zaleceniami obsługi danego typu silnika – należy przy tym szczególnie zwracać uwagę na możliwe różnice w wymaganiach dla luzu zaworów dolotowych i wylotowych, np. nie pomylić zaworów przy zwartej zabudowie głowicy silnika. Luz zaworowy jest mierzony przeważnie za pomocą szczelinomierza.
+
 ## Pytanie PL020-0249
 `Ze wzrostem prędkości obrotowej silnika moment obrotowy`
 * **Rośnie, a potem maleje**
