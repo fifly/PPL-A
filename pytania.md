@@ -4467,6 +4467,8 @@ Oznacza to, że:`
 * Dzięki zastosowaniu odpowiedniej modulacji.
 * Dzięki otrzymaniu wypadkowej charakterystyki odbioru w postaci koła.
 
+> Kardioida (krzywa sercowa) – krzywa opisywana przez ustalony punkt okręgu toczącego się bez poślizgu po zewnętrzu innego nieruchomego okręgu o tej samej średnicy. Kardioida jest odmianą epicykloidy.
+
 ## Pytanie PL020-0106
 `Kabina ciśnieniowa służy:`
 * **Zapewnia wykonywanie lotów na dużych wysokościach bez konieczności stosowania tlenu**
@@ -4715,8 +4717,7 @@ pozycyjnych i reflektora**
 
 ## Pytanie PL020-0146
 `Parametrami charakteryzującym rozwijaną aktualnie moc silnika z doładowaniem są`
-* **Prędkość obrotowa i ciśnienie
-ładowania**
+* **Prędkość obrotowa i ciśnienie ładowania**
 * Prędkość obrotowa i ciśnienie paliwa
 * Ciśnienie ładowania i temperatura głowic
 * Ciśnienie ładowania i ciśnienie oleju
@@ -4758,8 +4759,7 @@ pozycyjnych i reflektora**
 
 ## Pytanie PL020-0153
 `Pokładowy Dziennik Techniczny:`
-* **Służy do potwierdzenia wykonanych obsług technicznych do lotu i po locie potwierdzenia przyjęcia przez załogę samolotu do lotu i zdania po locie obsłudze technicznej rejestracji czasu pracy samolotu, wpisywania niesprawności samolotu itp.
-Przeznaczony dla personelu technicznego i latającego**
+* **Służy do potwierdzenia wykonanych obsług technicznych do lotu i po locie potwierdzenia przyjęcia przez załogę samolotu do lotu i zdania po locie obsłudze technicznej rejestracji czasu pracy samolotu, wpisywania niesprawności samolotu itp. Przeznaczony dla personelu technicznego i latającego**
 * Służy dla personelu technicznego przy obsłudze technicznej liniowej
 * Służy dla personelu latającego dla wpisywania powstałych niesprawności
 * Stanowi dokument do potwierdzenia wykonania obsług technicznych wyższego rzędu
@@ -4970,6 +4970,12 @@ Przeznaczony dla personelu technicznego i latającego**
 * Cylindry jeden za drugim tzw. wiszące
 * Połowa cylindrów naprzeciw drugiej połowy
 * Jeden za drugim
+
+> Silnik gwiazdowy – wielocylindrowy silnik spalinowy, w którym cylindry umieszczone są promieniowo na obwodzie koła, z centralnym wałem korbowym. Silnik gwiazdowy może zawierać od trzech do kilkunastu cylindrów. Silnik taki może mieć obieg zarówno dwusuwowy jak i czterosuwowy. W przypadku tego drugiego (ponad 90% konstrukcji) liczba cylindrów w danej gwieździe jest zawsze nieparzysta. Wynika to z faktu zamknięcia obiegu w czterech suwach, czyli 2 obrotach wału korbowego. Przykładowo w silniku 5 cylindrowym podczas pierwszego obrotu wału korbowego zapłon następuje w cylindrach 1, 3, 5, a podczas drugiego obrotu – w cylindrach 2, 4 i znów kolejność zaczyna się od cylindra 1. W wyniku tego rozwiązania zapłon następuje w co drugim cylindrze i wszystkie cylindry mają jeden suw pracy po wykonaniu 2 obrotów wału korbowego - dzięki temu uzyskuje się dobre wyrównoważenie pracy silnika. Spotykane historyczne rozwiązania (np. silnik Anzani z lat 20. XX wieku) z 6 cylindrami to przykład jakby połączenia ze sobą dwóch silników 3 cylindrowych. Silniki gwiazdowe mają też niewielkie różnice w skoku tłoka poszczególnych cylindrów - jednak są to różnice nieistotne konstrukcyjnie i użytkowo. Kilkunastocylindrowe silniki gwiazdowe budowane są w układzie podwójnej, a czasem i poczwórnej gwiazdy (np. silniki do Boeing B-50 Superfortress). Stosowany był także eksperymentalnie w motocyklach np. Megola
+> 
+> Silniki gwiazdowe chłodzone są powietrzem. Silniki tego typu stosowane są przede wszystkim do napędzania samolotów śmigłowych ze względu na lekkość (dzięki chłodzeniu powietrzem), dużą odporność na uszkodzenia oraz dobre warunki chłodzenia, rzadziej do innych zastosowań. Silniki te zyskały szczególne uznanie w USA, gdzie wyprodukowano największą liczbę tych silników, do tego silników o wysokich parametrach. Na tych silnikach bazowała większość samolotów - szczególnie użytych podczas II wojny światowej. Wyjątkami były konstrukcje Curtiss P-40 Warhawk i Lockheed P-38 Lightning, gdzie zastosowano silniki widlaste Allison produkcji USA. North American P-51 Mustang nie był wyjątkiem, gdyż bazował na brytyjskim silniku RR Merlin.
+>
+> Źródło: https://pl.wikipedia.org/wiki/Silnik_gwiazdowy
 
 ## Pytanie PL020-0185
 `Silnik typu bokser to silnik o układzie cylindrów`
