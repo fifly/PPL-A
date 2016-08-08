@@ -5430,6 +5430,8 @@ pozycyjnych i reflektora**
 > W celu ustalenia luzu zaworowego stosuje się różne metody regulacji. Powszechnie stosowana jest regulacja mechaniczna, „ręczna”, typowo za pomocą śrub, czasem płytek lub wymiany innych elementów pośrednich – producent silnika podaje zalecane wartości luzu zaworowego (w setnych i dziesiątych częściach mm), przeważnie w odniesieniu do zimnego silnika. Czasem stosuje się regulację automatyczną (właściwie – kasowanie nadmiernego luzu) za pomocą rozwiązań mechanicznych lub hydraulicznych. W niektórych rozwiązaniach występuje hybryda regulacji ręcznej i automatycznego kasowania (np. wstępnie ustala się luz ręcznie, „klasycznie”, ale w układzie występują popychacze hydrauliczne, kasujące luzy w czasie pracy).
 > 
 > Luz zaworowy powinien być sprawdzany przy okresowych przeglądach silnika w terminach określonych przez producenta (zależnie od przebiegu lub okresu pracy silnika). Jeśli nie przewidziano automatycznej korekty, to w miarę potrzeby należy dokonać regulacji luzu zaworowego zgodnie z zaleceniami obsługi danego typu silnika – należy przy tym szczególnie zwracać uwagę na możliwe różnice w wymaganiach dla luzu zaworów dolotowych i wylotowych, np. nie pomylić zaworów przy zwartej zabudowie głowicy silnika. Luz zaworowy jest mierzony przeważnie za pomocą szczelinomierza.
+> 
+> Źródło: https://pl.wikipedia.org/wiki/Uk%C5%82ad_rozrz%C4%85du_silnika_spalinowego#Luz_zaworowy
 
 ## Pytanie PL020-0249
 `Ze wzrostem prędkości obrotowej silnika moment obrotowy`
