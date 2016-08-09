@@ -18,7 +18,6 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 * European AIS Database
   * https://www.ead.eurocontrol.int/eadcms/eadsite/index.php.html (dostęp po darmowej rejestracji)
 
-
 ## Książki
 * Lech Szutkowski: __Budowa i pilotaż samolotów lekkich.__ - seria szkoleniowa AVIA-TEST (1)
 * Lech Szutkowski: __Poradnik pilota samolotowego.__ - seria szkoleniowa AVIA-TEST (3)
@@ -31,3 +30,7 @@ Airspace Use Plan - Plan użytkowania polskiej przestrzeni powietrznej
 ## Strony WWW
 * Strona z pytaniami w formie testów - http://boruh.com.pl
 * Lotniska dlaPilota.pl - http://lotniska.dlapilota.pl/
+
+### Radiokomunikacja
+* http://www.miramar.com.pl/lotnictwo/files/radiooperator.xml
+* http://aeroklub.jaroslaw.pl/public/download/artykuly/korespondencja_radiotelefoniczna.pdf
