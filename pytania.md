@@ -11366,6 +11366,21 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * flatter lotkowy
 * flatter usterzenia
 
+> **Buffeting** is a high-frequency instability, caused by airflow separation or shock wave oscillations from one object striking another. It is caused by a sudden impulse of load increasing. It is a random forced vibration. Generally it affects the tail unit of the aircraft structure due to air flow downstream of the wing.
+> 
+> The methods for buffet detection are:
+> 
+> * Pressure coefficient diagram
+> * Pressure divergence at trailing edge
+> * Computing separation from trailing edge based on Mach number
+> * Normal force fluctuating divergence
+> 
+> Źródło: https://en.wikipedia.org/wiki/Aeroelasticity#Buffeting
+> 
+> Youtube: 
+> * https://www.youtube.com/watch?v=SGNr7OHD__A - oscillation starts - shock buffeting
+> * https://www.youtube.com/watch?v=DI-1LfXSfqo - UNSW - Aerospace Structures - Aeroelasticity
+
 ## Pytanie PL080-0010
 `Ciało porusza się po okręgu z prędkością ‘υ’. Jeżeli zwiększymy dwukrotnie prędkość ciała to:`
 * **-prędkość kątowa ‘ω’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie**
@@ -12679,6 +12694,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * drgania giętno-skrętne
 * flatter lotkowy
 * flatter usterzenia
+
+> Patrz [Pytanie PL080-0009](#pytanie-pl080-0009)
 
 ## Pytanie PL080-0222
 `Ujemny skos skrzydła powoduje:`
