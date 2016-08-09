@@ -11344,6 +11344,14 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * ciśnienie jest większe od ciśnienia spiętrzenia
 * prędkość strumienia jest równa zeru, a ciśnienie osiąga wartość minimalną
 
+> W obszarze przepływu mogą znajdować się punkty, w których prędkość przepływu  v= 0, nazywane punktami spiętrzenia (stagnacji), gdzie ciśnienie statyczne przybiera wartości ciśnienia całkowitego, zwanego ciśnieniem spiętrzenia. Jeżeli płyn poruszający się ruchem jednostajnym z prędkością v  pod ciśnieniem p napotyka na przeszkodę w postaci ciała zanurzonego, to przed przeszkodą następuje spiętrzenie w punkcie S oraz opływ rozdzielonych strug dookoła tej przeszkody.
+> 
+> Źródło: http://www.kms.polsl.pl/prv/wojnarowski/download/Graficzna_interpretacja_i_zastosowanie_rownania_Bernouliego.ppt
+> 
+> Jeżeli w jednostajnym przepływie płynu o prędkości i ciśnieniu znajdzie się przeszkoda w postaci ciała zanurzonego, to wówczas bezpośrednio przed nią następuje spiętrzenie przepływu oraz opływ rozdzielonych strug dookoła tej przeszkody. W punkcie S (zwanym punktem wejścia lub spiętrzenia ) znajdującym się w środku obszaru spiętrzenia, prędkość przepływu jest równa zeru.
+> 
+> http://www.kseiuos.agh.edu.pl/dla_studentow/mechanika_plynow/MP_wyznaczenie_sredniej_predkosci_oraz_badanie_rozkladu_predkosci_w_przekroju_rurociagu.pdf
+
 ## Pytanie PL080-0008
 `Brak wyważenia masowego lotek na dużych prędkościach lotu jest bezpośrednią przyczyną występowania:`
 * **flatteru lotkowego**
