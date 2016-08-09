@@ -11380,6 +11380,11 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 > Youtube: 
 > * https://www.youtube.com/watch?v=SGNr7OHD__A - oscillation starts - shock buffeting
 > * https://www.youtube.com/watch?v=DI-1LfXSfqo - UNSW - Aerospace Structures - Aeroelasticity
+> 
+> Nieregularne drgania konstrukcji samolotu lub jednej z jego części spowodowana przez wiry powstające podczas odrywania się strug powietrza od powierzchni skrzydeł (trzepotanie)
+Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzydeł w kadłub. Powstaje gdy usterzenie znajduje się w zaburzonym strumieniu
+> 
+> Źródło: http://miramar.com.pl/lotnictwo
 
 ## Pytanie PL080-0010
 `Ciało porusza się po okręgu z prędkością ‘υ’. Jeżeli zwiększymy dwukrotnie prędkość ciała to:`
@@ -11388,12 +11393,20 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * -prędkość kątowa ‘ω’ wzrośnie czterokrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie
 * -prędkość kątowa ‘ω’ wzrośnie czterokrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie dwukrotnie
 
+> ```
+> a = v^2 / r
+> a - przespieszenie dośrodkowe
+> v – prędkość w ruchu po okręgu (w układzie SI w m/s)
+> r – promień okręgu (w układzie SI w m),
+
 ## Pytanie PL080-0011
 `Ciało porusza się po okręgu z prędkością ‘υ’. Jeżeli zwiększymy dwukrotnie promień okręgu to:`
 * **-prędkość kątowa ‘ω’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie**
 * -prędkość kątowa ‘ω’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ zmaleje dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie
 * -prędkość kątowa ‘ω’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ wzrośnie dwukrotnie
 * -prędkość kątowa ‘ω’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu "T" wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ nie zmieni się
+
+> Patrz: [Pytanie PL080-0010](#pytanie-pl080-0010)
 
 ## Pytanie PL080-0012
 `Ciało porusza się ze stałą prędkością ‘υ’ po okręgu o promieniu ‘R’. Wypadkowy wektor przyśpieszenia działającego na to ciało jest zawsze skierowany:`
