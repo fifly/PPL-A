@@ -11866,6 +11866,12 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * To = 277 K.
 * To = 301 K.
 
+> 1K = -272.15℃
+> K =℃ + 273.1
+> 
+> 0℃= 273.1500K
+> 15℃= 288.1500K
+
 ## Pytanie PL080-0078
 `Jaką wielkość, wyrażoną w kg/m?, ma wzorcowa (standardowa) gęstość powietrza  ρo na poziomie morza?`
 * **ρo = 1,2255 kg/m?.**
