@@ -11722,6 +11722,12 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * klapka wyważająca
 * trymer
 
+> **Flettner, fletner, klapka odciążająca** – umieszczana na krawędzi spływu powierzchni sterowych. Dzięki prostemu połączeniu flettnera z elementem stałym (np. statecznik) uzyskuje się odwrotne wychylenia klapki w stosunku do wychyleń sterów. Powoduje to wytworzenie siły aerodynamicznej, która na ramieniu od środka parcia klapki do osi zawiasu steru redukuje moment zawiasowy zmniejszając tym samym siły niezbędne do wychylenia sterów.
+> 
+> Nazwa pochodzi od nazwiska konstruktora morskiego i lotniczego Antona Flettnera.
+> 
+> Źródło: https://pl.wikipedia.org/wiki/Flettner
+
 ## Pytanie PL080-0058
 `Jak musi zmienić się prędkość lotu w zakręcie prawidłowym, aby przy tym samym przechyleniu promień zakrętu wzrósł czterokrotnie?`
 * **zwiększyć dwukrotnie**
