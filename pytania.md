@@ -3810,6 +3810,7 @@ Oznacza to, że:`
 > | Vtoss | takeoff safety speed for Category A rotorcraft                           | bezpieczna prędkość startu dla samolotów Kategorii A                                                                                                                                                                                                                                                                                               |
 > | Vs1   | minimum steady flight speed in specific configuration                    | minimalna prędkość lotu ustalonego w określonej konfiguracji                                                                                                                                                                                                                                                                                       |
 > | Vsse  | minimum safe single-engine speed                                         | minimalna bezpieczna prędkość lotu na jednym silniku                                                                                                                                                                                                                                                                                               |
+> | Vra   | rough air speed (turbulence penetration speed)                           | maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza                                                                                                                                                                                                                                                                                         |
 >
 > Źródło: https://pl.wikipedia.org/wiki/Rodzaje_pr%C4%99dko%C5%9Bci_powietrznych
 
@@ -11923,6 +11924,8 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * musimy znać promień zakrętu i przechylenie
 * musimy znać prędkość, promień zakrętu i przechylenie
 
+> Większa prędkość oznacza większy promień zakręty przy stałym pochyleniu przez co przeciążenie pozostaje stałe.
+
 ## Pytanie PL080-0086
 `Jakiemu celowi służy tzw. „mechanizacja skrzydła” (klapy, sloty, interceptory etc)?`
 * **Celem jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na osiągi (np. prędkość podejścia do lądowania)**
@@ -12174,6 +12177,8 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * V <sub>NE</sub>
 * V <sub>NO</sub>
 * V <sub>A</sub>
+
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
 
 ## Pytanie PL080-0127
 `Maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia oznaczana jest:`
