@@ -12224,6 +12224,8 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * stała w każdym punkcie rozpiętości, ale zależy od kąta natarcia
 * stała w każdym punkcie rozpiętości, ale zależy od prędkości lotu
 
+> Zasada powstawania wirów (vortex)
+
 ## Pytanie PL080-0134
 `Na górnej powierzchni płata o skończonym wydłużeniu strugi powietrza opływające go odchylają się w stronę środka płata o kąt, którego wartość jest:`
 * **tym większą im większy kąt natarcia**
@@ -12400,6 +12402,10 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * flatter
 * buffeting
 * odwrotne działanie lotek
+
+> **Dywergencja skrzydła, rozbieżność (niestateczność)** skrętna skrzydła występująca po przekroczeniu dopuszczalnej prędkości lotu nurkowego. Niekontrolowalny wzrost lub zmniejszanie się kąta natarcia spowodowane wzrostem momentu skręcającego ponad obliczeniową wartość momentu reakcyjnego konstrukcji skrzydła. Przyczyna wielu katastrof (m.in. śmierci Żwirki i Wigury).
+>
+> Źrodło: http://portalwiedzy.onet.pl/29698,,,,dywergencja_skrzydla,haslo.html
 
 ## Pytanie PL080-0162
 `Po wychyleniu lotki w górę podczas lotu z dużą prędkością powstaje:`
