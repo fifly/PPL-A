@@ -12719,6 +12719,8 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * największa odległość między górnym i dolnym obrysem profilu
 * największa odległość między górnym obrysem profilu i cięciwą aerodynamiczną
 
+> **Strzałka ugięcia** – maksymalne ugięcie linii szkieletowej od cięciwy profilu.
+
 ## Pytanie PL080-0215
 `Szkieletowa profilu to:`
 * **linia łącząca środki okręgów wpisanych w obrys profilu lotniczego**
@@ -12776,6 +12778,12 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * zwiększenie stateczności statycznej podłużnej
 * zmniejszenie stateczności statycznej podłużnej na dodatnich kątach natarcia, a zwiększenie na ujemnych
 * zwiększenie stateczności statycznej podłużnej na dodatnich kątach natarcia, a zmniejszenie na ujemnych
+
+> Kąt skosu, kąt zawarty między prostopadłą do płaszczyzny symetrii samolotu a linią leżącą w odległości 25% cięciwy skrzydła od krawędzi natarcia. Może być ujemny (skrzydła skośne do przodu) lub dodatni (skośne do tyłu).
+> 
+> Skos skrzydeł wpływa na złagodzenie oporów falowych i zwiększa krytyczną liczbę Macha, toteż stosowany jest szeroko w samolotach odrzutowych.
+> 
+> Źródło: http://portalwiedzy.onet.pl/29336,,,,kat_skosu,haslo.html
 
 ## Pytanie PL080-0223
 `Usterzenie kierunku zaprojektowane jest w celu obracania płatowca względem:`
