@@ -12464,12 +12464,16 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym
 * prędkość, do jakiej nie przewiduje się ograniczeń użytkowania szybowca zgodnie z jego przeznaczeniem
 
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
+
 ## Pytanie PL080-0172
 `Prędkość lotu w burzliwej atmosferze ‘Vra’ to:`
 * **maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza**
 * największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym
 * prędkość, do jakiej nie przewiduje się ograniczeń użytkowania szybowca zgodnie z jego przeznaczeniem
 * maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia
+
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
 
 ## Pytanie PL080-0176
 `Profile laminarne to profile, w których:`
