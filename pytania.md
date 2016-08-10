@@ -11881,10 +11881,12 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 
 ## Pytanie PL080-0079
 `Jaką wielkość, wyrażoną w stopniach Celsiusza (?C) ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?`
-* **t = +15 <sup >o</sup >C**
-* t = +10 <sup >o</sup >C
-* t = +20 <sup >o</sup >C
-* t = +16,5 <sup >o</sup >C
+* **t = +15 ℃**
+* t = +10 ℃
+* t = +20 ℃
+* t = +16,5 ℃
+
+> Patrz: [Pytanie PL080-0077](#pytanie-pl080-0077)
 
 ## Pytanie PL080-0080
 `Jaki istnieje związek między wielkością temperatury powietrza t wyrażonej w stopniach Celsiusza (<sup>?</ sup>C) i temperatury T wyrażonej w Kelwinach (K)?`
