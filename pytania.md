@@ -11786,12 +11786,13 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 
 > Hektopaskal jest zazwyczaj stosowany przy podawaniu ciśnienia atmosferycznego, ponieważ jest dokładnie równy stosowanej powszechnie przed latami sześćdziesiątymi XX w. w meteorologii w układzie CGS i MKSA jednostce milibar:
 > 
-> 1 hPa = 100 Pa = 1 mbar = 10,19 mmH2O
+> * 1 hPa = 100 Pa = 1 mbar = 10,19 mmH2O
 > 
 > Ciśnienie atmosferyczne na poziomie morza wynosi przeciętnie 1013,25 hPa. Najniższe ciśnienie zmierzone kiedykolwiek na poziomie morza wynosiło 870 hPa, a najwyższe na powierzchni Ziemi – 1083,8 hPa.
 > 
 > Przeliczniki:
-> ```1 Pa = 1,019716·10-5 at
+> ```
+> 1 Pa = 1,019716·10-5 at
 > = 1,019716·10-5 kG/cm2
 > = 10-5 bar
 > = 0,98692326671·10-5 atm
