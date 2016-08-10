@@ -11784,6 +11784,24 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * 1000 N/m?
 * 10000 N/m?
 
+> Hektopaskal jest zazwyczaj stosowany przy podawaniu ciśnienia atmosferycznego, ponieważ jest dokładnie równy stosowanej powszechnie przed latami sześćdziesiątymi XX w. w meteorologii w układzie CGS i MKSA jednostce milibar:
+> 
+> 1 hPa = 100 Pa = 1 mbar = 10,19 mmH2O
+> 
+> Ciśnienie atmosferyczne na poziomie morza wynosi przeciętnie 1013,25 hPa. Najniższe ciśnienie zmierzone kiedykolwiek na poziomie morza wynosiło 870 hPa, a najwyższe na powierzchni Ziemi – 1083,8 hPa.
+> 
+> Przeliczniki:
+> ```1 Pa = 1,019716·10-5 at
+> = 1,019716·10-5 kG/cm2
+> = 10-5 bar
+> = 0,98692326671·10-5 atm
+> = 0,0075006167382112 mmHg
+> = 0,1019716212977928 mmH2O
+> = 10 b
+> ```
+> 
+> Źródło: https://pl.wikipedia.org/wiki/Paskal
+
 ## Pytanie PL080-0066
 `Jak zmieni się promień zakrętu prawidłowego, jeżeli przy stałym przechyleniu zwiększymy prędkość dwukrotnie?`
 * **wzrośnie czterokrotnie**
