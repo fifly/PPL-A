@@ -12187,6 +12187,8 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * V <sub>NE</sub >
 * V <sub>NO</sub>
 
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
+
 ## Pytanie PL080-0128
 `Mechanizację skrzydła stosuje się w celu:`
 * **zwiększenia CZmax**
@@ -12277,6 +12279,8 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * V<sub>NO</sub>
 * V<sub>A</sub>
 * V<sub>RA</sub>
+
+> Patrz: [Pytanie PL020-0003](#pytanie-pl020-0003)
 
 ## Pytanie PL080-0143
 `Niekorzystny moment obrotowy względem osi OZ›, który powstaje w wyniku wychylenia lotek o ten sam kąt w przeciwne strony nazywamy:`
