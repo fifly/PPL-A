@@ -11444,6 +11444,10 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * najniższe zmierzone ciśnienie
 * suma ciśnienia dynamicznego i statycznego
 
+> Sumę ciśnienia statycznego p i ciśnienia dynamicznego nazywamy ciśnieniem całkowitym. Wynika stąd, że ciśnienie spiętrzenia jest równe ciśnieniu całkowitemu w przepływie niezakłóconym.
+> 
+> Źródło: Graficzna interpretacja i zastosowanie równania Bernoulli'ego - Józef Wojnarowski
+
 ## Pytanie PL080-0018
 `Co to jest „opływ laminarny”?`
 * **niezaburzony opływ od krawędzi natarcia do punktu przejściowego**
@@ -11706,6 +11710,10 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * oporu indukcyjnego
 * oporu falowego
 * oporu tarcia
+
+> **Opór szczelinowy** – niekorzystne zjawisko wynikające z obecności szczelin np. na skrzydle; klapy, lotki. Powoduje przepływ pomiędzy dolna i górna powierzchni, które są źródłem zawirowań (Zwracać uwagę na zaklejanie szczeliny skrzydło-kadłub)
+> 
+> Źrodło: http://www.epba.pl/pliki/materialy_szkoleniowe/Zasady%20Lotu_%20FIG.pdf
 
 ## Pytanie PL080-0057
 `Jak inaczej nazywamy flettner?`
