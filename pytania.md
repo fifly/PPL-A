@@ -11886,14 +11886,14 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * t = +20 ℃
 * t = +16,5 ℃
 
-> Patrz: [Pytanie PL080-0077](#pytanie-pl080-0077)
-
 ## Pytanie PL080-0080
 `Jaki istnieje związek między wielkością temperatury powietrza t wyrażonej w stopniach Celsiusza (<sup>?</ sup>C) i temperatury T wyrażonej w Kelwinach (K)?`
 * **T = t + 273.**
 * T = t + 233
 * T = t + 283
 * T = t + 373
+
+> Patrz: [Pytanie PL080-0077](#pytanie-pl080-0077)
 
 ## Pytanie PL080-0082
 `Jakie główne cechy ma gruby profil w porównaniu z cieńszym przy takiej samej prędkości opływu?`
