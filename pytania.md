@@ -9466,7 +9466,7 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 > Deklinacja wywołana jest nie tylko położeniem bieguna magnetycznego Ziemi w innym miejscu niż biegun geograficzny, ale także lokalnymi warunkami magnetycznymi, jak np. położeniem niektórych rodzajów rud żelaza. Deklinacja magnetyczna jest parametrem zmiennym nie tylko ze względu na miejsce pomiaru, ale także jest zmienna w czasie z powodu stałego przemieszczania się magnetycznego bieguna Ziemi.
 Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapach geograficznych (głównie nawigacyjnych).
 > 
-> [!https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png]
+> ![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png]
 > 
 > https://pl.wikipedia.org/wiki/Deklinacja_magnetyczna
 
