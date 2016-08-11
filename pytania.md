@@ -9646,9 +9646,9 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 
 > ![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png)
 > 
-> Z racji że deklinacja i dewiacja są dodatnie to busola będzie wskazywała bardziej na wschód ("zwiększy wartość"). Żeby poruszać się prawidłowym kursem geograficznym musimy ustawić kurs na busoli:
+> Z racji że deklinacja i dewiacja są dodatnie to busola będzie wskazywała bardziej na wschód ("zwiększy wartość"). Żeby poruszać się prawidłowym kursem geograficznym musimy ustawić kurs na busoli
 > ```
-> Kurs magnetyczny - ΔM - ΔB
+> Kurs geograficzny - ΔM - ΔB
 > ```
 
 ## Pytanie PL060-0028
@@ -9657,6 +9657,8 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 * mniejszy od kursu geograficznego
 * równy kursowi magnetycznemu
 * równy kursowi geograficznemu
+
+> Patrz [Pytanie PL060-0027](#pytanie-pl060-0027)
 
 ## Pytanie PL060-0029
 `Jeżeli wektor wiatru jest prostopadły do nakazanej linii drogi i wieje z lewej strony to kąt znoszenia jest:`
