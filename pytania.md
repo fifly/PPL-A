@@ -3259,6 +3259,8 @@ Oznacza to, że:`
 * najwyższy poziom lotu jaki można wykorzystać poniżej wysokości przejściowej
 * poziom lotu, na i poniżej którego położenie statku powietrznego w płaszczyźnie pionowej określane jest jako wysokość względna lub bezwzględna
 
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
+
 ## Pytanie PL010-0563
 `Poziom przelotu (Cruising Level) jest to:`
 * **poziom utrzymywany podczas znacznej części lotu**
@@ -3335,6 +3337,8 @@ Oznacza to, że:`
 * ciśnienie atmosferyczne na poziomie morza odniesione do elewacji progu drogi startowej w użyciu
 * ciśnienie atmosferyczne zmierzone na średnim poziomie morza
 * ciśnienie atmosferyczne zmierzone na poziomie morza odniesione do elewacji lotniska
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL010-0574
 `Rada Ministrów w drodze rozporządzenia wprowadza zakazy i ograniczenia w ruchu lotniczym, niezbędne ze względu na:`
@@ -3448,6 +3452,8 @@ Oznacza to, że:`
 * STD
 * QFE
 * ciśnienie na powierzchni terenu, nad którym przelatuje
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL010-0591
 `Strefa identyfikacji obrony powietrznej (ADIZ) jest to przestrzeń powietrzna, która rozciąga się wzdłuż granicy państwowej w głąb kraju do odległości:`
@@ -3703,12 +3709,16 @@ Oznacza to, że:`
 * wysokość, na której pilot przestawia wysokościomierz ze STD na QNH
 * wysokość, powyżej której wszystkich obowiązuje nastawienie wysokościomierzy
 
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
+
 ## Pytanie PL010-0638
 `Wysokość przejściowa w FIR EPWW w przestrzeni klasy G została ustalona na 6500 ft (2000 m) AMSL. Wysokość ta jest to:`
 * **wysokość, na i poniżej której pozycja statku powietrznego w płaszczyźnie pionowej określana jest jako wysokość bezwzględna**
 * wysokość bezwzględna, na której pilot przestawia wysokościomierz ze STD na QNH
 * wysokość względna, na której pilot przestawia wysokościomierz z QNH na STD
 * wysokość, powyżej której wszystkich obowiązuje nastawienie wysokościomierzy na STD
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL010-0639
 `Z jakich części składa się szkolenie lotnicze do uzyskania licencji lub uprawnienia lotniczego?`
@@ -5593,6 +5603,8 @@ pozycyjnych i reflektora**
 * Odczytujemy wysokość z wysokościomierza nastawionego na 1013.2hPa, a następnie korygujemy ją, ze względu odczytaną temperaturę otoczenia.
 * Odczytujemy wysokość z wysokościomierza nastawionego na aktualne QNH, a następnie skorygujemyją ze względu odczytaną temperaturę otoczenia.
 * Zawsze odczytując wysokość wskazywaną przez wysokościomierz nastawiony na aktualne QNH.
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL030-0027
 `„Wpływ ziemi” pozwala na:.`
@@ -9608,6 +9620,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * wysokość względną
 * poziom lotu
 
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
+
 ## Pytanie PL060-0027
 `Jeżeli deklinacja magnetyczna i dewiacja busoli jest dodatnia [ΔM>0 i ΔB>0], to kurs busoli jest:`
 * **mniejszy od kursu geograficznego**
@@ -9805,6 +9819,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * QFE
 * QDM
 
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
+
 ## Pytanie PL060-0064
 `NKDG = 259°, NKDM = 255°, ΔB = +2°. Wartości ΔM i KB wynoszą odpowiednio:`
 * **4°E, 253°**
@@ -9930,6 +9946,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowej
 * ciśnienie standard
 * fabryczna nastawa wysokościomierza
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL060-0083
 `Równik ziemski to:`
@@ -10070,6 +10088,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * QFE
 * QNH
 * QDM
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL060-0111
 `Ciśnienie standardowe wyrażone w calach słupa rtęci wynosi:`
@@ -10220,6 +10240,8 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * 1680 ft
 * -320 ft
 * 680 ft
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL060-0149
 `Model Ziemi dla systemu GPS to:`
@@ -11539,12 +11561,16 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * Wysokość wskazywana radiowysokościomierzem.
 * Wysokość elewacji lotniska.
 
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
+
 ## Pytanie PL080-0028
 `Co to jest wysokość ciśnieniowa nad poziomem morza?  .`
 * **Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH**
 * Wysokość elewacji lotniska.
 * Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie lotniska QFE
 * Wysokość wskazywana radiowysokościomierzem.
+
+> Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
 
 ## Pytanie PL080-0029
 `Co to jest wysokość gęstościowa?`
