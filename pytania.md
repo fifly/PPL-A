@@ -9433,7 +9433,7 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * STD
 
 > **QFE** - ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowe.
-> **QNH** - ciśnienie atmosferyczne panujące na średnim poziomie morza.
+> **QNH** - ciśnienie atmosferyczne panujące na średnim poziomie morza. **Wysokosciomierz wskazuje wtedy wysokość bezwzględną**
 > **QNE** - standardowe ciśnienie atmosferyczne.
 > 
 > **QFE** to ciśnienie lokalne. Możemy z niego skorzystać wykonując kręgi nad lotniskiem. Wystarczy stojąc na lotnisku przestawić pokrętło ciśnienia na wysokościomierzu tak, aby pokazywana wysokość wynosiła 0. Wówczas w okienku ciśnienia (na rys. 1. w niebieskich ramkach) pokaże się aktualne lokalne ciśnienie. Oczywiście ciśnienie to można także pobrać z prognozy pogody. Zastosowanie QFE jest ograniczone. Nie byłoby bezpiecznie latać z tym ciśnieniem na dłuższe trasy, bowiem wszystkie mapy pokazują wysokości terenu nad poziomem morza, a nie nad lotniskiem, z którego wystartowaliśmy. Łatwo byłoby o pomyłę.
