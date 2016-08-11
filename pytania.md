@@ -9644,6 +9644,13 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 * równy kursowi magnetycznemu
 * równy kursowi geograficznemu
 
+> ![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png)
+> 
+> Z racji że deklinacja i dewiacja są dodatnie to busola będzie wskazywała bardziej na wschód ("zwiększy wartość"). Żeby poruszać się prawidłowym kursem geograficznym musimy ustawić kurs na busoli:
+> ```
+> Kurs magnetyczny - ΔM - ΔB
+> ```
+
 ## Pytanie PL060-0028
 `Jeżeli deklinacja magnetyczna i dewiacja busoli jest ujemna [ΔM<0 i ΔB<0], to kurs busoli jest:`
 * **większy od kursu geograficznego**
