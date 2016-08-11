@@ -9459,6 +9459,17 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku
 * linia łącząca punkty o jednakowej wartości inklinacji
 
+> **Deklinacja magnetyczna** – kąt poziomy w danym miejscu na powierzchni Ziemi pomiędzy południkiem magnetycznym i geograficznym. Kąt ten podaje się jako wartość ze znakiem, zgodnie ze sposobem liczenia azymutu: odchylenie kierunku północy magnetycznej od kierunku północy geograficznej ku wschodowi jako kąt dodatni, odchylenie ku zachodowi jako kąt ujemny.
+> 
+> Wartość deklinacji magnetycznej jest jednym ze składników poprawki kompasu, wielkości uwzględnianej przy pomiarach kompasem magnetycznym.
+> 
+> Deklinacja wywołana jest nie tylko położeniem bieguna magnetycznego Ziemi w innym miejscu niż biegun geograficzny, ale także lokalnymi warunkami magnetycznymi, jak np. położeniem niektórych rodzajów rud żelaza. Deklinacja magnetyczna jest parametrem zmiennym nie tylko ze względu na miejsce pomiaru, ale także jest zmienna w czasie z powodu stałego przemieszczania się magnetycznego bieguna Ziemi.
+Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapach geograficznych (głównie nawigacyjnych).
+> 
+> [!https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png]
+> 
+> https://pl.wikipedia.org/wiki/Deklinacja_magnetyczna
+
 ## Pytanie PL060-0004
 `Dewiacja busoli to:`
 * **kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku**
