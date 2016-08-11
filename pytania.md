@@ -9469,6 +9469,10 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 > ![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Magnetic_declination.svg/365px-Magnetic_declination.svg.png)
 > 
 > https://pl.wikipedia.org/wiki/Deklinacja_magnetyczna
+> 
+> ![http://lh3.googleusercontent.com/-Wtz5ubUXGCQ/UJpsfn7SfqI/AAAAAAAABlk/YthmVk8zaDM/s351/Earth_Magnetic_Field_Declination_from_1590_to_1990.gif](http://lh3.googleusercontent.com/-Wtz5ubUXGCQ/UJpsfn7SfqI/AAAAAAAABlk/YthmVk8zaDM/s351/Earth_Magnetic_Field_Declination_from_1590_to_1990.gif)
+> 
+> http://calypteaviation.com/2012/11/deklinacja-magnetyczna/
 
 ## Pytanie PL060-0004
 `Dewiacja busoli to:`
