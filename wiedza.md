@@ -11,6 +11,9 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
   * Ustawa **Prawo lotnicze** i akty wykonawcze
   * Ustawa o PAŻP i akty
 * Dzienniki Urzędowe ULC
+* 
+## Briefing
+* http://calypteaviation.com/2014/10/briefing-gdzie-szukac-map-i-procedur-przed-lotem/
 
 ## AIS - Publikacje Służby Informacji Lotniczej  [Aeronautical Information Service]
 * AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication)
