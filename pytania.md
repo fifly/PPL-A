@@ -9420,6 +9420,26 @@ Trening desensytyzacyjny jest najodpowiedniejszą metodą zapobiegania lotniczej
 * QNH
 * STD
 
+> **QFE** - ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowe.
+> **QNH** - ciśnienie atmosferyczne panujące na średnim poziomie morza.
+> **QNE** - standardowe ciśnienie atmosferyczne.
+> 
+> **QFE** to ciśnienie lokalne. Możemy z niego skorzystać wykonując kręgi nad lotniskiem. Wystarczy stojąc na lotnisku przestawić pokrętło ciśnienia na wysokościomierzu tak, aby pokazywana wysokość wynosiła 0. Wówczas w okienku ciśnienia (na rys. 1. w niebieskich ramkach) pokaże się aktualne lokalne ciśnienie. Oczywiście ciśnienie to można także pobrać z prognozy pogody. Zastosowanie QFE jest ograniczone. Nie byłoby bezpiecznie latać z tym ciśnieniem na dłuższe trasy, bowiem wszystkie mapy pokazują wysokości terenu nad poziomem morza, a nie nad lotniskiem, z którego wystartowaliśmy. Łatwo byłoby o pomyłę.
+> 
+> **QNH** to ciśnienie lokalne, ale sprowadzone do poziomu morza. Ponieważ ciśnienie zmienia się wraz z wysokością w sposób wględnie stały (1 hPa na 30 ft, na dużych wysokościach nieco mniej), możliwe jest takie przeliczenie QFE, aby odnosiło się do poziomu morza. Znająć wysokość lotniska AMSL (above mean sea level - nad poziomem morza), możemy tak ustawić wysokościomierz, aby pokazywał wysokość lotniska, a wówczas w okienku ciśnienia odczytamy lokalne QNH. Znowu - możemy w tym celu skorzystać także z prognozy pogody. Używanie QNH pozwala nam łatwiej określić wysokość przeszkód (gór, masztów) w stosunku do naszej wysokości przelotowej.
+> 
+> Trzeba jednak pamiętać, ze ciśnienie lokalne zmienia się. Na każdym lotnisku może być inne. Gdy przechodzą fronty pogodowe, różnice te mogą być bardzo duże. Na małych wysokościach istotne jest, aby ominąć przeszkody terenowe. Jednak na większych nie ma ryzyka zderzenia z przeszkodami - tam priorytetem jest zapewnienie separacji pomiędzy samolotami. Dlatego na dużych wysokościach stosujemy standardowe ustawienie ciśnienia, które jest niezależne od ciśnienia lokalnego.
+> 
+> **QNE** to ciśnienie standardowe, które wynosi 1013,25hPa (inaczej mierzone: 29,92inHg lub 760mmHg). Jeśli wszystkie samoloty mają ustawione QNE, to można określić różnicę wysokości pomiędzy nimi. Trzeba jednak podkreślić, że wówczas wskazania wysokościomierza mogą być błędne. Tyle, że w każdym samolocie ten błąd będzie taki sam. Mając ustawione QNE nie możemy określić swojej rzeczywistej wysokości nad poziomem morza. Dlatego mówimy wówczas o poziomach lotu (FL - flight level lub krócej F - używane w planach lotu).
+> 
+> ![http://starx.uek.krakow.pl/csb/download/upload/QNH3.png](http://starx.uek.krakow.pl/csb/download/upload/QNH3.png)
+> 
+> ![http://starx.uek.krakow.pl/csb/download/upload/QNH2.png](http://starx.uek.krakow.pl/csb/download/upload/QNH2.png)
+> 
+> ![http://starx.uek.krakow.pl/csb/download/upload/QNH1.png](http://starx.uek.krakow.pl/csb/download/upload/QNH1.png)
+> 
+> Źródło: http://www.cassubian.pl/portal/content/cisnienie-atmosferyczne-i-qne-qnh-qfe
+
 ## Pytanie PL060-0003
 `Deklinacja to:`
 * **kąt zawarty między południkiem geograficznym a południkiem magnetycznym**
