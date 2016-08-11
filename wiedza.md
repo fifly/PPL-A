@@ -15,6 +15,9 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 ## Briefing
 * http://calypteaviation.com/2014/10/briefing-gdzie-szukac-map-i-procedur-przed-lotem/
 
+## Nawigacja
+* http://www.navipedia.pl/navi05.html
+
 ## AIS - Publikacje Służby Informacji Lotniczej  [Aeronautical Information Service]
 * AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication)
   * http://www.ais.pata.pl/aip (dostęp po darmowej rejestracji)
