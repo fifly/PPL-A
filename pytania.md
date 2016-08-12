@@ -10262,12 +10262,16 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 * KKR
 * QFE
 
+> Patrz: [Pytanie PL060-0134](#pytanie-pl060-0134)
+
 ## Pytanie PL060-0137
 `Kąt zawarty między północnym kierunkiem południka magnetycznego przechodzącego przez samolot a kierunkiem do radiolatarni bezkierunkowej to:`
 * **QDM**
 * QDR
 * Radial
 * QFE
+
+> Patrz: [Pytanie PL060-0134](#pytanie-pl060-0134)
 
 ## Pytanie PL060-0139
 `Liczba Macha to stosunek:`
