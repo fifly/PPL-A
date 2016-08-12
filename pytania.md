@@ -10150,12 +10150,29 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 * wskazuje zakręt w kierunku południowym
 * zwalnia wskazywaną prędkość zakrętu
 
+> Błąd kierunków wschodnich i zachodnich. Podczas lotu na kierunkach wschodnich i zachodnich igła magnetyczna jest ustawiona poprzecznie do podłużnej osi szybowca. Przy zmianach prędkości następują odchylenia od południka, ponieważ południowy koniec igły magnetycznej, z racji umieszczonego na nim ciężarka, ma większą bezwładność niż koniec północny. Powoduje to następujące błędy wskazań busoli: 
+> 
+> 1. podczas lotu z kursem wschodnim:
+>   * przyrost prędkości powoduje zmniejszenie kursu,
+>   * spadek prędkości powoduje zwiększenie kursu,
+> 2. podczas lotu z kursem zachodnim:
+>   * przyrost prędkości powoduje zwiększenie kursu,
+>   * spadek prędkości powoduje zmniejszenie kursu.
+> 
+> Po ustaleniu nowych prędkości busola powraca do poprzednich wskazań, jeśli kierunek lotu został zachowany. 
+> 
+> **Uwaga**. Charakterystyka lotniczej busoli magnetycznej i jej błędy powodują, że wskazania busoli są miarodajne jedynie w locie z ustaloną prędkością. 
+> 
+> Źrodło: http://aeroklub.jaroslaw.pl/public/download/ksiazki/szkolenie_szybowcowe_Nawigacja.pdf
+
 ## Pytanie PL060-0119
 `Gdy samolot leci na półkuli północnej z kursem zachodnim i przyspiesza to powstający błąd przyspieszeniowy powoduje, że busola:`
 * **wskazuje zakręt w kierunku północy**
 * wskazuje kurs 270
 * wskazuje zakręt w kierunku południowym
 * zwalnia wskazywaną prędkość zakrętu
+
+> Patrz: [Pytanie PL060-0118](#pytanie-pl060-0118)
 
 ## Pytanie PL060-0120
 `Głównym powodem, dla którego odległościowy detektor pola magnetycznego dla busoli magnetycznej montuje się na końcówce skrzydła samolotu, jest:`
