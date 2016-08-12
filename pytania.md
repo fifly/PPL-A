@@ -10237,6 +10237,17 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 * QDM
 * QFE
 
+> * KM - Kurs magnetyczny, czyli kąt między południkiem magnetycznym a osią samolotu.
+> * KKR - Kąt kursowy radiolatarni
+> * QDM - Radionamiar na radiolatarnię (magnetic heading), czyli kąt między południkiem magnetycznym samolotu a kierunkiem rzeczywistym na radiolatarnię (tzw. kurs do mamy).
+> * QDR - Radial czyli kąt między południkiem magnetycznym samolotu a kierunkiem rzeczywistym od radiolatarni (magnetic bearing).
+> * delta R - Radiodewiacja.
+> * ORK - Odczyt radiokompasu.
+> 
+> Należy zaznaczyć, że QDM może być traktowany jako kurs magnetyczny do radiolatarni bez uwzględnienia wiatru.
+> 
+> Źródło: http://heading.pata.pl/ndb2.htm
+
 ## Pytanie PL060-0135
 `Kąt zawarty między osią podłużną statku powietrznego a nakazaną linią drogi to:`
 * **kąt znoszenia**
