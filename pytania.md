@@ -10699,6 +10699,15 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 * 64
 * 48
 
+> **Uwaga:** Deklinacja 8 stopni W oznacza deklinację zachodnią, czyli deklinacja magnetyczna = -8°
+> KG (kurs geogr.) = KM (kurs magn.) + deklinacja magnetyczna, stąd
+> KG = 060° - 8° = 052°
+> 
+> RKDM (rzeczywisty kąt drogi magnetycznej) = KM (kurs magn.) + KZ (kąt znoszenia)
+> 227 RKDM = KM + KZ = 052° + 4° = 056°
+> 
+> Źrodło: http://old.szybowce.com/lke/ppl/ppl_nawigacja_odp.pdf - z tą odpowiedzią się zgadzam.
+
 ## Pytanie PL060-0243
 `System GPS działa w paśmie ... na zasadzie ... .`
 * **UHF, pomiaru o opóźnienia odbioru sygnału (odległości) na drodze odbiornik - satelity.**
@@ -10868,6 +10877,12 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 * 18 NM
 * 60 NM
 * 13 NM
+
+> ```
+> Róznica wysokości: 6000 ft - potrzebujemy 10 minut (1000 ft/min)
+> Przez 10 minut pokonamy 18 NM (180 kt = 180 NM/h co przy 10 minutach daje 18 NM)
+> Aby zakończyć zniżanie 6NM przed VOR/DME musimy rozpocząć zniżanie w odległości: 18 NM + 6 NM = 24 NM
+> ```
 
 ## Pytanie PL060-0275
 `Źródłem czasu w systemie GPS są:`
