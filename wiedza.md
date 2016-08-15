@@ -14,7 +14,8 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 
 ## Briefing
 * http://calypteaviation.com/2014/10/briefing-gdzie-szukac-map-i-procedur-przed-lotem/
-* Strefy, punkty, mapy (między innymi stefy oznaczone na mapach Google) - http://www.atmavio.pl/pliki-do-pobrania/
+* http://www.atmavio.pl/pliki-do-pobrania/ - Strefy, punkty, mapy (między innymi stefy oznaczone na mapach Google)
+
 ## Nawigacja
 * http://www.navipedia.pl/navi05.html
 
