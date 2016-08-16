@@ -18,6 +18,7 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 
 ## Nawigacja
 * http://www.navipedia.pl/navi05.html
+* http://3dairspace.org.uk/airspace.html - Przestrzenie powietrzne 3D w Google Maps (wiele krajów, w tym Polska)
 
 ## AIS - Publikacje Służby Informacji Lotniczej  [Aeronautical Information Service]
 * AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication)
