@@ -3719,6 +3719,9 @@ Oznacza to, że:`
 * wysokość, powyżej której wszystkich obowiązuje nastawienie wysokościomierzy na STD
 
 > Patrz [Pytanie PL060-0002](#pytanie-pl060-0002)
+> 
+> Procedury nastawiania wysokosciomierza - poniżej i powyżej wysokości bezwzględnej 6500 ft obowiązuje nastawienie wysokościomierza na QNH.
+> * http://www.ais.pansa.pl/vfr/aippliki/EP_ENR_1_4_en.pdf
 
 ## Pytanie PL010-0639
 `Z jakich części składa się szkolenie lotnicze do uzyskania licencji lub uprawnienia lotniczego?`
