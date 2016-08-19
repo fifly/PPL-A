@@ -2973,13 +2973,13 @@ Oznacza to, że:`
 
 ## Pytanie PL010-0523
 `Loty nocne VFR mogą być wykonywane z prędkościami nie większymi niż:`
-* **300 km/h TAS**
+* **250 kt IAS**
+* 300 km/h TAS
 * 463 km/h TAS
 * 300 km/h IAS
-* 250 kt IAS
 
+> Przed zmianą przepisów poprawną odpowiedzią na to pytanie było **300 km/h TAS**
 > Dyskusja: [PL010-0523 - Prędkość lotów nocnych VFR #2](https://github.com/fifly/PPL-A/issues/2)
-> Poprawna wydaje się odpowiedź **250 kt IAS**
 
 ## Pytanie PL010-0524
 `Loty nocne VFR mogą być wykonywane:`
