@@ -13343,6 +13343,9 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * maleje
 * zmienia się i można go odczytać wykreślając biegunową szybowca
 
+> Według mnie **maleje**
+> * https://github.com/fifly/PPL-A/issues/4
+
 ## Pytanie PL080-0307
 `Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: α=αCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:`
 * **stosunek (Cz)/Cx wzrośnie**
