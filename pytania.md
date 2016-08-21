@@ -10248,6 +10248,8 @@ Deklinacja magnetyczna jest nanoszona na mapach magnetycznych i niektórych mapa
 > * ORK - Odczyt radiokompasu.
 > 
 > Należy zaznaczyć, że QDM może być traktowany jako kurs magnetyczny do radiolatarni bez uwzględnienia wiatru.
+>
+> [!http://heading.pata.pl/images/wskndb2.gif]
 > 
 > Źródło: http://heading.pata.pl/ndb2.htm
 
