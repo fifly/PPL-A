@@ -12706,6 +12706,10 @@ Są to drgania wymuszone. Można zapobiegać robiąć staranne przejścia skrzyd
 * środek profilu
 * środek geometryczny
 
+> **Środek aerodynamiczny** - punkt na profilu lotniczym, dla którego moment aerodynamiczny pozostaje stały względem zmian kąta natarcia.
+>
+> Źródło: https://pl.wikipedia.org/wiki/%C5%9Arodek_aerodynamiczny
+
 ## Pytanie PL080-0193
 `Różnica przyrostów sił oporu powstałych w wyniku wychylenia lotek o ten sam kąt, ale w przeciwne strony powoduje powstanie:`
 * **niekorzystnego momentu odchylającego**
