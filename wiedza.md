@@ -20,6 +20,9 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 * http://www.navipedia.pl/navi05.html
 * http://3dairspace.org.uk/airspace.html - Przestrzenie powietrzne 3D w Google Maps (wiele krajów, w tym Polska)
 
+## Radio
+* NATO Phonetic Alphabet for Radio Communications - https://www.youtube.com/watch?v=HfM4CMSr0TM
+
 ## AIS - Publikacje Służby Informacji Lotniczej  [Aeronautical Information Service]
 * AIP - Zbiór Informacji Lotniczych (Aeronautical Information Publication)
   * http://www.ais.pata.pl/aip (dostęp po darmowej rejestracji)
