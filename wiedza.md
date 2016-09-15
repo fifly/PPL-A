@@ -18,6 +18,8 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 * **AUP**: http://www.amc.pansa.pl/?menu_lewe=aup&opis=amc_aup&lang=_pl
 * **AUP Map**: http://www.amc.pansa.pl/?menu_lewe=mapy&lang=_pl
 * **AUP Google Earth/Maps**: http://www.atmavio.pl/pliki-do-pobrania/
+* **LECIMY.ORG**: http://lecimy.org
+
 
 * http://calypteaviation.com/2014/10/briefing-gdzie-szukac-map-i-procedur-przed-lotem/
 
