@@ -13,8 +13,13 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 * Dzienniki Urzędowe ULC
 
 ## Briefing
+* **NOTAMs**: https://www.notams.faa.gov/dinsQueryWeb/
+* **METEO**: http://awiacja.imgw.pl/
+* **AUP**: http://www.amc.pansa.pl/?menu_lewe=aup&opis=amc_aup&lang=_pl
+* **AUP Map**: http://www.amc.pansa.pl/?menu_lewe=mapy&lang=_pl
+* **AUP Google Earth/Maps**: http://www.atmavio.pl/pliki-do-pobrania/
+
 * http://calypteaviation.com/2014/10/briefing-gdzie-szukac-map-i-procedur-przed-lotem/
-* http://www.atmavio.pl/pliki-do-pobrania/ - Strefy, punkty, mapy (między innymi stefy oznaczone na mapach Google)
 
 ## Nawigacja
 * http://www.navipedia.pl/navi05.html
