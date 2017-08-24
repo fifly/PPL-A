@@ -14,7 +14,10 @@ Na stronie ULC: http://www.ulc.gov.pl/pl/prawo znajdziemy między innymi:
 
 ## Briefing
 * **NOTAMs**: https://www.notams.faa.gov/dinsQueryWeb/
-* **METEO**: http://awiacja.imgw.pl/
+* **METEO**: 
+* * http://awiacja.imgw.pl/
+* * http://www.windy.com
+* * Historyczne METARy: https://www.ogimet.com/metars.phtml.en
 * **AUP**: http://www.amc.pansa.pl/?menu_lewe=aup&opis=amc_aup&lang=_pl
 * **AUP Map**: http://www.amc.pansa.pl/?menu_lewe=mapy&lang=_pl
 * **AUP Google Earth/Maps**: http://www.atmavio.pl/pliki-do-pobrania/
